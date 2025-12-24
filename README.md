@@ -1,4 +1,4 @@
-# Awesome Cubbbix Tools 🚀
+# Cubbbix Tools 🚀
 
 A curated list of free online tools from *Cubbbix* — useful for developers, creators, students, and everyday digital needs.
 
