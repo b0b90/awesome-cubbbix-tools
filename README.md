@@ -52,7 +52,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Meme Generator](https://cubbbix.com/meme-generator/)  
 - [Random Movie Picker](https://cubbbix.com/random-movie-picker/)  
 - [Trivia Quiz](https://cubbbix.com/trivia-quiz/)  
-- [Yes / No Generator](https://cubbbix.com/yes-no-generator/)  
+- [Yes / No Generator](https://cubbbix.com/yes-no-generator/)
+- [Regex Tester](https://cubbbix.com/regex-tester/)
 
 ---
 
