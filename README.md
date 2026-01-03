@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-42-blue)
+![Tools Count](https://img.shields.io/badge/Tools-45-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -30,7 +30,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Age Calculator](https://cubbbix.com/age-calculator/) — Calculate exact age in years, months, and days  
 - [Aspect Ratio Calculator](https://cubbbix.com/aspect-ratio-calculator/) — Maintain image and video ratios  
 - [CPM Calculator](https://cubbbix.com/cpm-calculator/) — Cost per thousand impressions  
-- [Engagement Rate Calculator](https://cubbbix.com/engagement-rate-calculator/) — Measure social media engagement  
+- [Engagement Rate Calculator](https://cubbbix.com/social-media-engagement-calculator/) — Measure social media engagement  
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
 - [Time Zone Difference Calculator](https://cubbbix.com/time-zone-calculator/) — Compare global time zones  
 - [Zakat Calculator](https://cubbbix.com/zakat-calculator/) — Calculate Islamic Zakat easily
@@ -41,9 +41,11 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Developer Tools
 - [Base64 Encoder & Decoder](https://cubbbix.com/base64-encoder-decoder/) — Encode and decode data to Base64 format
 - [Case Converter](https://cubbbix.com/case-converter/) — Convert text between different cases (camelCase, snake_case, etc.)
+- [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
+- [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
 - [JSON to TOON Encoder](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOON format
 - [Lorem Ipsum Generator](https://cubbbix.com/lorem-ipsum-generator/) — Generate placeholder text for designs
-- [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
+- [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
 - [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
 - [Word Counter](https://cubbbix.com/word-counter/) — Count words, characters, and sentences
 
@@ -52,10 +54,9 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Entertainment Tools
 - [Christmas Countdown](https://cubbbix.com/christmas-countdown/) — Countdown to Christmas day
 - [Meme Generator](https://cubbbix.com/meme-generator/) — Create custom memes easily
-- [Random Movie Picker](https://cubbbix.com/random-movie-picker/) — Get random movie recommendations
+- [Random Movie Picker](https://cubbbix.com/movie-picker/) — Get random movie recommendations
 - [Trivia Quiz](https://cubbbix.com/trivia-quiz/) — Test your knowledge with trivia questions
 - [Yes / No Generator](https://cubbbix.com/yes-no-generator/) — Randomly generate Yes or No answers
-- [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
 
 ---
 
@@ -71,25 +72,30 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Utilities
+- [Atomic Number Calculator](https://cubbbix.com/atomic-number-calculator/) — Find atomic number, protons, and mass of any element
 - [Color Converter & Picker](https://cubbbix.com/color-converter/) — Convert between HEX, RGB, HSL, and CMYK
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
+- [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
 - [PNG Optimizer](https://cubbbix.com/png-optimizer/) — Compress PNG images without losing quality
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
-- [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon-generator/) — Convert SVG icons to favicons
-- [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
+- [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon/) — Convert SVG icons to favicons
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
+- [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
 
 ---
 
 ## SEO
+- [Compression Checker](https://cubbbix.com/compression-checker/) — Verify Gzip and Brotli compression
+- [H1 Tag Checker](https://cubbbix.com/h1-tag-checker/) — Check your H1 tag for SEO compliance
+- [HTTP Status Code Checker](https://cubbbix.com/http-status-checker/) — Check status codes and redirect chains
 - [Meta Description Generator](https://cubbbix.com/meta-description-generator/) — Generate SEO-friendly meta descriptions using AI
 - [Noindex Checker](https://cubbbix.com/noindex-checker/) — Check if a URL is indexable by search engines
-- [HTTP Status Code Checker](https://cubbbix.com/http-status-checker/) — Check status codes and redirect chains
-- [Compression Checker](https://cubbbix.com/compression-checker/) — Verify Gzip and Brotli compression
-- [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
+- [On-Page SEO Checker](https://cubbbix.com/onpage-seo-check/) — Get a free on-page SEO audit
 - [Open Graph Checker](https://cubbbix.com/open-graph-checker/) — Preview how your content looks on social media
 - [Page Title Generator](https://cubbbix.com/page-title-generator/) — Generate high-CTR page titles using AI
+- [Structured Data Checker](https://cubbbix.com/structured-data-check/) — Validate JSON-LD and Microdata schema markup
+- [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
 
 ---
 
