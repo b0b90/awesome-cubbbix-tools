@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-50-blue)
+![Tools Count](https://img.shields.io/badge/Tools-52-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -16,6 +16,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Table of Contents
 - [Calculators](#calculators)
 - [Developer Tools](#developer-tools)
+- [Education Tools](#education-tools)
 - [Entertainment Tools](#entertainment-tools)
 - [Finance Tools](#finance-tools)
 - [Math Tools](#math-tools)
@@ -49,6 +50,11 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
 - [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
 - [Word Counter](https://cubbbix.com/word-counter/) — Count words, characters, and sentences
+
+---
+
+## Education Tools
+- [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
 
 ---
 
@@ -98,6 +104,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Open Graph Checker](https://cubbbix.com/open-graph-checker/) — Preview how your content looks on social media
 - [Page Title Generator](https://cubbbix.com/page-title-generator/) — Generate high-CTR page titles using AI
 - [Structured Data Checker](https://cubbbix.com/structured-data-check/) — Validate JSON-LD and Microdata schema markup
+- [Broken Link Checker](https://cubbbix.com/broken-link-checker/) — Find and fix broken links (404s) on your website
 
 ---
 
