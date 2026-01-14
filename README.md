@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-60-blue)
+![Tools Count](https://img.shields.io/badge/Tools-61-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -33,6 +33,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [CPM Calculator](https://cubbbix.com/cpm-calculator/) — Cost per thousand impressions  
 - [Engagement Rate Calculator](https://cubbbix.com/social-media-engagement-calculator/) — Measure social media engagement  
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
+- [Salary to Hourly Calculator](https://cubbbix.com/salary-to-hourly/) — Convert annual salary to hourly wage and vice versa
 - [Time Zone Difference Calculator](https://cubbbix.com/time-zone-calculator/) — Compare global time zones  
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
 - [Zakat Calculator](https://cubbbix.com/zakat-calculator/) — Calculate Islamic Zakat easily
