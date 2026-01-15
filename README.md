@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-61-blue)
+![Tools Count](https://img.shields.io/badge/Tools-63-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -45,6 +45,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Base64 Encoder & Decoder](https://cubbbix.com/base64-encoder-decoder/) — Encode and decode data to Base64 format
 - [Case Converter](https://cubbbix.com/case-converter/) — Convert text between different cases (camelCase, snake_case, etc.)
 - [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
+- [Crontab Generator](https://cubbbix.com/crontab-generator/) — Visual cron schedule editor for creating crontab syntax
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
 - [JSON to TOON Encoder](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOON format
 - [Lorem Ipsum Generator](https://cubbbix.com/lorem-ipsum-generator/) — Generate placeholder text for designs
