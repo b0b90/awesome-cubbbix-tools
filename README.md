@@ -31,13 +31,13 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Age Calculator](https://cubbbix.com/age-calculator/) — Calculate exact age in years, months, and days  
 - [Aspect Ratio Calculator](https://cubbbix.com/aspect-ratio-calculator/) — Maintain image and video ratios  
 - [CPM Calculator](https://cubbbix.com/cpm-calculator/) — Cost per thousand impressions  
+- [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 - [Engagement Rate Calculator](https://cubbbix.com/social-media-engagement-calculator/) — Measure social media engagement  
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
 - [Salary to Hourly Calculator](https://cubbbix.com/salary-to-hourly/) — Convert annual salary to hourly wage and vice versa
 - [Time Zone Difference Calculator](https://cubbbix.com/time-zone-calculator/) — Compare global time zones  
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
 - [Zakat Calculator](https://cubbbix.com/zakat-calculator/) — Calculate Islamic Zakat easily
-- [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 
 ---
 
@@ -107,6 +107,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## SEO
+- [Broken Link Checker](https://cubbbix.com/broken-link-checker/) — Find and fix broken links (404s) on your website
 - [Compression Checker](https://cubbbix.com/compression-checker/) — Verify Gzip and Brotli compression
 - [H1 Tag Checker](https://cubbbix.com/h1-tag-checker/) — Check your H1 tag for SEO compliance
 - [HTTP Status Code Checker](https://cubbbix.com/http-status-checker/) — Check status codes and redirect chains
@@ -118,7 +119,6 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Structured Data Checker](https://cubbbix.com/structured-data-check/) — Validate JSON-LD and Microdata schema markup
 - [SSL/TLS Certificate Checker](https://cubbbix.com/ssl-checker/) — Check SSL certificate validity and security
 - [Viewport Meta Tag Checker](https://cubbbix.com/viewport-checker/) — Check viewport settings for mobile responsiveness
-- [Broken Link Checker](https://cubbbix.com/broken-link-checker/) — Find and fix broken links (404s) on your website
 
 ---
 
