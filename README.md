@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-68-blue)
+![Tools Count](https://img.shields.io/badge/Tools-69-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -109,6 +109,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
 - [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon/) — Convert SVG icons to favicons
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
+- [Webcam Test](https://cubbbix.com/webcam-test/) — Test your webcam and microphone online.
 - [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
 
 ---
