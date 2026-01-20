@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-71-blue)
+![Tools Count](https://img.shields.io/badge/Tools-75-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -33,6 +33,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Calculators
 - [Age Calculator](https://cubbbix.com/age-calculator/) — Calculate exact age in years, months, and days  
+- [BMI Calculator](https://cubbbix.com/bmi-calculator/) — Calculate your Body Mass Index and weight category
 - [Aspect Ratio Calculator](https://cubbbix.com/aspect-ratio-calculator/) — Maintain image and video ratios  
 - [CPM Calculator](https://cubbbix.com/cpm-calculator/) — Cost per thousand impressions  
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
@@ -50,12 +51,15 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Case Converter](https://cubbbix.com/case-converter/) — Convert text between different cases (camelCase, snake_case, etc.)
 - [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
 - [Crontab Generator](https://cubbbix.com/crontab-generator/) — Visual cron schedule editor for creating crontab syntax
+- [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
 - [JSON to TOON Encoder](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOON format
+- [JWT Decoder](https://cubbbix.com/jwt-decoder/) — Decode and inspect JSON Web Tokens instantly
 - [Lorem Ipsum Generator](https://cubbbix.com/lorem-ipsum-generator/) — Generate placeholder text for designs
 - [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
 - [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
 - [Text Diff Checker](https://cubbbix.com/diff-checker/) — Compare two texts to find differences instantly
+- [Timestamp Converter](https://cubbbix.com/timestamp-converter/) — Convert Unix timestamps to human dates and vice versa
 - [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
 - [UUID Generator](https://cubbbix.com/uuid-generator/) — Generate standard UUIDs (v1 and v4) instantly
 - [Word Counter](https://cubbbix.com/word-counter/) — Count words, characters, and sentences
