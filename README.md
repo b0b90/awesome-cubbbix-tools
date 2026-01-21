@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-76-blue)
+![Tools Count](https://img.shields.io/badge/Tools-80-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -70,6 +70,10 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Reaction Time Tester](https://cubbbix.com/reaction-time-test/) — Test your visual reflexes and reaction speed
 - [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
 - [English Assessment Test](https://cubbbix.com/quiz/) — Adaptive English proficiency test with official PDF certificate (CEFR)
+- [Spanish Assessment Test](https://cubbbix.com/spanish-quiz/) — Adaptive Spanish proficiency test with official PDF certificate (CEFR)
+- [French Assessment Test](https://cubbbix.com/french-quiz/) — Adaptive French proficiency test with official PDF certificate (CEFR)
+- [German Assessment Test](https://cubbbix.com/german-quiz/) — Adaptive German proficiency test with official PDF certificate (CEFR)
+- [Gen Z Slang Dictionary Test](https://cubbbix.com/gen-z-slang-quiz/) — Viral "Vibe Check" test with authentic slang and rank certificates
 
 ---
 
