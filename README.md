@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-75-blue)
+![Tools Count](https://img.shields.io/badge/Tools-76-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -69,6 +69,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Education Tools
 - [Reaction Time Tester](https://cubbbix.com/reaction-time-test/) — Test your visual reflexes and reaction speed
 - [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
+- [English Assessment Test](https://cubbbix.com/quiz/) — Adaptive English proficiency test with official PDF certificate (CEFR)
 
 ---
 
