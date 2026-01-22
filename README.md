@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-80-blue)
+![Tools Count](https://img.shields.io/badge/Tools-81-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -58,7 +58,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Lorem Ipsum Generator](https://cubbbix.com/lorem-ipsum-generator/) — Generate placeholder text for designs
 - [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
 - [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
-- [Text Diff Checker](https://cubbbix.com/diff-checker/) — Compare two texts to find differences instantly
+- [Text Diff Checker](https://cubbbix.com/diff-checker/) — Compare two text files or code snippets to find the difference. Highlight added and removed lines.
+- [CSV to Markdown](https://cubbbix.com/csv-to-markdown/) — Convert CSV data to formatted Markdown tables. Supports custom alignment, file upload, and uses privacy-first processing.
 - [Timestamp Converter](https://cubbbix.com/timestamp-converter/) — Convert Unix timestamps to human dates and vice versa
 - [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
 - [UUID Generator](https://cubbbix.com/uuid-generator/) — Generate standard UUIDs (v1 and v4) instantly
