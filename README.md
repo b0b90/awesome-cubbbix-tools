@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-84-blue)
+![Tools Count](https://img.shields.io/badge/Tools-85-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -113,6 +113,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Color Converter & Picker](https://cubbbix.com/color-converter/) — Convert between HEX, RGB, HSL, and CMYK
 - [Email Permutator](https://cubbbix.com/email-permutator/) — Find email addresses by generating common name permutations
 - [Email Signature Generator](https://cubbbix.com/email-signature-generator/) — Create free professional email signatures
+- [Favicon Generator](https://cubbbix.com/favicon-generator/) — Generate perfect favicons for all browsers (SVG, PNG, ICO) and platforms
 - [Instagram Reel Downloader](https://cubbbix.com/instagram-reel-downloader/) — Download Instagram Reels without watermark
 - [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
