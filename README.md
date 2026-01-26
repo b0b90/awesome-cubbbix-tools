@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-86-blue)
+![Tools Count](https://img.shields.io/badge/Tools-87-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -112,6 +112,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Utilities
 - [Atomic Number Calculator](https://cubbbix.com/atomic-number-calculator/) — Find atomic number, protons, and mass of any element
 - [Color Converter & Picker](https://cubbbix.com/color-converter/) — Convert between HEX, RGB, HSL, and CMYK
+- [Country Flag Downloader](https://cubbbix.com/country-flag-downloader/) — Download high-quality flags in SVG, PNG, JPG, or WebP
 - [Email Permutator](https://cubbbix.com/email-permutator/) — Find email addresses by generating common name permutations
 - [Email Signature Generator](https://cubbbix.com/email-signature-generator/) — Create free professional email signatures
 - [Favicon Generator](https://cubbbix.com/favicon-generator/) — Generate perfect favicons for all browsers (SVG, PNG, ICO) and platforms
