@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-87-blue)
+![Tools Count](https://img.shields.io/badge/Tools-89-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -57,6 +57,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
 - [JSON to TOON Encoder](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOON format
 - [JWT Decoder](https://cubbbix.com/jwt-decoder/) — Decode and inspect JSON Web Tokens instantly
+- [LLM API Cost Calculator](https://cubbbix.com/llm-api-cost-calculator/) — Compare API costs for OpenAI, Anthropic & Google
 - [Lorem Ipsum Generator](https://cubbbix.com/lorem-ipsum-generator/) — Generate placeholder text for designs
 - [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
 - [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
@@ -133,6 +134,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## SEO
+- [Backlink Checker](https://cubbbix.com/backlink-checker/) — Verify if a website links back to you. Check anchor text, rel attributes
 - [Broken Link Checker](https://cubbbix.com/broken-link-checker/) — Find and fix broken links (404s) on your website
 - [Compression Checker](https://cubbbix.com/compression-checker/) — Verify Gzip and Brotli compression
 - [Google SERP Simulator](https://cubbbix.com/google-serp-simulator/) — Optimize snippets with pixel-perfect desktop & mobile previews
@@ -146,6 +148,13 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Structured Data Checker](https://cubbbix.com/structured-data-check/) — Validate JSON-LD and Microdata schema markup
 - [SSL/TLS Certificate Checker](https://cubbbix.com/ssl-checker/) — Check SSL certificate validity and security
 - [Viewport Meta Tag Checker](https://cubbbix.com/viewport-checker/) — Check viewport settings for mobile responsiveness
+
+---
+
+## Engineering Blog
+- [LLM API Costs & Token Economics](https://cubbbix.com/blog/llm-api-cost-guide/) — Definitive guide to pricing, token math, and batch API optimization
+- [Why Markdown is the Language of AI](https://cubbbix.com/blog/why-markdown-is-language-of-ai/) — Token efficiency and E-E-A-T structure
+- [Secure PDF to Markdown](https://cubbbix.com/blog/secure-pdf-to-markdown-guide/) — Client-side privacy and RAG pipelines
 
 ---
 
