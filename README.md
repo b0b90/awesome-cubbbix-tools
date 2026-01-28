@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-89-blue)
+![Tools Count](https://img.shields.io/badge/Tools-91-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -55,7 +55,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Developer Typing Test](https://cubbbix.com/developer-typing-test/) — Test your real coding speed (JS/Python/PHP) with syntax highlighting
 - [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
-- [JSON to TOON Encoder](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOON format
+- [JSON to TOML/YAML/XML Converter](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOML, YAML, or XML formats instantly
 - [JWT Decoder](https://cubbbix.com/jwt-decoder/) — Decode and inspect JSON Web Tokens instantly
 - [LLM API Cost Calculator](https://cubbbix.com/llm-api-cost-calculator/) — Compare API costs for OpenAI, Anthropic & Google
 - [Lorem Ipsum Generator](https://cubbbix.com/lorem-ipsum-generator/) — Generate placeholder text for designs
@@ -123,6 +123,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
 - [Compress PDF](https://cubbbix.com/pdf-compressor/) — Reduce PDF file size online without losing quality
 - [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
+- [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
 - [PNG Optimizer](https://cubbbix.com/png-optimizer/) — Compress PNG images without losing quality
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
@@ -130,11 +131,12 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
 - [Webcam Test](https://cubbbix.com/webcam-test/) — Test your webcam and microphone online.
 - [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
+- [RAID Calculator](https://cubbbix.com/raid-calculator/) — Calculate RAID usable space (RAID 0, 1, 5, 6, 10)
 
 ---
 
 ## SEO
-- [Backlink Checker](https://cubbbix.com/backlink-checker/) — Verify if a website links back to you. Check anchor text, rel attributes
+- [Backlink Checker](https://cubbbix.com/backlink-checker/) — Mini-Crawler that scans your partner's website to verify backlinks, anchor text, and rel attributes
 - [Broken Link Checker](https://cubbbix.com/broken-link-checker/) — Find and fix broken links (404s) on your website
 - [Compression Checker](https://cubbbix.com/compression-checker/) — Verify Gzip and Brotli compression
 - [Google SERP Simulator](https://cubbbix.com/google-serp-simulator/) — Optimize snippets with pixel-perfect desktop & mobile previews
