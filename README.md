@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-91-blue)
+![Tools Count](https://img.shields.io/badge/Tools-92-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -113,25 +113,26 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Utilities
 - [Atomic Number Calculator](https://cubbbix.com/atomic-number-calculator/) — Find atomic number, protons, and mass of any element
 - [Color Converter & Picker](https://cubbbix.com/color-converter/) — Convert between HEX, RGB, HSL, and CMYK
+- [Compress PDF](https://cubbbix.com/pdf-compressor/) — Reduce PDF file size online without losing quality
+- [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
 - [Country Flag Downloader](https://cubbbix.com/country-flag-downloader/) — Download high-quality flags in SVG, PNG, JPG, or WebP
 - [Email Permutator](https://cubbbix.com/email-permutator/) — Find email addresses by generating common name permutations
 - [Email Signature Generator](https://cubbbix.com/email-signature-generator/) — Create free professional email signatures
+- [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
 - [Favicon Generator](https://cubbbix.com/favicon-generator/) — Generate perfect favicons for all browsers (SVG, PNG, ICO) and platforms
+- [Instagram Font Generator](https://cubbbix.com/instagram-font-generator/) — Generate aesthetic fonts for Instagram bios and captions
 - [Instagram Reel Downloader](https://cubbbix.com/instagram-reel-downloader/) — Download Instagram Reels without watermark
 - [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
 - [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
-- [Compress PDF](https://cubbbix.com/pdf-compressor/) — Reduce PDF file size online without losing quality
-- [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
-- [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
 - [PNG Optimizer](https://cubbbix.com/png-optimizer/) — Compress PNG images without losing quality
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
+- [RAID Calculator](https://cubbbix.com/raid-calculator/) — Calculate RAID usable space (RAID 0, 1, 5, 6, 10)
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
 - [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon/) — Convert SVG icons to favicons
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
 - [Webcam Test](https://cubbbix.com/webcam-test/) — Test your webcam and microphone online.
 - [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
-- [RAID Calculator](https://cubbbix.com/raid-calculator/) — Calculate RAID usable space (RAID 0, 1, 5, 6, 10)
 
 ---
 
