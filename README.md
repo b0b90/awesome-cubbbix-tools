@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-92-blue)
+![Tools Count](https://img.shields.io/badge/Tools-93-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -84,6 +84,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Entertainment Tools
+- [Cat Name Generator](https://cubbbix.com/cat-name-generator/) — Find the purr-fect name for your feline friend
 - [Christmas Countdown](https://cubbbix.com/christmas-countdown/) — Countdown to Christmas day
 - [Fairy Name Generator](https://cubbbix.com/fairy-name-generator/) — Discover your magical fairy name
 - [Meme Generator](https://cubbbix.com/meme-generator/) — Create custom memes easily
