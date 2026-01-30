@@ -133,6 +133,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
 - [Webcam Test](https://cubbbix.com/webcam-test/) — Test your webcam and microphone online.
 - [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
+- [BulkPicTools](https://bulkpictools.com/) - Browser-based batch image processor (Compress/Crop/Convert). Privacy-first, no uploads.
 
 ---
 
