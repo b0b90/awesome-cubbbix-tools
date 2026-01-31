@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-93-blue)
+![Tools Count](https://img.shields.io/badge/Tools-94-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -44,6 +44,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Sleep Cycle Calculator](https://cubbbix.com/sleep-cycle-calculator/) — Calculate best wake up times based on sleep cycles
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
 - [Zakat Calculator](https://cubbbix.com/zakat-calculator/) — Calculate Islamic Zakat easily
+- [Cat Food Cost Calculator](https://cubbbix.com/cat-food-cost-calculator/) — Estimate daily, monthly, and yearly feeding costs for your cat based on calories
 
 ---
 
