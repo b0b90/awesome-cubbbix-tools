@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-94-blue)
+![Tools Count](https://img.shields.io/badge/Tools-96-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -44,12 +44,13 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Sleep Cycle Calculator](https://cubbbix.com/sleep-cycle-calculator/) — Calculate best wake up times based on sleep cycles
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
 - [Zakat Calculator](https://cubbbix.com/zakat-calculator/) — Calculate Islamic Zakat easily
-- [Cat Food Cost Calculator](https://cubbbix.com/cat-food-cost-calculator/) — Estimate daily, monthly, and yearly feeding costs for your cat based on calories
 
 ---
 
 ## Developer Tools
 - [Base64 Encoder & Decoder](https://cubbbix.com/base64-encoder-decoder/) — Encode and decode data to Base64 format
+- [Maaser Calculator](https://cubbbix.com/maaser-calculator/) — Calculate Jewish Ma'aser (10%) or Chomesh (20%) for Tzedakah.
+- [Chmod Calculator](https://cubbbix.com/chmod-calculator/) — Visual permissions generator for Linux/Unix files
 - [Case Converter](https://cubbbix.com/case-converter/) — Convert text between different cases (camelCase, snake_case, etc.)
 - [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
 - [Crontab Generator](https://cubbbix.com/crontab-generator/) — Visual cron schedule editor for creating crontab syntax
@@ -102,6 +103,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [SaaS LTV Calculator](https://cubbbix.com/ltv-calculator/) — Calculate Customer Lifetime Value (LTV) and Max Ad Spend (CAC)
 - [Crypto Risk Checker](https://cubbbix.com/crypto-risk-checker/) — Assess your crypto self-custody security score
 - [Compound Interest Calculator](https://cubbbix.com/compound-interest-calculator/) — Calculate compound interest with monthly contributions and visualize growth
+- [Cat Food Cost Calculator](https://cubbbix.com/cat-food-cost-calculator/) — Estimate daily, monthly, and yearly feeding costs for your cat based on calories
 
 ---
 
@@ -135,7 +137,6 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
 - [Webcam Test](https://cubbbix.com/webcam-test/) — Test your webcam and microphone online.
 - [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
-- [BulkPicTools](https://bulkpictools.com/) - Browser-based batch image processor (Compress/Crop/Convert). Privacy-first, no uploads.
 
 ---
 
