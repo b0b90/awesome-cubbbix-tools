@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-96-blue)
+![Tools Count](https://img.shields.io/badge/Tools-100-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -43,6 +43,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Time Zone Difference Calculator](https://cubbbix.com/time-zone-calculator/) — Compare global time zones  
 - [Sleep Cycle Calculator](https://cubbbix.com/sleep-cycle-calculator/) — Calculate best wake up times based on sleep cycles
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
+- [Plant Spacing Calculator](https://cubbbix.com/plant-spacing-calculator/) — Square (Grid) vs Triangular (Staggered) spacing
+- [Mulch & Soil Calculator](https://cubbbix.com/mulch-calculator/) — Estimate mulch and soil for garden beds
 - [Zakat Calculator](https://cubbbix.com/zakat-calculator/) — Calculate Islamic Zakat easily
 
 ---
@@ -87,6 +89,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Entertainment Tools
 - [Cat Name Generator](https://cubbbix.com/cat-name-generator/) — Find the purr-fect name for your feline friend
+- [Dog Name Generator](https://cubbbix.com/dog-name-generator/) — Find the paw-fect name for your canine companion
 - [Christmas Countdown](https://cubbbix.com/christmas-countdown/) — Countdown to Christmas day
 - [Fairy Name Generator](https://cubbbix.com/fairy-name-generator/) — Discover your magical fairy name
 - [Meme Generator](https://cubbbix.com/meme-generator/) — Create custom memes easily
@@ -115,6 +118,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Utilities
+- [Vegetable Planting Calendar](https://cubbbix.com/planting-calendar/) — Custom garden schedule based on frost dates
 - [Atomic Number Calculator](https://cubbbix.com/atomic-number-calculator/) — Find atomic number, protons, and mass of any element
 - [Color Converter & Picker](https://cubbbix.com/color-converter/) — Convert between HEX, RGB, HSL, and CMYK
 - [Compress PDF](https://cubbbix.com/pdf-compressor/) — Reduce PDF file size online without losing quality
