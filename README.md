@@ -1,10 +1,10 @@
-## Awesome Cubbbix Tools
+# Awesome Cubbbix Tools
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/b0b90/cubbbix-tools)
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-104-blue)
+![Tools Count](https://img.shields.io/badge/Tools-105-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -80,6 +80,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [German Assessment Test](https://cubbbix.com/german-quiz/) — Adaptive German proficiency test with official PDF certificate (CEFR)
 - [Reaction Time Tester](https://cubbbix.com/reaction-time-test/) — Test your visual reflexes and reaction speed
 - [Spanish Assessment Test](https://cubbbix.com/spanish-quiz/) — Adaptive Spanish proficiency test with official PDF certificate (CEFR)
+- [Typing Defense](https://cubbbix.com/typing-defense/) — Defend your base from falling words! A fast-paced typing game.
 - [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
 
 ---
