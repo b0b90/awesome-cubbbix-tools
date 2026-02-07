@@ -1,4 +1,4 @@
-<img width="1483" height="614" alt="Screenshot from 2026-02-07 18-15-49" src="https://github.com/user-attachments/assets/a530a7d6-1f8a-483a-b92d-a4150fb294b5" /># Awesome Cubbbix Tools
+## Awesome Cubbbix Tools
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/b0b90/cubbbix-tools)
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
