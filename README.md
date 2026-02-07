@@ -1,10 +1,10 @@
-# Awesome Cubbbix Tools
+<img width="1483" height="614" alt="Screenshot from 2026-02-07 18-15-49" src="https://github.com/user-attachments/assets/a530a7d6-1f8a-483a-b92d-a4150fb294b5" /># Awesome Cubbbix Tools
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/b0b90/cubbbix-tools)
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-101-blue)
+![Tools Count](https://img.shields.io/badge/Tools-104-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -35,6 +35,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Calculators
 - [Age Calculator](https://cubbbix.com/age-calculator/) — Calculate exact age in years, months, and days  
 - [BMI Calculator](https://cubbbix.com/bmi-calculator/) — Calculate your Body Mass Index and weight category
+- [Byte Converter](https://cubbbix.com/byte-converter/) — Convert between bits, bytes, KB, MB, GB, TB, and PB
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
@@ -161,6 +162,11 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ---
 
+## Sports Tools
+- [Net Run Rate Calculator](https://cubbbix.com/nrr-calculator/) — Calculate NRR for cricket tournaments like the T20 World Cup
+
+---
+
 ## Social Media Tools
 - [CPM Calculator](https://cubbbix.com/cpm-calculator/) — Cost per thousand impressions  
 - [Engagement Rate Calculator](https://cubbbix.com/social-media-engagement-calculator/) — Measure social media engagement  
@@ -182,6 +188,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
+- [What Is My IP Address?](https://cubbbix.com/what-is-my-ip/) — Instant Public IPv4 & IPv6 Address Lookup
 
 ---
 
