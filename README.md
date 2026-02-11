@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-105-blue)
+![Tools Count](https://img.shields.io/badge/Tools-107-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -38,6 +38,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Byte Converter](https://cubbbix.com/byte-converter/) — Convert between bits, bytes, KB, MB, GB, TB, and PB
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
+- [PSU Wattage Calculator](https://cubbbix.com/psu-wattage-calculator/) — Calculate PC power requirements and get PSU recommendations
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
 
 ---
@@ -53,6 +54,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Chmod Calculator](https://cubbbix.com/chmod-calculator/) — Visual permissions generator for Linux/Unix files
 - [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
 - [CSV to Markdown](https://cubbbix.com/csv-to-markdown/) — Convert CSV data to formatted Markdown tables. Supports custom alignment, file upload, and uses privacy-first processing.
+- [Developer Reality Check](https://cubbbix.com/developer-reality-check/) — Test your coding confidence vs competence (Imposter vs Dunning-Kruger)
 - [Developer Typing Test](https://cubbbix.com/developer-typing-test/) — Test your real coding speed (JS/Python/PHP) with syntax highlighting
 - [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
