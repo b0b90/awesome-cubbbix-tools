@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-107-blue)
+![Tools Count](https://img.shields.io/badge/Tools-113-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -14,6 +14,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Table of Contents
+- [AI Tools](#ai-tools)
 - [Calculators](#calculators)
 - [Career Tools](#career-tools)
 - [Developer Tools](#developer-tools)
@@ -26,9 +27,16 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Productivity](#productivity)
 - [SEO](#seo)
 - [Social Media Tools](#social-media-tools)
+- [Sports Tools](#sports-tools)
+- [Travel Tools](#travel-tools)
 - [Utilities](#utilities)
 - [About Cubbbix](#about-cubbbix)
 - [Contribute](#contribute)
+
+---
+
+## AI Tools
+- [OpenClaw Cost Calculator](https://cubbbix.com/openclaw-cost-calculator/) — Estimate monthly OpenClaw AI agent API costs across Claude, GPT-5, and DeepSeek
 
 ---
 
@@ -36,6 +44,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Age Calculator](https://cubbbix.com/age-calculator/) — Calculate exact age in years, months, and days  
 - [BMI Calculator](https://cubbbix.com/bmi-calculator/) — Calculate your Body Mass Index and weight category
 - [Byte Converter](https://cubbbix.com/byte-converter/) — Convert between bits, bytes, KB, MB, GB, TB, and PB
+- [CC to HP Calculator](https://cubbbix.com/cc-to-hp-calculator/) — Convert engine CC to horsepower and HP to CC with multiple engine type assumptions
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
 - [PSU Wattage Calculator](https://cubbbix.com/psu-wattage-calculator/) — Calculate PC power requirements and get PSU recommendations
@@ -66,6 +75,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Markdown to PDF](https://cubbbix.com/markdown-to-pdf/) — Convert Markdown text to professional PDF documents instantly.
 - [RAID Calculator](https://cubbbix.com/raid-calculator/) — Calculate RAID usable space (RAID 0, 1, 5, 6, 10)
 - [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
+- [Screen Resolution Simulator](https://cubbbix.com/screen-resolution-simulator/) — Test website responsiveness on iPhone, iPad, and Desktop devices
 - [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
 - [Text Diff Checker](https://cubbbix.com/diff-checker/) — Compare two text files or code snippets to find the difference. Highlight added and removed lines.
 - [Timestamp Converter](https://cubbbix.com/timestamp-converter/) — Convert Unix timestamps to human dates and vice versa
@@ -80,6 +90,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [French Assessment Test](https://cubbbix.com/french-quiz/) — Adaptive French proficiency test with official PDF certificate (CEFR)
 - [Gen Z Slang Dictionary Test](https://cubbbix.com/gen-z-slang-quiz/) — Viral "Vibe Check" test with authentic slang and rank certificates
 - [German Assessment Test](https://cubbbix.com/german-quiz/) — Adaptive German proficiency test with official PDF certificate (CEFR)
+- [Japanese Assessment Test](https://cubbbix.com/japanese-quiz/) — Adaptive Japanese proficiency test with official PDF certificate (CEFR/JLPT)
 - [Reaction Time Tester](https://cubbbix.com/reaction-time-test/) — Test your visual reflexes and reaction speed
 - [Spanish Assessment Test](https://cubbbix.com/spanish-quiz/) — Adaptive Spanish proficiency test with official PDF certificate (CEFR)
 - [Typing Defense](https://cubbbix.com/typing-defense/) — Defend your base from falling words! A fast-paced typing game.
@@ -178,6 +189,12 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Wedding Hashtag Generator](https://cubbbix.com/wedding-hashtag-generator/) — Generate creative and witty wedding hashtags
 - [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
 - [YouTube Subscriber Counter](https://cubbbix.com/youtube-subscriber-counter/) — Track live subscriber counts, total views, and video counts for any YouTube channel
+- [YouTube RPM Calculator](https://cubbbix.com/youtube-rpm-calculator/) — Estimate earnings by country (Venezuela 2026 rates) and niche
+
+---
+
+## Travel Tools
+- [Flight Path Calculator](https://cubbbix.com/flight-path-calculator/) — Calculate flight distance and view route on a map
 
 ---
 
@@ -196,9 +213,37 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Engineering Blog
-- [LLM API Costs & Token Economics](https://cubbbix.com/blog/llm-api-cost-guide/) — Definitive guide to pricing, token math, and batch API optimization
-- [Why Markdown is the Language of AI](https://cubbbix.com/blog/why-markdown-is-language-of-ai/) — Token efficiency and E-E-A-T structure
-- [Secure PDF to Markdown](https://cubbbix.com/blog/secure-pdf-to-markdown-guide/) — Client-side privacy and RAG pipelines
+- [10 Aesthetic Instagram Bio Ideas & How to Create Them](https://cubbbix.com/aesthetic-instagram-bio-ideas/) — Aesthetic fonts, bios, and captions for Instagram (2025 Guide)
+- [Best Regex Tester Tools: Online & Offline Guide](https://cubbbix.com/best-regex-tester-tools/) — Comprehensive comparison of regex testing tools (2025)
+- [Convert Letters to Binary Online](https://cubbbix.com/convert-letters-to-binary-online-guide/) — The ultimate guide to computer binary language
+- [Crypto Self-Custody Guide](https://cubbbix.com/crypto-self-custody-guide/) — How to be your own bank with hardware wallets and proper security
+- [Dunning-Kruger vs Imposter Syndrome](https://cubbbix.com/dunning-kruger-imposter-syndrome-guide/) — The developer's caveat: Are you an imposter or just overconfident?
+- [Gmail Username Change Guide](https://cubbbix.com/gmail-username-change-guide/) — Google finally kills the 20-year "Digital Tattoo"
+- [Gzip vs. Brotli Compression Guide](https://cubbbix.com/gzip-vs-brotli-compression-guide/) — The ultimate guide to web compression (2025)
+- [H1 Tag SEO Best Practices](https://cubbbix.com/h1-tag-seo-best-practices-guide/) — The ultimate H1 tag guide (2025)
+- [H-E-E-A-T: The New SEO Ranking Factor](https://cubbbix.com/heeat-seo-ranking-factor/) — On-page SEO strategies for ranking with E-E-A-T
+- [How to Calculate Binomial Distribution](https://cubbbix.com/how-to-calculate-binomial-distribution/) — A step-by-step guide to binomial probability
+- [How to Convert PDF to JPG Online](https://cubbbix.com/how-to-convert-pdf-to-jpg/) — Free and secure PDF to image conversion
+- [How to Find Anyone's Email (Permutator)](https://cubbbix.com/how-to-find-anyone-email-permutator/) — Email permutation techniques for outreach
+- [How to Merge PDF Files Guide](https://cubbbix.com/how-to-merge-pdf-files-guide/) — The ultimate guide to merging PDFs and images (2025)
+- [If ChatGPT Writes Your Code, You Are Just Middleware](https://cubbbix.com/if-chatgpt-writes-your-code/) — Opinion piece on AI-assisted development
+- [JSON is Ugly. Let's Fix That](https://cubbbix.com/json-is-ugly-guide-to-formatting/) — The ultimate guide to formatting JSON
+- [LLM API Costs & Token Economics](https://cubbbix.com/llm-api-cost-guide/) — Definitive guide to pricing, token math, and batch API optimization
+- [Mastering HTTP Status Codes for SEO](https://cubbbix.com/mastering-http-status-codes-seo-guide/) — Comprehensive guide to HTTP status codes and SEO impact
+- [Mastering Open Graph Tags](https://cubbbix.com/mastering-open-graph-tags-guide/) — How to optimize social sharing previews
+- [Meta Descriptions and SEO](https://cubbbix.com/meta-descriptions-and-seo/) — How to write compelling meta descriptions that boost CTR
+- [My Website Doesn't Show Up on Google](https://cubbbix.com/my-website-doesnt-show-up-on-google-guide/) — The ultimate indexability guide
+- [On-Page SEO Guide](https://cubbbix.com/on-page-seo-guide/) — Complete on-page SEO optimization strategy
+- [RAID is Not Backup](https://cubbbix.com/raid-is-not-backup-guide/) — The ultimate home server storage guide
+- [SaaS LTV Calculation Guide](https://cubbbix.com/saas-ltv-calculation-guide/) — How to calculate and optimize lifetime value
+- [Secure PDF to Markdown](https://cubbbix.com/secure-pdf-to-markdown-guide/) — Client-side privacy and RAG pipelines
+- [Stop Writing Boring Page Titles](https://cubbbix.com/ai-page-title-generator-guide/) — The AI-powered guide to CTR dominance
+- [Why Japanese is the Hottest Language to Learn in 2026](https://cubbbix.com/japanese-learning-trends-2026/) — Career, culture & cognitive benefits
+- [Why Markdown is the Language of AI](https://cubbbix.com/why-markdown-is-language-of-ai/) — Token efficiency and E-E-A-T structure
+- [Why Switch to WebP](https://cubbbix.com/why-switch-to-webp-guide/) — The ultimate guide to image optimization
+- [Why Your GitHub Contribution Graph Matters](https://cubbbix.com/github-contribution-graph-matters/) — Unpopular opinion on contribution graphs
+- [Why Your WPM Drops by 40% When Coding](https://cubbbix.com/coding-speed-wpm-guide/) — And how to fix it with a mechanical keyboard
+- [Zakat Calculation Guide](https://cubbbix.com/guide-to-zakat-calculation-rules-nisab-assets/) — Rules, Nisab & assets (2025)
 
 ---
 
