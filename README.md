@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-113-blue)
+![Tools Count](https://img.shields.io/badge/Tools-117-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -47,8 +47,11 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [CC to HP Calculator](https://cubbbix.com/cc-to-hp-calculator/) — Convert engine CC to horsepower and HP to CC with multiple engine type assumptions
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
+- [Population Growth Calculator](https://cubbbix.com/population-growth-calculator/) — Project future population using exponential, linear, doubling-time, and logistic models
 - [PSU Wattage Calculator](https://cubbbix.com/psu-wattage-calculator/) — Calculate PC power requirements and get PSU recommendations
+- [Tire Size Calculator](https://cubbbix.com/tire-size-calculator/) — Compare two tire sizes instantly — diameter, width, sidewall, and speedometer error
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
+- [Unit Converter](https://cubbbix.com/unit-converter/) — Convert Length, Weight, Temperature, and more instantly
 
 ---
 
@@ -86,6 +89,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Education Tools
+- [Korean Proficiency Test](https://cubbbix.com/korean-quiz/) — Adaptive TOPIK assessment with PDF certificate
 - [English Assessment Test](https://cubbbix.com/quiz/) — Adaptive English proficiency test with official PDF certificate (CEFR)
 - [French Assessment Test](https://cubbbix.com/french-quiz/) — Adaptive French proficiency test with official PDF certificate (CEFR)
 - [Gen Z Slang Dictionary Test](https://cubbbix.com/gen-z-slang-quiz/) — Viral "Vibe Check" test with authentic slang and rank certificates
@@ -152,6 +156,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Crontab Generator](https://cubbbix.com/crontab-generator/) — Visual cron schedule editor for creating crontab syntax
 - [Email Permutator](https://cubbbix.com/email-permutator/) — Find email addresses by generating common name permutations
 - [Email Signature Generator](https://cubbbix.com/email-signature-generator/) — Create free professional email signatures
+- [Pomodoro Focus Timer](https://cubbbix.com/pomodoro-timer/) — Master your time with the Pomodoro Technique (25/5 intervals)
 - [Salary to Hourly Calculator](https://cubbbix.com/salary-to-hourly/) — Convert annual salary to hourly wage and vice versa
 - [Sleep Cycle Calculator](https://cubbbix.com/sleep-cycle-calculator/) — Calculate best wake up times based on sleep cycles
 - [Time Zone Difference Calculator](https://cubbbix.com/time-zone-calculator/) — Compare global time zones
@@ -206,6 +211,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
 - [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
+- [Privacy Policy Generator](https://cubbbix.com/privacy-policy-generator/) — Generate a free, professional privacy policy for your website or app in seconds
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
 - [What Is My IP Address?](https://cubbbix.com/what-is-my-ip/) — Instant Public IPv4 & IPv6 Address Lookup
@@ -215,6 +221,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Engineering Blog
 - [10 Aesthetic Instagram Bio Ideas & How to Create Them](https://cubbbix.com/aesthetic-instagram-bio-ideas/) — Aesthetic fonts, bios, and captions for Instagram (2025 Guide)
 - [Best Regex Tester Tools: Online & Offline Guide](https://cubbbix.com/best-regex-tester-tools/) — Comprehensive comparison of regex testing tools (2025)
+- [Broken Links and SEO: The Ultimate Guide](https://cubbbix.com/broken-links-seo-guide/) — How to find and fix dead links that hurt your SEO
 - [Convert Letters to Binary Online](https://cubbbix.com/convert-letters-to-binary-online-guide/) — The ultimate guide to computer binary language
 - [Crypto Self-Custody Guide](https://cubbbix.com/crypto-self-custody-guide/) — How to be your own bank with hardware wallets and proper security
 - [Dunning-Kruger vs Imposter Syndrome](https://cubbbix.com/dunning-kruger-imposter-syndrome-guide/) — The developer's caveat: Are you an imposter or just overconfident?
