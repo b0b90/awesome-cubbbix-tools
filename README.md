@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-117-blue)
+![Tools Count](https://img.shields.io/badge/Tools-124-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -46,6 +46,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Byte Converter](https://cubbbix.com/byte-converter/) — Convert between bits, bytes, KB, MB, GB, TB, and PB
 - [CC to HP Calculator](https://cubbbix.com/cc-to-hp-calculator/) — Convert engine CC to horsepower and HP to CC with multiple engine type assumptions
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
+- [Decimal to Fraction Calculator](https://cubbbix.com/decimal-to-fraction-calculator/) — Convert any decimal to a fraction instantly and see the step-by-step mathematical working.
+- [Month Calculator (Monatsrechner)](https://cubbbix.com/month-calculator/) — Calculate months between dates or add/subtract months. Multilingual: Monatsrechner, Calculadora de meses, 月計算機
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
 - [Population Growth Calculator](https://cubbbix.com/population-growth-calculator/) — Project future population using exponential, linear, doubling-time, and logistic models
 - [PSU Wattage Calculator](https://cubbbix.com/psu-wattage-calculator/) — Calculate PC power requirements and get PSU recommendations
@@ -68,6 +70,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [CSV to Markdown](https://cubbbix.com/csv-to-markdown/) — Convert CSV data to formatted Markdown tables. Supports custom alignment, file upload, and uses privacy-first processing.
 - [Developer Reality Check](https://cubbbix.com/developer-reality-check/) — Test your coding confidence vs competence (Imposter vs Dunning-Kruger)
 - [Developer Typing Test](https://cubbbix.com/developer-typing-test/) — Test your real coding speed (JS/Python/PHP) with syntax highlighting
+- [Generate UPC Label](https://cubbbix.com/generate-upc-label/) — Generate valid UPC-A barcodes instantly (single and bulk)
 - [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
 - [JSON to TOML/YAML/XML Converter](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOML, YAML, or XML formats instantly
@@ -89,6 +92,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Education Tools
+- [Chinese (Mandarin) Assessment Test](https://cubbbix.com/chinese-quiz/) — Adaptive Mandarin proficiency test with official PDF certificate (CEFR/HSK)
 - [Korean Proficiency Test](https://cubbbix.com/korean-quiz/) — Adaptive TOPIK assessment with PDF certificate
 - [English Assessment Test](https://cubbbix.com/quiz/) — Adaptive English proficiency test with official PDF certificate (CEFR)
 - [French Assessment Test](https://cubbbix.com/french-quiz/) — Adaptive French proficiency test with official PDF certificate (CEFR)
@@ -121,6 +125,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Crypto Risk Checker](https://cubbbix.com/crypto-risk-checker/) — Assess your crypto self-custody security score
 - [Maaser Calculator](https://cubbbix.com/maaser-calculator/) — Calculate Jewish Ma'aser (10%) or Chomesh (20%) for Tzedakah.
 - [SaaS LTV Calculator](https://cubbbix.com/ltv-calculator/) — Calculate Customer Lifetime Value (LTV) and Max Ad Spend (CAC)
+- [Severance Pay Calculator](https://cubbbix.com/severance-pay-calculator/) — Calculate Liquidación, Finiquito, Cesantías & Indemnización for Venezuela, Colombia, Mexico & more
 - [VAT Calculator](https://cubbbix.com/vat-calculator/) — Calculate Value Added Tax
 - [Zakat Calculator](https://cubbbix.com/zakat-calculator/) — Calculate Islamic Zakat easily
 
@@ -220,6 +225,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Engineering Blog
 - [10 Aesthetic Instagram Bio Ideas & How to Create Them](https://cubbbix.com/aesthetic-instagram-bio-ideas/) — Aesthetic fonts, bios, and captions for Instagram (2025 Guide)
+- [Best Cheap VPS Hosting in 2026](https://cubbbix.com/best-cheap-vps-hosting-compared/) — Hostinger vs Hetzner vs Contabo vs DigitalOcean — full pricing comparison
 - [Best Regex Tester Tools: Online & Offline Guide](https://cubbbix.com/best-regex-tester-tools/) — Comprehensive comparison of regex testing tools (2025)
 - [Broken Links and SEO: The Ultimate Guide](https://cubbbix.com/broken-links-seo-guide/) — How to find and fix dead links that hurt your SEO
 - [Convert Letters to Binary Online](https://cubbbix.com/convert-letters-to-binary-online-guide/) — The ultimate guide to computer binary language
