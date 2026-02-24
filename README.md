@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-124-blue)
+![Tools Count](https://img.shields.io/badge/Tools-129-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -92,14 +92,18 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Education Tools
+- [Arabic Language Proficiency Test (ALPT)](https://cubbbix.com/arabic-quiz/) — Adaptive Modern Standard Arabic (MSA) proficiency test with official PDF certificate
 - [Chinese (Mandarin) Assessment Test](https://cubbbix.com/chinese-quiz/) — Adaptive Mandarin proficiency test with official PDF certificate (CEFR/HSK)
 - [Korean Proficiency Test](https://cubbbix.com/korean-quiz/) — Adaptive TOPIK assessment with PDF certificate
 - [English Assessment Test](https://cubbbix.com/quiz/) — Adaptive English proficiency test with official PDF certificate (CEFR)
 - [French Assessment Test](https://cubbbix.com/french-quiz/) — Adaptive French proficiency test with official PDF certificate (CEFR)
 - [Gen Z Slang Dictionary Test](https://cubbbix.com/gen-z-slang-quiz/) — Viral "Vibe Check" test with authentic slang and rank certificates
 - [German Assessment Test](https://cubbbix.com/german-quiz/) — Adaptive German proficiency test with official PDF certificate (CEFR)
+- [Italian Proficiency Test](https://cubbbix.com/italian-quiz/) — Adaptive Italian proficiency test with official PDF certificate (CILS/CELI/PLIDA)
 - [Japanese Assessment Test](https://cubbbix.com/japanese-quiz/) — Adaptive Japanese proficiency test with official PDF certificate (CEFR/JLPT)
 - [Reaction Time Tester](https://cubbbix.com/reaction-time-test/) — Test your visual reflexes and reaction speed
+- [Portuguese Assessment Test](https://cubbbix.com/portuguese-quiz/) — Adaptive Portuguese proficiency test with official PDF certificate (CAPLE/CELPE-Bras)
+- [Russian Proficiency Test (TORFL)](https://cubbbix.com/russian-quiz/) — Adaptive Russian proficiency test with official PDF certificate (TORFL)
 - [Spanish Assessment Test](https://cubbbix.com/spanish-quiz/) — Adaptive Spanish proficiency test with official PDF certificate (CEFR)
 - [Typing Defense](https://cubbbix.com/typing-defense/) — Defend your base from falling words! A fast-paced typing game.
 - [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
@@ -214,6 +218,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Compress PDF](https://cubbbix.com/pdf-compressor/) — Reduce PDF file size online without losing quality
 - [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
 - [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
+- [Hours Ago Calculator](https://cubbbix.com/hours-ago-calculator/) — Calculate exactly what time it was a specific number of hours or minutes ago
 - [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
 - [Privacy Policy Generator](https://cubbbix.com/privacy-policy-generator/) — Generate a free, professional privacy policy for your website or app in seconds
@@ -240,6 +245,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [How to Find Anyone's Email (Permutator)](https://cubbbix.com/how-to-find-anyone-email-permutator/) — Email permutation techniques for outreach
 - [How to Merge PDF Files Guide](https://cubbbix.com/how-to-merge-pdf-files-guide/) — The ultimate guide to merging PDFs and images (2025)
 - [If ChatGPT Writes Your Code, You Are Just Middleware](https://cubbbix.com/if-chatgpt-writes-your-code/) — Opinion piece on AI-assisted development
+- [Is Chinese Harder Than Japanese? (2026 Honest Comparison)](https://cubbbix.com/chinese-vs-japanese-2026/) — Category-by-category scorecard: Writing, Tones, Grammar, FSI fluency data, and Career Value
 - [JSON is Ugly. Let's Fix That](https://cubbbix.com/json-is-ugly-guide-to-formatting/) — The ultimate guide to formatting JSON
 - [LLM API Costs & Token Economics](https://cubbbix.com/llm-api-cost-guide/) — Definitive guide to pricing, token math, and batch API optimization
 - [Mastering HTTP Status Codes for SEO](https://cubbbix.com/mastering-http-status-codes-seo-guide/) — Comprehensive guide to HTTP status codes and SEO impact
