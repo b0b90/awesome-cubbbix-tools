@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-129-blue)
+![Tools Count](https://img.shields.io/badge/Tools-134-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -59,6 +59,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Career Tools
 - [Job Title Generator](https://cubbbix.com/job-title-generator/) — Generate professional job titles for LinkedIn and resumes
+- [Resume ATS Score Checker](https://cubbbix.com/resume-ats-score-checker/) — Check if your resume passes ATS screening. Get a free score and fix issues before applying.
 
 ---
 
@@ -69,6 +70,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
 - [CSV to Markdown](https://cubbbix.com/csv-to-markdown/) — Convert CSV data to formatted Markdown tables. Supports custom alignment, file upload, and uses privacy-first processing.
 - [Developer Reality Check](https://cubbbix.com/developer-reality-check/) — Test your coding confidence vs competence (Imposter vs Dunning-Kruger)
+- [Code Typing Test](https://cubbbix.com/code-typing-test/) — Test your WPM and coding speed on real PHP, JS, Python, HTML, and CSS snippets
 - [Developer Typing Test](https://cubbbix.com/developer-typing-test/) — Test your real coding speed (JS/Python/PHP) with syntax highlighting
 - [Generate UPC Label](https://cubbbix.com/generate-upc-label/) — Generate valid UPC-A barcodes instantly (single and bulk)
 - [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
@@ -107,11 +109,14 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Spanish Assessment Test](https://cubbbix.com/spanish-quiz/) — Adaptive Spanish proficiency test with official PDF certificate (CEFR)
 - [Typing Defense](https://cubbbix.com/typing-defense/) — Defend your base from falling words! A fast-paced typing game.
 - [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
+- [Mental Generation Quiz](https://cubbbix.com/mental-generation-quiz/) — Find out your true mental generation with this 7-question personality quiz
+- [Biological Generation Calculator](https://cubbbix.com/generation-calculator/) — Enter your birth year to discover if you're a Boomer, Gen X, Millennial, Gen Z, or Gen Alpha
 
 ---
 
 ## Entertainment Tools
 - [Cat Name Generator](https://cubbbix.com/cat-name-generator/) — Find the purr-fect name for your feline friend
+- [Dog Age Calculator](https://cubbbix.com/dog-age-calculator/) — Convert your dog's age to human years using a science-based size-adjusted formula
 - [Christmas Countdown](https://cubbbix.com/christmas-countdown/) — Countdown to Christmas day
 - [Dog Name Generator](https://cubbbix.com/dog-name-generator/) — Find the paw-fect name for your canine companion
 - [Fairy Name Generator](https://cubbbix.com/fairy-name-generator/) — Discover your magical fairy name
@@ -262,6 +267,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Why Switch to WebP](https://cubbbix.com/why-switch-to-webp-guide/) — The ultimate guide to image optimization
 - [Why Your GitHub Contribution Graph Matters](https://cubbbix.com/github-contribution-graph-matters/) — Unpopular opinion on contribution graphs
 - [Why Your WPM Drops by 40% When Coding](https://cubbbix.com/coding-speed-wpm-guide/) — And how to fix it with a mechanical keyboard
+- [How to Earn Passive Income with Grass (2026)](https://cubbbix.com/grass-passive-income-guide/) — Complete guide to the Grass DePIN network, airdrop details, and earning potential
+- [What Languages Are Required for Jobs in Dubai?](https://cubbbix.com/languages-required-jobs-dubai/) — 2026 guide to in-demand languages for Dubai's job market
 - [Zakat Calculation Guide](https://cubbbix.com/guide-to-zakat-calculation-rules-nisab-assets/) — Rules, Nisab & assets (2025)
 
 ---
