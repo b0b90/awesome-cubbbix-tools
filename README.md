@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-134-blue)
+![Tools Count](https://img.shields.io/badge/Tools-146-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -116,21 +116,24 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Entertainment Tools
 - [Cat Name Generator](https://cubbbix.com/cat-name-generator/) — Find the purr-fect name for your feline friend
-- [Dog Age Calculator](https://cubbbix.com/dog-age-calculator/) — Convert your dog's age to human years using a science-based size-adjusted formula
 - [Christmas Countdown](https://cubbbix.com/christmas-countdown/) — Countdown to Christmas day
+- [Dog Age Calculator](https://cubbbix.com/dog-age-calculator/) — Convert your dog's age to human years using a science-based size-adjusted formula
 - [Dog Name Generator](https://cubbbix.com/dog-name-generator/) — Find the paw-fect name for your canine companion
 - [Fairy Name Generator](https://cubbbix.com/fairy-name-generator/) — Discover your magical fairy name
 - [Meme Generator](https://cubbbix.com/meme-generator/) — Create custom memes easily
 - [Random Movie Picker](https://cubbbix.com/movie-picker/) — Get random movie recommendations
+- [Stroop Effect Test](https://cubbbix.com/stroop-effect-test/) — Test your brain's processing speed and selective attention
 - [Trivia Quiz](https://cubbbix.com/trivia-quiz/) — Test your knowledge with trivia questions
 - [Yes / No Generator](https://cubbbix.com/yes-no-generator/) — Randomly generate Yes or No answers
 
 ---
 
 ## Finance Tools
+- [50/30/20 Budget Calculator](https://cubbbix.com/50-30-20-budget-calculator/) — Split your after-tax income into Needs, Wants, and Savings automatically
 - [Auto Loan Early Payoff Calculator](https://cubbbix.com/early-payoff-calculator/) — Calculate savings from early loan payments
 - [Cat Food Cost Calculator](https://cubbbix.com/cat-food-cost-calculator/) — Estimate daily, monthly, and yearly feeding costs for your cat based on calories
 - [Compound Interest Calculator](https://cubbbix.com/compound-interest-calculator/) — Calculate compound interest with monthly contributions and visualize growth
+- [Convert CSV to OFX](https://cubbbix.com/csv-to-ofx/) — Convert bank CSV statements to OFX format for accounting software
 - [Crypto Risk Checker](https://cubbbix.com/crypto-risk-checker/) — Assess your crypto self-custody security score
 - [Maaser Calculator](https://cubbbix.com/maaser-calculator/) — Calculate Jewish Ma'aser (10%) or Chomesh (20%) for Tzedakah.
 - [SaaS LTV Calculator](https://cubbbix.com/ltv-calculator/) — Calculate Customer Lifetime Value (LTV) and Max Ad Spend (CAC)
@@ -161,6 +164,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
 - [PNG Optimizer](https://cubbbix.com/png-optimizer/) — Compress PNG images without losing quality
 - [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon/) — Convert SVG icons to favicons
+- [Venn Diagram Generator](https://cubbbix.com/venn-diagram-generator/) — Create 2, 3, and 4-circle Venn diagrams online and export as PNG, JPEG, SVG
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
 - [Webcam Test](https://cubbbix.com/webcam-test/) — Test your webcam and microphone online.
 
@@ -205,6 +209,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Engagement Rate Calculator](https://cubbbix.com/social-media-engagement-calculator/) — Measure social media engagement  
 - [Instagram Font Generator](https://cubbbix.com/instagram-font-generator/) — Generate aesthetic fonts for Instagram bios and captions
 - [Instagram Reel Downloader](https://cubbbix.com/instagram-reel-downloader/) — Download Instagram Reels without watermark
+- [Pinterest Pin Downloader](https://cubbbix.com/pinterest-pin-downloader/) — Download individual Pinterest pins with a free account. Paste one URL, grab the original file, and keep metadata.
 - [Wedding Hashtag Generator](https://cubbbix.com/wedding-hashtag-generator/) — Generate creative and witty wedding hashtags
 - [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
 - [YouTube Subscriber Counter](https://cubbbix.com/youtube-subscriber-counter/) — Track live subscriber counts, total views, and video counts for any YouTube channel
@@ -224,8 +229,12 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
 - [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
 - [Hours Ago Calculator](https://cubbbix.com/hours-ago-calculator/) — Calculate exactly what time it was a specific number of hours or minutes ago
+- [Laundry Symbol Decoder](https://cubbbix.com/laundry-symbol-decoder/) — Decode clothing care tags instantly
 - [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
+- [Military Time Converter](https://cubbbix.com/military-time-converter/) — Instantly convert between military (24-hour) and standard 12-hour AM/PM time formats
+- [Temperature Converter](https://cubbbix.com/temperature-converter/) — Convert between Celsius, Fahrenheit, Kelvin, Rankine, Delisle, and more with live formulas and a reference chart
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
+- [PDF Splitter & Extractor](https://cubbbix.com/pdf-splitter/) — Extract specific pages from any PDF instantly and securely in your browser
 - [Privacy Policy Generator](https://cubbbix.com/privacy-policy-generator/) — Generate a free, professional privacy policy for your website or app in seconds
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
@@ -235,6 +244,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Engineering Blog
 - [10 Aesthetic Instagram Bio Ideas & How to Create Them](https://cubbbix.com/aesthetic-instagram-bio-ideas/) — Aesthetic fonts, bios, and captions for Instagram (2025 Guide)
+- [AWS Data Centre UAE Outage: What Happened & Alternatives](https://cubbbix.com/aws-uae-outage-explained/) — A fire at the Amazon Data Centre UAE has caused massive AWS outages, taking down the ADCB app. What happened and what's next?
 - [Best Cheap VPS Hosting in 2026](https://cubbbix.com/best-cheap-vps-hosting-compared/) — Hostinger vs Hetzner vs Contabo vs DigitalOcean — full pricing comparison
 - [Best Regex Tester Tools: Online & Offline Guide](https://cubbbix.com/best-regex-tester-tools/) — Comprehensive comparison of regex testing tools (2025)
 - [Broken Links and SEO: The Ultimate Guide](https://cubbbix.com/broken-links-seo-guide/) — How to find and fix dead links that hurt your SEO
@@ -253,12 +263,14 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Is Chinese Harder Than Japanese? (2026 Honest Comparison)](https://cubbbix.com/chinese-vs-japanese-2026/) — Category-by-category scorecard: Writing, Tones, Grammar, FSI fluency data, and Career Value
 - [JSON is Ugly. Let's Fix That](https://cubbbix.com/json-is-ugly-guide-to-formatting/) — The ultimate guide to formatting JSON
 - [LLM API Costs & Token Economics](https://cubbbix.com/llm-api-cost-guide/) — Definitive guide to pricing, token math, and batch API optimization
+- [MacBook Neo Review: Love at First Mac](https://cubbbix.com/macbook-neo-review/) — The MacBook Neo is the talk of the town, featuring stunning colors, A18 Pro chip, and Apple Intelligence.
 - [Mastering HTTP Status Codes for SEO](https://cubbbix.com/mastering-http-status-codes-seo-guide/) — Comprehensive guide to HTTP status codes and SEO impact
 - [Mastering Open Graph Tags](https://cubbbix.com/mastering-open-graph-tags-guide/) — How to optimize social sharing previews
 - [Meta Descriptions and SEO](https://cubbbix.com/meta-descriptions-and-seo/) — How to write compelling meta descriptions that boost CTR
 - [My Website Doesn't Show Up on Google](https://cubbbix.com/my-website-doesnt-show-up-on-google-guide/) — The ultimate indexability guide
 - [On-Page SEO Guide](https://cubbbix.com/on-page-seo-guide/) — Complete on-page SEO optimization strategy
 - [RAID is Not Backup](https://cubbbix.com/raid-is-not-backup-guide/) — The ultimate home server storage guide
+- [Remote Work Survival Guide 2026](https://cubbbix.com/remote-work-guide-oil-shortage/) — Tools & Tips During Resource Crises
 - [SaaS LTV Calculation Guide](https://cubbbix.com/saas-ltv-calculation-guide/) — How to calculate and optimize lifetime value
 - [Secure PDF to Markdown](https://cubbbix.com/secure-pdf-to-markdown-guide/) — Client-side privacy and RAG pipelines
 - [Stop Writing Boring Page Titles](https://cubbbix.com/ai-page-title-generator-guide/) — The AI-powered guide to CTR dominance
@@ -266,7 +278,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Why Markdown is the Language of AI](https://cubbbix.com/why-markdown-is-language-of-ai/) — Token efficiency and E-E-A-T structure
 - [Why Switch to WebP](https://cubbbix.com/why-switch-to-webp-guide/) — The ultimate guide to image optimization
 - [Why Your GitHub Contribution Graph Matters](https://cubbbix.com/github-contribution-graph-matters/) — Unpopular opinion on contribution graphs
-- [Why Your WPM Drops by 40% When Coding](https://cubbbix.com/coding-speed-wpm-guide/) — And how to fix it with a mechanical keyboard
+- [Coding Speed & WPM Guide](https://cubbbix.com/coding-speed-wpm-guide/) — Why your WPM drops by 40% when coding (and how to fix it)
+- [Cron Jobs Explained: The Developer's Complete Guide to Task Scheduling](https://cubbbix.com/cron-jobs-guide/) — Cron syntax, real-world examples, scheduling pitfalls, and monitoring strategies
 - [How to Earn Passive Income with Grass (2026)](https://cubbbix.com/grass-passive-income-guide/) — Complete guide to the Grass DePIN network, airdrop details, and earning potential
 - [What Languages Are Required for Jobs in Dubai?](https://cubbbix.com/languages-required-jobs-dubai/) — 2026 guide to in-demand languages for Dubai's job market
 - [Zakat Calculation Guide](https://cubbbix.com/guide-to-zakat-calculation-rules-nisab-assets/) — Rules, Nisab & assets (2025)
