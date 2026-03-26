@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-146-blue)
+![Tools Count](https://img.shields.io/badge/Tools-184-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -158,11 +158,25 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Media Tools
+- [Add Noise to Image](https://cubbbix.com/add-noise/) — Emulate classic film grain or add TV static noise
+- [Adjust Image Gamma](https://cubbbix.com/adjust-gamma/) — Adjust the gamma curve to correct midtones
 - [Aspect Ratio Calculator](https://cubbbix.com/aspect-ratio-calculator/) — Maintain image and video ratios  
+- [Change Image Brightness](https://cubbbix.com/change-brightness/) — Increment or decrement the brightness of any image
+- [Change Image Contrast](https://cubbbix.com/change-contrast/) — Increment or decrement the contrast of any image
+- [Change Image Exposure](https://cubbbix.com/change-exposure/) — Adjust the exposure of any image to fix lighting issues
+- [Change Image Saturation](https://cubbbix.com/change-saturation/) — Increment or decrement the saturation of any image
+- [Clip Image Online](https://cubbbix.com/clip-image/) — Crop images to circles, triangles, or rounded shapes
 - [Country Flag Downloader](https://cubbbix.com/country-flag-downloader/) — Download high-quality flags in SVG, PNG, JPG, or WebP
+- [Darken Image Online](https://cubbbix.com/darken-image/) — Make an image darker or reduce brightness instantly
 - [Favicon Generator](https://cubbbix.com/favicon-generator/) — Generate perfect favicons from all browsers (SVG, PNG, ICO)
+- [Flip Image Online](https://cubbbix.com/flip-image/) — Mirror photos horizontally, vertically, or both instantly
+- [Grayscale Image Online](https://cubbbix.com/grayscale-image/) — Convert an image to grayscale or desaturate its colors
+- [Invert Image Colors](https://cubbbix.com/invert-image-colors/) — Quickly reverse the colors of any photo to create a negative effect
+- [Lighten Image Online](https://cubbbix.com/lighten-image/) — Make an image lighter or increase brightness instantly
 - [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
 - [PNG Optimizer](https://cubbbix.com/png-optimizer/) — Compress PNG images without losing quality
+- [Sepia Effect Online](https://cubbbix.com/sepia-effect/) — Give your photos a classic vintage warm look
+- [Shift Image Hue](https://cubbbix.com/add-hue/) — Spin the color wheel to completely shift image colors
 - [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon/) — Convert SVG icons to favicons
 - [Venn Diagram Generator](https://cubbbix.com/venn-diagram-generator/) — Create 2, 3, and 4-circle Venn diagrams online and export as PNG, JPEG, SVG
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
