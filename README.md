@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-184-blue)
+![Tools Count](https://img.shields.io/badge/Tools-178-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -47,10 +47,12 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [CC to HP Calculator](https://cubbbix.com/cc-to-hp-calculator/) — Convert engine CC to horsepower and HP to CC with multiple engine type assumptions
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 - [Decimal to Fraction Calculator](https://cubbbix.com/decimal-to-fraction-calculator/) — Convert any decimal to a fraction instantly and see the step-by-step mathematical working.
+- [How Rich Would You Be](https://cubbbix.com/how-rich-if-started-earlier/) — Calculate the exact opportunity cost of waiting to invest and see how much you'd have today
 - [Month Calculator (Monatsrechner)](https://cubbbix.com/month-calculator/) — Calculate months between dates or add/subtract months. Multilingual: Monatsrechner, Calculadora de meses, 月計算機
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
 - [Population Growth Calculator](https://cubbbix.com/population-growth-calculator/) — Project future population using exponential, linear, doubling-time, and logistic models
 - [PSU Wattage Calculator](https://cubbbix.com/psu-wattage-calculator/) — Calculate PC power requirements and get PSU recommendations
+- [Similar Triangle Calculator](https://cubbbix.com/similar-triangle-calculator/) — Find missing side lengths of similar triangles and calculate scale factors instantly
 - [Tire Size Calculator](https://cubbbix.com/tire-size-calculator/) — Compare two tire sizes instantly — diameter, width, sidewall, and speedometer error
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
 - [Unit Converter](https://cubbbix.com/unit-converter/) — Convert Length, Weight, Temperature, and more instantly
@@ -69,10 +71,13 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Chmod Calculator](https://cubbbix.com/chmod-calculator/) — Visual permissions generator for Linux/Unix files
 - [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
 - [CSV to Markdown](https://cubbbix.com/csv-to-markdown/) — Convert CSV data to formatted Markdown tables. Supports custom alignment, file upload, and uses privacy-first processing.
+- [Date-Time Converter](https://cubbbix.com/date-time-converter/) — Convert any date/time into ISO 8601, RFC 3339, Unix timestamp, Mongo ObjectID, and Excel formats
 - [Developer Reality Check](https://cubbbix.com/developer-reality-check/) — Test your coding confidence vs competence (Imposter vs Dunning-Kruger)
 - [Code Typing Test](https://cubbbix.com/code-typing-test/) — Test your WPM and coding speed on real PHP, JS, Python, HTML, and CSS snippets
 - [Developer Typing Test](https://cubbbix.com/developer-typing-test/) — Test your real coding speed (JS/Python/PHP) with syntax highlighting
+- [Encrypt / Decrypt Text](https://cubbbix.com/encrypt-decrypt-text/) — Encrypt and decrypt text using AES, TripleDES, Rabbit, and RC4 — client-side and private
 - [Generate UPC Label](https://cubbbix.com/generate-upc-label/) — Generate valid UPC-A barcodes instantly (single and bulk)
+- [Git Commit Hash Generator](https://cubbbix.com/git-commit-hash-generator/) — Generate exact Git commit SHA-1 hashes and learn how Git constructs commit objects
 - [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
 - [JSON to TOML/YAML/XML Converter](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOML, YAML, or XML formats instantly
@@ -87,6 +92,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
 - [Text Diff Checker](https://cubbbix.com/diff-checker/) — Compare two text files or code snippets to find the difference. Highlight added and removed lines.
 - [Timestamp Converter](https://cubbbix.com/timestamp-converter/) — Convert Unix timestamps to human dates and vice versa
+- [Token Generator](https://cubbbix.com/token-generator/) — Generate secure, random tokens and strings with custom lengths and character types
 - [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
 - [UUID Generator](https://cubbbix.com/uuid-generator/) — Generate standard UUIDs (v1 and v4) instantly
 - [Word Counter](https://cubbbix.com/word-counter/) — Count words, characters, and sentences
@@ -109,12 +115,14 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Spanish Assessment Test](https://cubbbix.com/spanish-quiz/) — Adaptive Spanish proficiency test with official PDF certificate (CEFR)
 - [Typing Defense](https://cubbbix.com/typing-defense/) — Defend your base from falling words! A fast-paced typing game.
 - [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
+- [US Citizenship Civics Test](https://cubbbix.com/us-citizenship-test/) — Can you pass the official USCIS naturalization test? Answer 10 randomized civics questions
 - [Mental Generation Quiz](https://cubbbix.com/mental-generation-quiz/) — Find out your true mental generation with this 7-question personality quiz
 - [Biological Generation Calculator](https://cubbbix.com/generation-calculator/) — Enter your birth year to discover if you're a Boomer, Gen X, Millennial, Gen Z, or Gen Alpha
 
 ---
 
 ## Entertainment Tools
+- [Tetris Game Online](https://cubbbix.com/tetris/) — Play the classic Tetris arcade game for free
 - [Cat Name Generator](https://cubbbix.com/cat-name-generator/) — Find the purr-fect name for your feline friend
 - [Christmas Countdown](https://cubbbix.com/christmas-countdown/) — Countdown to Christmas day
 - [Dog Age Calculator](https://cubbbix.com/dog-age-calculator/) — Convert your dog's age to human years using a science-based size-adjusted formula
@@ -124,6 +132,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Random Movie Picker](https://cubbbix.com/movie-picker/) — Get random movie recommendations
 - [Stroop Effect Test](https://cubbbix.com/stroop-effect-test/) — Test your brain's processing speed and selective attention
 - [Trivia Quiz](https://cubbbix.com/trivia-quiz/) — Test your knowledge with trivia questions
+- [Vibe Check Calculator](https://cubbbix.com/vibe-check-calculator/) — Answer 3 questions to discover your personalized vibe for the day
 - [Yes / No Generator](https://cubbbix.com/yes-no-generator/) — Randomly generate Yes or No answers
 
 ---
@@ -161,6 +170,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Add Noise to Image](https://cubbbix.com/add-noise/) — Emulate classic film grain or add TV static noise
 - [Adjust Image Gamma](https://cubbbix.com/adjust-gamma/) — Adjust the gamma curve to correct midtones
 - [Aspect Ratio Calculator](https://cubbbix.com/aspect-ratio-calculator/) — Maintain image and video ratios  
+- [Censor Photo Online](https://cubbbix.com/censor-photo/) — Blur, pixelate or censor parts of a photo to hide faces or plates
 - [Change Image Brightness](https://cubbbix.com/change-brightness/) — Increment or decrement the brightness of any image
 - [Change Image Contrast](https://cubbbix.com/change-contrast/) — Increment or decrement the contrast of any image
 - [Change Image Exposure](https://cubbbix.com/change-exposure/) — Adjust the exposure of any image to fix lighting issues
@@ -168,15 +178,20 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Clip Image Online](https://cubbbix.com/clip-image/) — Crop images to circles, triangles, or rounded shapes
 - [Country Flag Downloader](https://cubbbix.com/country-flag-downloader/) — Download high-quality flags in SVG, PNG, JPG, or WebP
 - [Darken Image Online](https://cubbbix.com/darken-image/) — Make an image darker or reduce brightness instantly
+- [Duotone Effect Online](https://cubbbix.com/duotone-effect/) — Apply stunning, two-color Spotify-style filters securely in your browser
 - [Favicon Generator](https://cubbbix.com/favicon-generator/) — Generate perfect favicons from all browsers (SVG, PNG, ICO)
 - [Flip Image Online](https://cubbbix.com/flip-image/) — Mirror photos horizontally, vertically, or both instantly
 - [Grayscale Image Online](https://cubbbix.com/grayscale-image/) — Convert an image to grayscale or desaturate its colors
 - [Invert Image Colors](https://cubbbix.com/invert-image-colors/) — Quickly reverse the colors of any photo to create a negative effect
 - [Lighten Image Online](https://cubbbix.com/lighten-image/) — Make an image lighter or increase brightness instantly
+- [Merge Images Online](https://cubbbix.com/merge-images/) — Merge two images vertically or horizontally with custom border thickness and color
 - [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
+- [Overlay Images Online](https://cubbbix.com/overlay-images/) — Overlay, merge, and watermark two images with full blend mode control
 - [PNG Optimizer](https://cubbbix.com/png-optimizer/) — Compress PNG images without losing quality
+- [Random Bitmap Generator](https://cubbbix.com/random-bitmap-generator/) — Generate random static and noise bitmaps instantly
 - [Sepia Effect Online](https://cubbbix.com/sepia-effect/) — Give your photos a classic vintage warm look
 - [Shift Image Hue](https://cubbbix.com/add-hue/) — Spin the color wheel to completely shift image colors
+- [Split Image Online](https://cubbbix.com/split-image/) — Slice your photos into multiple pieces instantly, securely, and privately
 - [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon/) — Convert SVG icons to favicons
 - [Venn Diagram Generator](https://cubbbix.com/venn-diagram-generator/) — Create 2, 3, and 4-circle Venn diagrams online and export as PNG, JPEG, SVG
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
@@ -251,6 +266,10 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [PDF Splitter & Extractor](https://cubbbix.com/pdf-splitter/) — Extract specific pages from any PDF instantly and securely in your browser
 - [Privacy Policy Generator](https://cubbbix.com/privacy-policy-generator/) — Generate a free, professional privacy policy for your website or app in seconds
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
+- [Sample Audio Files](https://cubbbix.com/sample-audio-files/) — Download free sample audio files for testing and development
+- [Sample Document Files](https://cubbbix.com/sample-document-files/) — Download free sample document files (PDF, DOCX, XLSX, etc.) for testing
+- [Sample Image Files](https://cubbbix.com/sample-image-files/) — Download free sample image files in various formats for testing
+- [Sample Video Files](https://cubbbix.com/sample-video-files/) — Download free sample video files for testing and development
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
 - [What Is My IP Address?](https://cubbbix.com/what-is-my-ip/) — Instant Public IPv4 & IPv6 Address Lookup
 
@@ -258,6 +277,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Engineering Blog
 - [10 Aesthetic Instagram Bio Ideas & How to Create Them](https://cubbbix.com/aesthetic-instagram-bio-ideas/) — Aesthetic fonts, bios, and captions for Instagram (2025 Guide)
+- [AMD Ryzen 5 9600X Review (2026)](https://cubbbix.com/amd-ryzen-5-9600x-review/) — Zen 5 specs, gaming benchmarks, and 65W efficiency — the mid-range CPU champion reviewed
 - [AWS Data Centre UAE Outage: What Happened & Alternatives](https://cubbbix.com/aws-uae-outage-explained/) — A fire at the Amazon Data Centre UAE has caused massive AWS outages, taking down the ADCB app. What happened and what's next?
 - [Best Cheap VPS Hosting in 2026](https://cubbbix.com/best-cheap-vps-hosting-compared/) — Hostinger vs Hetzner vs Contabo vs DigitalOcean — full pricing comparison
 - [Best Regex Tester Tools: Online & Offline Guide](https://cubbbix.com/best-regex-tester-tools/) — Comprehensive comparison of regex testing tools (2025)
@@ -279,6 +299,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [LLM API Costs & Token Economics](https://cubbbix.com/llm-api-cost-guide/) — Definitive guide to pricing, token math, and batch API optimization
 - [MacBook Neo Review: Love at First Mac](https://cubbbix.com/macbook-neo-review/) — The MacBook Neo is the talk of the town, featuring stunning colors, A18 Pro chip, and Apple Intelligence.
 - [Mastering HTTP Status Codes for SEO](https://cubbbix.com/mastering-http-status-codes-seo-guide/) — Comprehensive guide to HTTP status codes and SEO impact
+- [Mercor Review 2026: Is the AI-Powered Remote Job Platform Worth It?](https://cubbbix.com/mercor-review-2026/) — We break down the AI interview process, high pay potential, privacy concerns, and feast-or-famine reality
 - [Mastering Open Graph Tags](https://cubbbix.com/mastering-open-graph-tags-guide/) — How to optimize social sharing previews
 - [Meta Descriptions and SEO](https://cubbbix.com/meta-descriptions-and-seo/) — How to write compelling meta descriptions that boost CTR
 - [My Website Doesn't Show Up on Google](https://cubbbix.com/my-website-doesnt-show-up-on-google-guide/) — The ultimate indexability guide
@@ -290,6 +311,9 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Stop Writing Boring Page Titles](https://cubbbix.com/ai-page-title-generator-guide/) — The AI-powered guide to CTR dominance
 - [Why Japanese is the Hottest Language to Learn in 2026](https://cubbbix.com/japanese-learning-trends-2026/) — Career, culture & cognitive benefits
 - [Why Markdown is the Language of AI](https://cubbbix.com/why-markdown-is-language-of-ai/) — Token efficiency and E-E-A-T structure
+- [Sora is Dead: Top AI Video Alternatives in 2026](https://cubbbix.com/sora-2-alternatives/) — Why OpenAI cancelled Sora and the best AI video generation tools available now
+- [The 2026 Global RAM Shortage](https://cubbbix.com/global-ram-shortage-2026/) — Why memory prices are surging and how the AI boom is draining the supply chain
+- [The Ultimate Xbox Console Timeline](https://cubbbix.com/xbox-console-timeline-history/) — An in-depth history of every Xbox console generation from 2001 to 2026
 - [Why Switch to WebP](https://cubbbix.com/why-switch-to-webp-guide/) — The ultimate guide to image optimization
 - [Why Your GitHub Contribution Graph Matters](https://cubbbix.com/github-contribution-graph-matters/) — Unpopular opinion on contribution graphs
 - [Coding Speed & WPM Guide](https://cubbbix.com/coding-speed-wpm-guide/) — Why your WPM drops by 40% when coding (and how to fix it)
