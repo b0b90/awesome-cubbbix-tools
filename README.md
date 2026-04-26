@@ -50,6 +50,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Dimensional (Volumetric) Weight Calculator](https://cubbbix.com/volumetric-weight-calculator/) — Calculate the dimensional weight of your packages to estimate shipping costs accurately.
 - [How Rich Would You Be](https://cubbbix.com/how-rich-if-started-earlier/) — Calculate the exact opportunity cost of waiting to invest and see how much you'd have today
 - [Month Calculator (Monatsrechner)](https://cubbbix.com/month-calculator/) — Calculate months between dates or add/subtract months. Multilingual: Monatsrechner, Calculadora de meses, 月計算機
+- [Mortgage Calculator](https://cubbbix.com/mortgage-calculator/) — Calculate monthly mortgage payments with taxes, insurance, and full amortization schedule.
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
 - [Population Growth Calculator](https://cubbbix.com/population-growth-calculator/) — Project future population using exponential, linear, doubling-time, and logistic models
 - [PSU Wattage Calculator](https://cubbbix.com/psu-wattage-calculator/) — Calculate PC power requirements and get PSU recommendations
@@ -72,6 +73,9 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Case Converter](https://cubbbix.com/case-converter/) — Convert text between different cases (camelCase, snake_case, etc.)
 - [Chmod Calculator](https://cubbbix.com/chmod-calculator/) — Visual permissions generator for Linux/Unix files
 - [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
+- [API Data Fetcher Tool](https://cubbbix.com/api-data-fetcher/) — Fetch, test, and analyze API responses instantly (Proxy supported)
+- [Data Cleaner Tool](https://cubbbix.com/data-cleaner/) — Clean your lists and CSV data (Deduplicate, Trim, Handle Nulls)
+- [CSV to JSON Converter](https://cubbbix.com/csv-to-json/) — Convert CSV data to JSON objects instantly and securely.
 - [CSV to Markdown](https://cubbbix.com/csv-to-markdown/) — Convert CSV data to formatted Markdown tables. Supports custom alignment, file upload, and uses privacy-first processing.
 - [Date-Time Converter](https://cubbbix.com/date-time-converter/) — Convert any date/time into ISO 8601, RFC 3339, Unix timestamp, Mongo ObjectID, and Excel formats
 - [Developer Reality Check](https://cubbbix.com/developer-reality-check/) — Test your coding confidence vs competence (Imposter vs Dunning-Kruger)
@@ -82,6 +86,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Git Commit Hash Generator](https://cubbbix.com/git-commit-hash-generator/) — Generate exact Git commit SHA-1 hashes and learn how Git constructs commit objects
 - [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
+- [JSON to CSV Converter](https://cubbbix.com/json-to-csv/) — Convert JSON data to CSV format instantly and securely.
 - [JSON to TOML/YAML/XML Converter](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOML, YAML, or XML formats instantly
 - [JWT Decoder](https://cubbbix.com/jwt-decoder/) — Decode and inspect JSON Web Tokens instantly
 - [LLM API Cost Calculator](https://cubbbix.com/llm-api-cost-calculator/) — Compare API costs for OpenAI, Anthropic & Google
