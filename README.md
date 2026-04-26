@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-186-blue)
+![Tools Count](https://img.shields.io/badge/Tools-200-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -59,6 +59,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Tire Size Calculator](https://cubbbix.com/tire-size-calculator/) — Compare two tire sizes instantly — diameter, width, sidewall, and speedometer error
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
 - [Unit Converter](https://cubbbix.com/unit-converter/) — Convert Length, Weight, Temperature, and more instantly
+- [Oil Change Cost Calculator](https://cubbbix.com/oil-change-cost-calculator/) — Calculate the exact cost of an oil change. Compare DIY costs vs mechanic shops.
 
 ---
 
@@ -149,6 +150,11 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ---
 
+## Health
+- [ADHD Self-Test (ASRS-v1.1)](https://cubbbix.com/adhd-self-test/) — Take the free WHO Adult ADHD Self-Report Scale (ASRS-v1.1) screening test online. Based on peer-reviewed research by Kessler et al.
+
+---
+
 ## Finance Tools
 - [50/30/20 Budget Calculator](https://cubbbix.com/50-30-20-budget-calculator/) — Split your after-tax income into Needs, Wants, and Savings automatically
 - [Auto Loan Early Payoff Calculator](https://cubbbix.com/early-payoff-calculator/) — Calculate savings from early loan payments
@@ -225,6 +231,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Salary to Hourly Calculator](https://cubbbix.com/salary-to-hourly/) — Convert annual salary to hourly wage and vice versa
 - [Sleep Cycle Calculator](https://cubbbix.com/sleep-cycle-calculator/) — Calculate best wake up times based on sleep cycles
 - [Time Zone Difference Calculator](https://cubbbix.com/time-zone-calculator/) — Compare global time zones
+- [Useless Meeting Cost Calculator](https://cubbbix.com/useless-meeting-cost-calculator/) — Calculate exactly how much money your company burns in useless meetings in real-time.
 
 ---
 
