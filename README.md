@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-200-blue)
+![Tools Count](https://img.shields.io/badge/Tools-211-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -42,6 +42,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Calculators
 - [Age Calculator](https://cubbbix.com/age-calculator/) — Calculate exact age in years, months, and days  
+- [Birth Year Calculator](https://cubbbix.com/birth-year-calculator/) — Find your birth year by age and selected date. Fast birth year calculator with before/after birthday logic.
 - [BMI Calculator](https://cubbbix.com/bmi-calculator/) — Calculate your Body Mass Index and weight category
 - [Byte Converter](https://cubbbix.com/byte-converter/) — Convert between bits, bytes, KB, MB, GB, TB, and PB
 - [CC to HP Calculator](https://cubbbix.com/cc-to-hp-calculator/) — Convert engine CC to horsepower and HP to CC with multiple engine type assumptions
@@ -51,14 +52,18 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [How Rich Would You Be](https://cubbbix.com/how-rich-if-started-earlier/) — Calculate the exact opportunity cost of waiting to invest and see how much you'd have today
 - [Month Calculator (Monatsrechner)](https://cubbbix.com/month-calculator/) — Calculate months between dates or add/subtract months. Multilingual: Monatsrechner, Calculadora de meses, 月計算機
 - [Mortgage Calculator](https://cubbbix.com/mortgage-calculator/) — Calculate monthly mortgage payments with taxes, insurance, and full amortization schedule.
+- [Formal Charge Calculator](https://cubbbix.com/formal-charge-calculator/) — How to calculate the formal charge of an atom from Lewis structure with the formal charge equation and steps.
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
 - [Population Growth Calculator](https://cubbbix.com/population-growth-calculator/) — Project future population using exponential, linear, doubling-time, and logistic models
 - [PSU Wattage Calculator](https://cubbbix.com/psu-wattage-calculator/) — Calculate PC power requirements and get PSU recommendations
+- [Quarts to Pounds Calculator](https://cubbbix.com/quarts-to-pounds-calculator/) — Convert quarts to pounds and pounds to quarts using material density and quart type.
 - [Shipping Box Optimizer & Calculator](https://cubbbix.com/shipping-box-optimizer/) — Find the smallest standard shipping box for your items to minimize costs.
 - [Similar Triangle Calculator](https://cubbbix.com/similar-triangle-calculator/) — Find missing side lengths of similar triangles and calculate scale factors instantly
 - [Tire Size Calculator](https://cubbbix.com/tire-size-calculator/) — Compare two tire sizes instantly — diameter, width, sidewall, and speedometer error
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
 - [Unit Converter](https://cubbbix.com/unit-converter/) — Convert Length, Weight, Temperature, and more instantly
+- [Weeks Ago Calculator](https://cubbbix.com/weeks-ago-calculator/) — Calculate the exact date weeks ago from any start date. Includes day name, week/year, and lookup table.
+- [Weeks Left in the Year Calculator](https://cubbbix.com/weeks-left-in-the-year/) — Find how many weeks, days, and hours are left in 2026 or any year from your selected date.
 - [Oil Change Cost Calculator](https://cubbbix.com/oil-change-cost-calculator/) — Calculate the exact cost of an oil change. Compare DIY costs vs mechanic shops.
 
 ---
@@ -124,12 +129,15 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Russian Proficiency Test (TORFL)](https://cubbbix.com/russian-quiz/) — Adaptive Russian proficiency test with official PDF certificate (TORFL)
 - [Spanish Assessment Test](https://cubbbix.com/spanish-quiz/) — Adaptive Spanish proficiency test with official PDF certificate (CEFR)
 - [Spanish Number to Text Converter](https://cubbbix.com/spanish-number-to-text/) — Instantly convert any number to perfectly written, grammatically correct Spanish text
+- [Square Root Curve Calculator](https://cubbbix.com/square-root-curve-calculator/) — Curve single or batch grades with square root formula: curved grade = 10 x sqrt(raw).
 - [Typing Defense](https://cubbbix.com/typing-defense/) — Defend your base from falling words! A fast-paced typing game.
 - [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
 - [US Citizenship Civics Test](https://cubbbix.com/us-citizenship-test/) — Can you pass the official USCIS naturalization test? Answer 10 randomized civics questions
 - [Mental Generation Quiz](https://cubbbix.com/mental-generation-quiz/) — Find out your true mental generation with this 7-question personality quiz
 - [Biological Generation Calculator](https://cubbbix.com/generation-calculator/) — Enter your birth year to discover if you're a Boomer, Gen X, Millennial, Gen Z, or Gen Alpha
 - [IELTS Band Score Calculator](https://cubbbix.com/ielts-band-score-calculator/) — Calculate your IELTS band score for Listening, Reading, and Overall
+- [WCPM Calculator](https://cubbbix.com/wcpm-calculator/) — Calculate words correct per minute (WCPM) with accuracy, error rate, and fluency metrics.
+- [Word Problem Solver](https://cubbbix.com/word-problem-solver/) — Text-based word problem solver with step-by-step math explanations for arithmetic, percentages, and rates.
 
 ---
 
@@ -152,6 +160,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Health
 - [ADHD Self-Test (ASRS-v1.1)](https://cubbbix.com/adhd-self-test/) — Take the free WHO Adult ADHD Self-Report Scale (ASRS-v1.1) screening test online. Based on peer-reviewed research by Kessler et al.
+- [mEq to mL Calculator](https://cubbbix.com/meq-to-ml-calculator/) — Convert between mEq and mL with custom or stock electrolyte strength (mEq/mL).
 
 ---
 
@@ -279,7 +288,9 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Utilities
 - [Atomic Number Calculator](https://cubbbix.com/atomic-number-calculator/) — Find atomic number, protons, and mass of any element
+- [Unicode to Bijoy Converter](https://cubbbix.com/bijoy-unicode-converter/) — Unicode to Bijoy converter and Bijoy to Unicode converter online for Bangla text, including Nikosh and Avro-style workflows.
 - [Color Converter & Picker](https://cubbbix.com/color-converter/) — Convert between HEX, RGB, HSL, and CMYK
+- [CMYK to Pantone Converter](https://cubbbix.com/cmyk-to-pantone-converter/) — Convert CMYK to Pantone color and Pantone to CMYK with nearest-match estimates for practical print workflows.
 - [Compress PDF](https://cubbbix.com/pdf-compressor/) — Reduce PDF file size online without losing quality
 - [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
 - [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
@@ -305,6 +316,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Engineering Blog
 - [10 Aesthetic Instagram Bio Ideas & How to Create Them](https://cubbbix.com/aesthetic-instagram-bio-ideas/) — Aesthetic fonts, bios, and captions for Instagram (2025 Guide)
+- [Do I Have ADHD? The Science Behind Adult ADHD Screening (And What to Do Next)](https://cubbbix.com/adult-adhd-self-test-guide/) — Millions of adults live with undiagnosed ADHD. Learn how the WHO-validated ASRS-v1.1 screener works, what the science says about Likert-based scoring, and the evidence-based steps you should take after screening positive — including cognitive health supplements backed by clinical research.
 - [AMD Ryzen 5 9600X Review (2026)](https://cubbbix.com/amd-ryzen-5-9600x-review/) — Zen 5 specs, gaming benchmarks, and 65W efficiency — the mid-range CPU champion reviewed
 - [Freelancer.com Review: Navigating the Global Freelance Economy in 2026](https://cubbbix.com/freelancer-review-2026/) — Is Freelancer.com still the best platform for digital nomads? We analyze its 87M+ user base and history.
 - [AWS Data Centre UAE Outage: What Happened & Alternatives](https://cubbbix.com/aws-uae-outage-explained/) — A fire at the Amazon Data Centre UAE has caused massive AWS outages, taking down the ADCB app. What happened and what's next?
@@ -319,6 +331,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [H1 Tag SEO Best Practices](https://cubbbix.com/h1-tag-seo-best-practices-guide/) — The ultimate H1 tag guide (2025)
 - [H-E-E-A-T: The New SEO Ranking Factor](https://cubbbix.com/heeat-seo-ranking-factor/) — On-page SEO strategies for ranking with E-E-A-T
 - [The Critical Role of SSL in E-E-A-T](https://cubbbix.com/importance-of-ssl-for-eeat/) — Why security is the foundation of search authority and how it impacts trustworthiness.
+- [How to Find Free Canadian Import & Export Data for Market Research](https://cubbbix.com/free-canadian-import-export-data-guide/) — Market research doesn't have to be expensive. Learn how to legally access free Canadian government import and export data to find winning products, analyze competitors, and source new suppliers.
 - [How to Calculate Binomial Distribution](https://cubbbix.com/how-to-calculate-binomial-distribution/) — A step-by-step guide to binomial probability
 - [How to Convert PDF to JPG Online](https://cubbbix.com/how-to-convert-pdf-to-jpg/) — Free and secure PDF to image conversion
 - [How to Find Anyone's Email (Permutator)](https://cubbbix.com/how-to-find-anyone-email-permutator/) — Email permutation techniques for outreach
@@ -353,13 +366,15 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [How to Earn Passive Income with Grass (2026)](https://cubbbix.com/grass-passive-income-guide/) — Complete guide to the Grass DePIN network, airdrop details, and earning potential
 - [What Languages Are Required for Jobs in Dubai?](https://cubbbix.com/languages-required-jobs-dubai/) — 2026 guide to in-demand languages for Dubai's job market
 - [Zakat Calculation Guide](https://cubbbix.com/guide-to-zakat-calculation-rules-nisab-assets/) — Rules, Nisab & assets (2025)
+- [Cursor AI: Sualeh Asif, SpaceX, and the $60 Billion Acquisition Deal](https://cubbbix.com/cursor-spacex-acquisition/) — Explore the unprecedented $60 billion SpaceX acquisition option for Cursor AI, co-founded by Sualeh Asif.
 
 ---
 
 ## About Cubbbix
 Cubbbix is a collection of fast, free, and privacy-friendly online tools designed to solve everyday digital problems for developers and non-technical users alike.
 
-Website: https://cubbbix.com
+Website: https://cubbbix.com  
+Careers: [Cubbbix Careers](https://cubbbix.com/careers.php)
 
 ---
 
