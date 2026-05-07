@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-211-blue)
+![Tools Count](https://img.shields.io/badge/Tools-222-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -45,6 +45,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Birth Year Calculator](https://cubbbix.com/birth-year-calculator/) — Find your birth year by age and selected date. Fast birth year calculator with before/after birthday logic.
 - [BMI Calculator](https://cubbbix.com/bmi-calculator/) — Calculate your Body Mass Index and weight category
 - [Byte Converter](https://cubbbix.com/byte-converter/) — Convert between bits, bytes, KB, MB, GB, TB, and PB
+- [Calculatrice Hypothécaire Suisse](https://cubbbix.com/calculatrice-hypothecaire-suisse/) — Calculatrice immobilière suisse : test de tenabilité (stress test) et fonds propres.
 - [CC to HP Calculator](https://cubbbix.com/cc-to-hp-calculator/) — Convert engine CC to horsepower and HP to CC with multiple engine type assumptions
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 - [Decimal to Fraction Calculator](https://cubbbix.com/decimal-to-fraction-calculator/) — Convert any decimal to a fraction instantly and see the step-by-step mathematical working.
@@ -57,14 +58,18 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Population Growth Calculator](https://cubbbix.com/population-growth-calculator/) — Project future population using exponential, linear, doubling-time, and logistic models
 - [PSU Wattage Calculator](https://cubbbix.com/psu-wattage-calculator/) — Calculate PC power requirements and get PSU recommendations
 - [Quarts to Pounds Calculator](https://cubbbix.com/quarts-to-pounds-calculator/) — Convert quarts to pounds and pounds to quarts using material density and quart type.
+- [RERA Calculator](https://cubbbix.com/rera-calculator/) — Calculate permissible rent increases in Dubai based on the official RERA Rental Index Decree.
 - [Shipping Box Optimizer & Calculator](https://cubbbix.com/shipping-box-optimizer/) — Find the smallest standard shipping box for your items to minimize costs.
 - [Similar Triangle Calculator](https://cubbbix.com/similar-triangle-calculator/) — Find missing side lengths of similar triangles and calculate scale factors instantly
 - [Tire Size Calculator](https://cubbbix.com/tire-size-calculator/) — Compare two tire sizes instantly — diameter, width, sidewall, and speedometer error
 - [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
+- [UAE Gratuity Calculator](https://cubbbix.com/uae-gratuity-calculator/) — Calculate your UAE end-of-service gratuity instantly. 100% updated for 2026.
 - [Unit Converter](https://cubbbix.com/unit-converter/) — Convert Length, Weight, Temperature, and more instantly
 - [Weeks Ago Calculator](https://cubbbix.com/weeks-ago-calculator/) — Calculate the exact date weeks ago from any start date. Includes day name, week/year, and lookup table.
 - [Weeks Left in the Year Calculator](https://cubbbix.com/weeks-left-in-the-year/) — Find how many weeks, days, and hours are left in 2026 or any year from your selected date.
 - [Oil Change Cost Calculator](https://cubbbix.com/oil-change-cost-calculator/) — Calculate the exact cost of an oil change. Compare DIY costs vs mechanic shops.
+- [Yards to Tons Calculator](https://cubbbix.com/yards-to-tons-calculator/) — Convert cubic yards to US short tons and back for gravel, sand, topsoil, and concrete.
+
 
 ---
 
@@ -310,6 +315,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
 - [What Is My IP Address?](https://cubbbix.com/what-is-my-ip/) — Instant Public IPv4 & IPv6 Address Lookup
 - [White Screen](https://cubbbix.com/white-screen/) — Free fullscreen white screen tool for monitor cleaning, dead pixel detection, and display testing.
+- [Fake Word Generator](https://cubbbix.com/fake-word-generator/) — Generate pronounceable made-up words for brand names, fantasy terms, and creative projects.
+- [Gamertag Generator](https://cubbbix.com/gamertag-generator/) — Generate Xbox-style, random, and funny gamertags with offline browser-based patterns.
 - [Word Unscrambler](https://cubbbix.com/word-unscrambler/) — Instantly unscramble letters into valid English words for Scrabble and puzzles.
 
 ---
@@ -362,6 +369,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Why Switch to WebP](https://cubbbix.com/why-switch-to-webp-guide/) — The ultimate guide to image optimization
 - [Why Your GitHub Contribution Graph Matters](https://cubbbix.com/github-contribution-graph-matters/) — Unpopular opinion on contribution graphs
 - [Coding Speed & WPM Guide](https://cubbbix.com/coding-speed-wpm-guide/) — Why your WPM drops by 40% when coding (and how to fix it)
+- [Image Search Techniques: The Definitive Guide to Finding Any Image Online (2026)](https://cubbbix.com/image-search-techniques/) — Master the 5 core image search techniques — from keyword-based and reverse image search to visual similarity, color-based, and facial recognition.
+
 - [Cron Jobs Explained: The Developer's Complete Guide to Task Scheduling](https://cubbbix.com/cron-jobs-guide/) — Cron syntax, real-world examples, scheduling pitfalls, and monitoring strategies
 - [How to Earn Passive Income with Grass (2026)](https://cubbbix.com/grass-passive-income-guide/) — Complete guide to the Grass DePIN network, airdrop details, and earning potential
 - [What Languages Are Required for Jobs in Dubai?](https://cubbbix.com/languages-required-jobs-dubai/) — 2026 guide to in-demand languages for Dubai's job market
