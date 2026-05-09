@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-222-blue)
+![Tools Count](https://img.shields.io/badge/Tools-232-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -115,6 +115,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [URL to Markdown Converter](https://cubbbix.com/url-to-markdown/) — Free online URL Markdown tool to convert webpage to Markdown format. Fast and private Markdown converter with Readability support.
 - [UUID Generator](https://cubbbix.com/uuid-generator/) — Generate standard UUIDs (v1 and v4) instantly
 - [Word Counter](https://cubbbix.com/word-counter/) — Count words, characters, and sentences
+- [Word Frequency Counter](https://cubbbix.com/word-frequency-counter/) — Count word frequency instantly in your browser. Find the most used words with 100% privacy.
 
 ---
 
@@ -159,6 +160,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Trivia Quiz](https://cubbbix.com/trivia-quiz/) — Test your knowledge with trivia questions
 - [Vibe Check Calculator](https://cubbbix.com/vibe-check-calculator/) — Answer 3 questions to discover your personalized vibe for the day
 - [Sun, Moon & Rising Sign Calculator](https://cubbbix.com/sun-moon-rising-calculator/) — Discover your Big Three astrological signs (Sun, Moon, and Ascendant) instantly.
+- [Physics Sandbox](https://cubbbix.com/physics-sandbox/) — Free 2D physics sandbox. Spawn shapes, change gravity, and interact with objects.
 - [Yes / No Generator](https://cubbbix.com/yes-no-generator/) — Randomly generate Yes or No answers
 
 ---
