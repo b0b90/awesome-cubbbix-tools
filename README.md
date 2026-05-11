@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-232-blue)
+![Tools Count](https://img.shields.io/badge/Tools-243-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -67,6 +67,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Unit Converter](https://cubbbix.com/unit-converter/) — Convert Length, Weight, Temperature, and more instantly
 - [Weeks Ago Calculator](https://cubbbix.com/weeks-ago-calculator/) — Calculate the exact date weeks ago from any start date. Includes day name, week/year, and lookup table.
 - [Weeks Left in the Year Calculator](https://cubbbix.com/weeks-left-in-the-year/) — Find how many weeks, days, and hours are left in 2026 or any year from your selected date.
+- [Ohio Paycheck Calculator](https://cubbbix.com/ohio-paycheck-calculator/) — Calculate your Ohio take-home pay with federal and state tax deductions
 - [Oil Change Cost Calculator](https://cubbbix.com/oil-change-cost-calculator/) — Calculate the exact cost of an oil change. Compare DIY costs vs mechanic shops.
 - [Yards to Tons Calculator](https://cubbbix.com/yards-to-tons-calculator/) — Convert cubic yards to US short tons and back for gravel, sand, topsoil, and concrete.
 
@@ -80,11 +81,13 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Developer Tools
+- [ASCII Table Reference](https://cubbbix.com/ascii-table/) — Complete ASCII table with decimal, hex, octal, and binary values
 - [Base64 Encoder & Decoder](https://cubbbix.com/base64-encoder-decoder/) — Encode and decode data to Base64 format
 - [Case Converter](https://cubbbix.com/case-converter/) — Convert text between different cases (camelCase, snake_case, etc.)
 - [Chmod Calculator](https://cubbbix.com/chmod-calculator/) — Visual permissions generator for Linux/Unix files
 - [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
 - [API Data Fetcher Tool](https://cubbbix.com/api-data-fetcher/) — Fetch, test, and analyze API responses instantly (Proxy supported)
+- [CSS Minifier & Beautifier](https://cubbbix.com/css-minifier-beautifier/) — Minify or beautify CSS code instantly in your browser
 - [Data Cleaner Tool](https://cubbbix.com/data-cleaner/) — Clean your lists and CSV data (Deduplicate, Trim, Handle Nulls)
 - [CSV to JSON Converter](https://cubbbix.com/csv-to-json/) — Convert CSV data to JSON objects instantly and securely.
 - [CSV to Markdown](https://cubbbix.com/csv-to-markdown/) — Convert CSV data to formatted Markdown tables. Supports custom alignment, file upload, and uses privacy-first processing.
@@ -96,26 +99,34 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Generate UPC Label](https://cubbbix.com/generate-upc-label/) — Generate valid UPC-A barcodes instantly (single and bulk)
 - [Git Commit Hash Generator](https://cubbbix.com/git-commit-hash-generator/) — Generate exact Git commit SHA-1 hashes and learn how Git constructs commit objects
 - [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
+- [HTML Entity Converter](https://cubbbix.com/html-entity-converter/) — Encode and decode HTML entities instantly in your browser
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
 - [JSON to CSV Converter](https://cubbbix.com/json-to-csv/) — Convert JSON data to CSV format instantly and securely.
 - [JSON to TOML/YAML/XML Converter](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOML, YAML, or XML formats instantly
+- [JSON-YAML Converter](https://cubbbix.com/json-yaml-converter/) — Convert between JSON and YAML formats instantly
 - [JWT Decoder](https://cubbbix.com/jwt-decoder/) — Decode and inspect JSON Web Tokens instantly
 - [LLM API Cost Calculator](https://cubbbix.com/llm-api-cost-calculator/) — Compare API costs for OpenAI, Anthropic & Google
 - [Lorem Ipsum Generator](https://cubbbix.com/lorem-ipsum-generator/) — Generate placeholder text for designs
+- [Markdown Preview](https://cubbbix.com/markdown-preview/) — Live Markdown preview and editor in your browser
 - [Markdown to HTML](https://cubbbix.com/markdown-to-html/) — Convert Markdown text to clean, valid HTML code instantly.
 - [Markdown to PDF](https://cubbbix.com/markdown-to-pdf/) — Convert Markdown text to professional PDF documents instantly.
 - [RAID Calculator](https://cubbbix.com/raid-calculator/) — Calculate RAID usable space (RAID 0, 1, 5, 6, 10)
+- [Reading Time Calculator](https://cubbbix.com/reading-time-calculator/) — Estimate how long it takes to read any text based on word count
 - [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
+- [Robots.txt Generator](https://cubbbix.com/robots-txt-generator/) — Generate a valid robots.txt file for your website
+- [Schema Markup Generator](https://cubbbix.com/schema-generator/) — Generate JSON-LD structured data for SEO
 - [Screen Resolution Simulator](https://cubbbix.com/screen-resolution-simulator/) — Test website responsiveness on iPhone, iPad, and Desktop devices
 - [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
+- [SQL Formatter](https://cubbbix.com/sql-formatter/) — Format and beautify SQL queries instantly
 - [Text Diff Checker](https://cubbbix.com/diff-checker/) — Compare two text files or code snippets to find the difference. Highlight added and removed lines.
 - [Timestamp Converter](https://cubbbix.com/timestamp-converter/) — Convert Unix timestamps to human dates and vice versa
 - [Token Generator](https://cubbbix.com/token-generator/) — Generate secure, random tokens and strings with custom lengths and character types
 - [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
 - [URL to Markdown Converter](https://cubbbix.com/url-to-markdown/) — Free online URL Markdown tool to convert webpage to Markdown format. Fast and private Markdown converter with Readability support.
+- [User Agent Parser](https://cubbbix.com/user-agent-parser/) — Parse and decode any user agent string to identify browser, OS, and device
 - [UUID Generator](https://cubbbix.com/uuid-generator/) — Generate standard UUIDs (v1 and v4) instantly
 - [Word Counter](https://cubbbix.com/word-counter/) — Count words, characters, and sentences
-- [Word Frequency Counter](https://cubbbix.com/word-frequency-counter/) — Count word frequency instantly in your browser. Find the most used words with 100% privacy.
+- [XML Sitemap Generator](https://cubbbix.com/xml-sitemap-generator/) — Generate XML sitemaps for your website
 
 ---
 
@@ -141,6 +152,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [US Citizenship Civics Test](https://cubbbix.com/us-citizenship-test/) — Can you pass the official USCIS naturalization test? Answer 10 randomized civics questions
 - [Mental Generation Quiz](https://cubbbix.com/mental-generation-quiz/) — Find out your true mental generation with this 7-question personality quiz
 - [Biological Generation Calculator](https://cubbbix.com/generation-calculator/) — Enter your birth year to discover if you're a Boomer, Gen X, Millennial, Gen Z, or Gen Alpha
+- [Hebrew Numbers Converter](https://cubbbix.com/hebrew-numbers/) — Convert between Hebrew numerals (Gematria) and Arabic numbers
+- [Hebrew Proficiency Test](https://cubbbix.com/hebrew-quiz/) — Adaptive Hebrew proficiency test with official PDF certificate
 - [IELTS Band Score Calculator](https://cubbbix.com/ielts-band-score-calculator/) — Calculate your IELTS band score for Listening, Reading, and Overall
 - [WCPM Calculator](https://cubbbix.com/wcpm-calculator/) — Calculate words correct per minute (WCPM) with accuracy, error rate, and fluency metrics.
 - [Word Problem Solver](https://cubbbix.com/word-problem-solver/) — Text-based word problem solver with step-by-step math explanations for arithmetic, percentages, and rates.
@@ -206,12 +219,14 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Add Noise to Image](https://cubbbix.com/add-noise/) — Emulate classic film grain or add TV static noise
 - [Adjust Image Gamma](https://cubbbix.com/adjust-gamma/) — Adjust the gamma curve to correct midtones
 - [Aspect Ratio Calculator](https://cubbbix.com/aspect-ratio-calculator/) — Maintain image and video ratios  
+- [Black Image Download](https://cubbbix.com/black-image-download/) — Download solid black images in any resolution for testing and design
 - [Censor Photo Online](https://cubbbix.com/censor-photo/) — Blur, pixelate or censor parts of a photo to hide faces or plates
 - [Change Image Brightness](https://cubbbix.com/change-brightness/) — Increment or decrement the brightness of any image
 - [Change Image Contrast](https://cubbbix.com/change-contrast/) — Increment or decrement the contrast of any image
 - [Change Image Exposure](https://cubbbix.com/change-exposure/) — Adjust the exposure of any image to fix lighting issues
 - [Change Image Saturation](https://cubbbix.com/change-saturation/) — Increment or decrement the saturation of any image
 - [Clip Image Online](https://cubbbix.com/clip-image/) — Crop images to circles, triangles, or rounded shapes
+- [Compress JPEG Online](https://cubbbix.com/compress-jpeg/) — Compress JPEG images to reduce file size while maintaining quality
 - [Compress Image Online](https://cubbbix.com/compress-image/) — Compress JPG, PNG, WebP, HEIC, SVG or GIF online without losing quality
 - [Country Flag Downloader](https://cubbbix.com/country-flag-downloader/) — Download high-quality flags in SVG, PNG, JPG, or WebP
 - [Darken Image Online](https://cubbbix.com/darken-image/) — Make an image darker or reduce brightness instantly
@@ -220,6 +235,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Favicon Generator](https://cubbbix.com/favicon-generator/) — Generate perfect favicons from all browsers (SVG, PNG, ICO)
 - [Flip Image Online](https://cubbbix.com/flip-image/) — Mirror photos horizontally, vertically, or both instantly
 - [Grayscale Image Online](https://cubbbix.com/grayscale-image/) — Convert an image to grayscale or desaturate its colors
+- [Image Resizer](https://cubbbix.com/image-resizer/) — Resize images to any dimension instantly in your browser
 - [Invert Image Colors](https://cubbbix.com/invert-image-colors/) — Quickly reverse the colors of any photo to create a negative effect
 - [Lighten Image Online](https://cubbbix.com/lighten-image/) — Make an image lighter or increase brightness instantly
 - [Merge Images Online](https://cubbbix.com/merge-images/) — Merge two images vertically or horizontally with custom border thickness and color
@@ -271,6 +287,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Sports Tools
+- [FIFA 2026 Fixtures & Schedule](https://cubbbix.com/fifa-2026-fixtures/) — Full FIFA World Cup 2026 schedule, groups, knockout bracket, and World Cup records tracker
 - [Net Run Rate Calculator](https://cubbbix.com/nrr-calculator/) — Calculate NRR for cricket tournaments like the T20 World Cup
 
 ---
@@ -309,16 +326,19 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
 - [PDF Splitter & Extractor](https://cubbbix.com/pdf-splitter/) — Extract specific pages from any PDF instantly and securely in your browser
 - [Privacy Policy Generator](https://cubbbix.com/privacy-policy-generator/) — Generate a free, professional privacy policy for your website or app in seconds
+- [Physics Sandbox](https://cubbbix.com/physics-sandbox/) — Interactive 2D physics playground to experiment with gravity, friction, and collisions
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
 - [Sample Audio Files](https://cubbbix.com/sample-audio-files/) — Download free sample audio files for testing and development
 - [Sample Document Files](https://cubbbix.com/sample-document-files/) — Download free sample document files (PDF, DOCX, XLSX, etc.) for testing
 - [Sample Image Files](https://cubbbix.com/sample-image-files/) — Download free sample image files in various formats for testing
 - [Sample Video Files](https://cubbbix.com/sample-video-files/) — Download free sample video files for testing and development
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
+- [Text Reverser](https://cubbbix.com/text-reverser/) — Reverse text instantly: flip characters, reverse word order, or reverse each word individually
 - [What Is My IP Address?](https://cubbbix.com/what-is-my-ip/) — Instant Public IPv4 & IPv6 Address Lookup
 - [White Screen](https://cubbbix.com/white-screen/) — Free fullscreen white screen tool for monitor cleaning, dead pixel detection, and display testing.
 - [Fake Word Generator](https://cubbbix.com/fake-word-generator/) — Generate pronounceable made-up words for brand names, fantasy terms, and creative projects.
 - [Gamertag Generator](https://cubbbix.com/gamertag-generator/) — Generate Xbox-style, random, and funny gamertags with offline browser-based patterns.
+- [Word Frequency Counter](https://cubbbix.com/word-frequency-counter/) — Count word frequency instantly in your browser with keyword density analysis
 - [Word Unscrambler](https://cubbbix.com/word-unscrambler/) — Instantly unscramble letters into valid English words for Scrabble and puzzles.
 
 ---
@@ -378,6 +398,9 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [What Languages Are Required for Jobs in Dubai?](https://cubbbix.com/languages-required-jobs-dubai/) — 2026 guide to in-demand languages for Dubai's job market
 - [Zakat Calculation Guide](https://cubbbix.com/guide-to-zakat-calculation-rules-nisab-assets/) — Rules, Nisab & assets (2025)
 - [Cursor AI: Sualeh Asif, SpaceX, and the $60 Billion Acquisition Deal](https://cubbbix.com/cursor-spacex-acquisition/) — Explore the unprecedented $60 billion SpaceX acquisition option for Cursor AI, co-founded by Sualeh Asif.
+- [How to Add a Promotion on LinkedIn (UK Guide)](https://cubbbix.com/how-to-add-a-promotion-on-linkedin-uk-guide/) — Step-by-step guide to adding a promotion to your LinkedIn profile
+- [AI Regulation News 2026: Global Update](https://cubbbix.com/ai-regulation-news-2026-global-update/) — The latest AI regulation developments across the EU, US, UK, and Asia
+- [What is a UI Audit? A Practical Guide](https://cubbbix.com/what-is-a-ui-audit/) — Finding and fixing interface problems with a structured UI audit process
 
 ---
 
