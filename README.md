@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-250-blue)
+![Tools Count](https://img.shields.io/badge/Tools-259-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -89,6 +89,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Box Shadow Generator](https://cubbbix.com/box-shadow-generator/) — Create beautiful CSS box shadows with our interactive generator. Adjust blur, spread, offsets, and color.
 - [Color Palette Generator](https://cubbbix.com/color-palette-generator/) — Generate beautiful, random color palettes instantly.
 - [CSS Gradient Generator](https://cubbbix.com/css-gradient-generator/) — Create stunning linear CSS gradients.
+- [Instagram Grid Maker](https://cubbbix.com/instagram-grid-maker/) — Split a single image into a 3×1, 3×2, or 3×3 Instagram-style grid and download all slices.
 - [Physics Sandbox](https://cubbbix.com/physics-sandbox/) — Interactive 2D physics playground to experiment with gravity, friction, and collisions.
 
 ---
@@ -337,6 +338,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
 - [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
 - [Hours Ago Calculator](https://cubbbix.com/hours-ago-calculator/) — Calculate exactly what time it was a specific number of hours or minutes ago
+- [Image to Base64](https://cubbbix.com/image-to-base64/) — Convert any image to a base64 data URL instantly in your browser.
 - [Laundry Symbol Decoder](https://cubbbix.com/laundry-symbol-decoder/) — Decode clothing care tags instantly
 - [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
 - [Military Time Converter](https://cubbbix.com/military-time-converter/) — Instantly convert between military (24-hour) and standard 12-hour AM/PM time formats
@@ -345,6 +347,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [PDF Splitter & Extractor](https://cubbbix.com/pdf-splitter/) — Extract specific pages from any PDF instantly and securely in your browser
 - [Privacy Policy Generator](https://cubbbix.com/privacy-policy-generator/) — Generate a free, professional privacy policy for your website or app in seconds
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
+- [Random Number Generator](https://cubbbix.com/random-number-generator/) — Pick random numbers between any min and max values with unique, sort, and decimal options.
 - [Sample Audio Files](https://cubbbix.com/sample-audio-files/) — Download free sample audio files for testing and development
 - [Sample Document Files](https://cubbbix.com/sample-document-files/) — Download free sample document files (PDF, DOCX, XLSX, etc.) for testing
 - [Sample Image Files](https://cubbbix.com/sample-image-files/) — Download free sample image files in various formats for testing
@@ -355,6 +358,9 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Fake Word Generator](https://cubbbix.com/fake-word-generator/) — Generate pronounceable made-up words for brand names, fantasy terms, and creative projects.
 - [Gamertag Generator](https://cubbbix.com/gamertag-generator/) — Generate Xbox-style, random, and funny gamertags with offline browser-based patterns.
 - [Word Unscrambler](https://cubbbix.com/word-unscrambler/) — Instantly unscramble letters into valid English words for Scrabble and puzzles.
+- [Stopwatch & Timer](https://cubbbix.com/stopwatch-timer/) — Measure elapsed time with lap support or set a countdown timer with start, pause, and reset controls.
+- [Free Email Validator](https://cubbbix.com/email-validator/) — Verify email addresses in real-time. Checks syntax, domain MX records, disposable providers, and role accounts.
+- [Free Password Strength Checker](https://cubbbix.com/password-strength-checker/) — Test password security in your browser with real-time strength analysis and crack time estimates.
 
 ---
 
