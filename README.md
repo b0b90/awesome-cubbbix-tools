@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-259-blue)
+![Tools Count](https://img.shields.io/badge/Tools-276-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -168,13 +168,16 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [IELTS Band Score Calculator](https://cubbbix.com/ielts-band-score-calculator/) — Calculate your IELTS band score for Listening, Reading, and Overall
 - [WCPM Calculator](https://cubbbix.com/wcpm-calculator/) — Calculate words correct per minute (WCPM) with accuracy, error rate, and fluency metrics.
 - [Word Problem Solver](https://cubbbix.com/word-problem-solver/) — Text-based word problem solver with step-by-step math explanations for arithmetic, percentages, and rates.
+- [Japanese Name Converter](https://cubbbix.com/japanese-name-converter/) — Convert English names to Japanese (katakana, hiragana, kanji) instantly. Learn the meaning and pronunciation of your name in Japanese.
 
 ---
 
 ## Entertainment Tools
+- [BPM Tap Counter](https://cubbbix.com/bpm-tap-counter/) — Tap along to any beat to find the exact BPM of a song in real time
 - [Tetris Game Online](https://cubbbix.com/tetris/) — Play the classic Tetris arcade game for free
 - [Cat Name Generator](https://cubbbix.com/cat-name-generator/) — Find the purr-fect name for your feline friend
 - [Christmas Countdown](https://cubbbix.com/christmas-countdown/) — Countdown to Christmas day
+- [Decision Wheel](https://cubbbix.com/decision-wheel/) — Spin the wheel to make random decisions with custom options
 - [Dog Age Calculator](https://cubbbix.com/dog-age-calculator/) — Convert your dog's age to human years using a science-based size-adjusted formula
 - [Dog Name Generator](https://cubbbix.com/dog-name-generator/) — Find the paw-fect name for your canine companion
 - [Fairy Name Generator](https://cubbbix.com/fairy-name-generator/) — Discover your magical fairy name
@@ -230,6 +233,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Add Noise to Image](https://cubbbix.com/add-noise/) — Emulate classic film grain or add TV static noise
 - [Adjust Image Gamma](https://cubbbix.com/adjust-gamma/) — Adjust the gamma curve to correct midtones
 - [Aspect Ratio Calculator](https://cubbbix.com/aspect-ratio-calculator/) — Maintain image and video ratios  
+- [Audio Translator](https://cubbbix.com/audio-translator/) — Record voice, get speech-to-text transcription, and translate between languages
 - [Black Image Download](https://cubbbix.com/black-image-download/) — Download solid black PNG images in multiple resolutions
 - [Censor Photo Online](https://cubbbix.com/censor-photo/) — Blur, pixelate or censor parts of a photo to hide faces or plates
 - [Change Image Brightness](https://cubbbix.com/change-brightness/) — Increment or decrement the brightness of any image
@@ -249,7 +253,9 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Image Filters Online](https://cubbbix.com/image-filters/) — Apply multiple image filters and effects in your browser
 - [Image Resizer](https://cubbbix.com/image-resizer/) — Resize images to exact dimensions or reduce file size
 - [Invert Image Colors](https://cubbbix.com/invert-image-colors/) — Quickly reverse the colors of any photo to create a negative effect
+- [JPG to ICO Converter](https://cubbbix.com/jpg-to-ico/) — Convert JPG, PNG, or any image to ICO favicon format online.
 - [Lighten Image Online](https://cubbbix.com/lighten-image/) — Make an image lighter or increase brightness instantly
+- [Loop Video](https://cubbbix.com/loop-video/) — Repeat short video clips and export a looped WebM file directly in your browser
 - [Merge Images Online](https://cubbbix.com/merge-images/) — Merge two images vertically or horizontally with custom border thickness and color
 - [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
 - [Overlay Images Online](https://cubbbix.com/overlay-images/) — Overlay, merge, and watermark two images with full blend mode control
@@ -262,6 +268,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Split Image Online](https://cubbbix.com/split-image/) — Slice your photos into multiple pieces instantly, securely, and privately
 - [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon/) — Convert SVG icons to favicons
 - [Venn Diagram Generator](https://cubbbix.com/venn-diagram-generator/) — Create 2, 3, and 4-circle Venn diagrams online and export as PNG, JPEG, SVG
+- [WebP to PNG Converter](https://cubbbix.com/webp-to-png/) — Convert WebP images to PNG format instantly and privately.
 - [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
 - [Webcam Test](https://cubbbix.com/webcam-test/) — Test your webcam and microphone online.
 
@@ -271,6 +278,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Crontab Generator](https://cubbbix.com/crontab-generator/) — Visual cron schedule editor for creating crontab syntax
 - [Email Permutator](https://cubbbix.com/email-permutator/) — Find email addresses by generating common name permutations
 - [Email Signature Generator](https://cubbbix.com/email-signature-generator/) — Create free professional email signatures
+- [Free Signature Generator](https://cubbbix.com/free-signature-generator/) — Draw a handwritten signature in your browser and download it as a PNG file
 - [Pomodoro Focus Timer](https://cubbbix.com/pomodoro-timer/) — Master your time with the Pomodoro Technique (25/5 intervals)
 - [Reading Time Calculator](https://cubbbix.com/reading-time-calculator/) — Estimate how long it takes to read any text
 - [Salary to Hourly Calculator](https://cubbbix.com/salary-to-hourly/) — Convert annual salary to hourly wage and vice versa
@@ -294,6 +302,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [On-Page SEO Checker](https://cubbbix.com/onpage-seo-check/) — Get a free on-page SEO audit
 - [Open Graph Checker](https://cubbbix.com/open-graph-checker/) — Preview how your content looks on social media
 - [Page Title Generator](https://cubbbix.com/page-title-generator/) — Generate high-CTR page titles using AI
+- [Redirect Checker](https://cubbbix.com/redirect-checker/) — Trace the full path of any URL. Discover hidden redirects, 301 vs 302 statuses, and find the true final destination.
 - [Robots.txt Generator](https://cubbbix.com/robots-txt-generator/) — Create robots.txt files to manage crawler access
 - [Schema.org JSON-LD Generator](https://cubbbix.com/schema-generator/) — Generate structured data markup for better search results
 - [Structured Data Checker](https://cubbbix.com/structured-data-check/) — Validate JSON-LD and Microdata schema markup
@@ -337,6 +346,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Compress PDF](https://cubbbix.com/pdf-compressor/) — Reduce PDF file size online without losing quality
 - [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
 - [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
+- [EXIF Data Viewer](https://cubbbix.com/exif-data-viewer/) — View hidden photo metadata including camera settings, GPS coordinates, and timestamps
 - [Hours Ago Calculator](https://cubbbix.com/hours-ago-calculator/) — Calculate exactly what time it was a specific number of hours or minutes ago
 - [Image to Base64](https://cubbbix.com/image-to-base64/) — Convert any image to a base64 data URL instantly in your browser.
 - [Laundry Symbol Decoder](https://cubbbix.com/laundry-symbol-decoder/) — Decode clothing care tags instantly
@@ -347,11 +357,14 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [PDF Splitter & Extractor](https://cubbbix.com/pdf-splitter/) — Extract specific pages from any PDF instantly and securely in your browser
 - [Privacy Policy Generator](https://cubbbix.com/privacy-policy-generator/) — Generate a free, professional privacy policy for your website or app in seconds
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
+- [QR Code Scanner](https://cubbbix.com/qr-code-scanner/) — Scan QR codes using your camera or uploaded images
 - [Random Number Generator](https://cubbbix.com/random-number-generator/) — Pick random numbers between any min and max values with unique, sort, and decimal options.
+- [WiFi QR Code Generator](https://cubbbix.com/wifi-qr-code-generator/) — Generate a scannable WiFi QR code so guests can join your network instantly
 - [Sample Audio Files](https://cubbbix.com/sample-audio-files/) — Download free sample audio files for testing and development
 - [Sample Document Files](https://cubbbix.com/sample-document-files/) — Download free sample document files (PDF, DOCX, XLSX, etc.) for testing
 - [Sample Image Files](https://cubbbix.com/sample-image-files/) — Download free sample image files in various formats for testing
 - [Sample Video Files](https://cubbbix.com/sample-video-files/) — Download free sample video files for testing and development
+- [Screen Recorder](https://cubbbix.com/screen-recorder/) — Record your screen, window, or tab with optional microphone audio directly in your browser
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
 - [What Is My IP Address?](https://cubbbix.com/what-is-my-ip/) — Instant Public IPv4 & IPv6 Address Lookup
 - [White Screen](https://cubbbix.com/white-screen/) — Free fullscreen white screen tool for monitor cleaning, dead pixel detection, and display testing.
@@ -419,6 +432,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [What Languages Are Required for Jobs in Dubai?](https://cubbbix.com/languages-required-jobs-dubai/) — 2026 guide to in-demand languages for Dubai's job market
 - [Zakat Calculation Guide](https://cubbbix.com/guide-to-zakat-calculation-rules-nisab-assets/) — Rules, Nisab & assets (2025)
 - [Cursor AI: Sualeh Asif, SpaceX, and the $60 Billion Acquisition Deal](https://cubbbix.com/cursor-spacex-acquisition/) — Explore the unprecedented $60 billion SpaceX acquisition option for Cursor AI, co-founded by Sualeh Asif.
+- [UAE New Salary Payment Rule 2026: WPS Resolution 340, Deadlines and Penalties](https://cubbbix.com/blog/uae-salary-payment-rule-2026/) — Starting June 1, 2026, UAE private sector salaries are due on the 1st of every month. Full enforcement timeline and compliance guide.
 
 ---
 
