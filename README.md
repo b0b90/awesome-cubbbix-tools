@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-276-blue)
+![Tools Count](https://img.shields.io/badge/Tools-280-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -263,6 +263,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [PNG Sequence Maker](https://cubbbix.com/png-sequence-maker/) — World's simplest online GIF to PNG sequence converter. Extract and arrange frames instantly.
 - [PNG Color Replacer](https://cubbbix.com/change-png-color/) — Instantly change and replace colors in any PNG image directly in your browser.
 - [Random Bitmap Generator](https://cubbbix.com/random-bitmap-generator/) — Generate random static and noise bitmaps instantly
+- [Remove PNG Chroma Key](https://cubbbix.com/remove-png-chroma-key/) — Free tool to remove chroma key (green screen or solid background) from images instantly
 - [Sepia Effect Online](https://cubbbix.com/sepia-effect/) — Give your photos a classic vintage warm look
 - [Shift Image Hue](https://cubbbix.com/add-hue/) — Spin the color wheel to completely shift image colors
 - [Split Image Online](https://cubbbix.com/split-image/) — Slice your photos into multiple pieces instantly, securely, and privately
@@ -433,6 +434,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Zakat Calculation Guide](https://cubbbix.com/guide-to-zakat-calculation-rules-nisab-assets/) — Rules, Nisab & assets (2025)
 - [Cursor AI: Sualeh Asif, SpaceX, and the $60 Billion Acquisition Deal](https://cubbbix.com/cursor-spacex-acquisition/) — Explore the unprecedented $60 billion SpaceX acquisition option for Cursor AI, co-founded by Sualeh Asif.
 - [UAE New Salary Payment Rule 2026: WPS Resolution 340, Deadlines and Penalties](https://cubbbix.com/blog/uae-salary-payment-rule-2026/) — Starting June 1, 2026, UAE private sector salaries are due on the 1st of every month. Full enforcement timeline and compliance guide.
+- [Reverse Audio App Review](https://cubbbix.com/reverse-audio-app-review/) — Fast, private voice manipulation and reversing tool for creators.
 
 ---
 
