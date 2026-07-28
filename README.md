@@ -4,14 +4,25 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-280-blue)
+![Tools Count](https://img.shields.io/badge/Tools-331-brightgreen)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cubbbix-tools/akojchkfhmcfemkepfjbcnjbnaodamff)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
 
 This repository exists to make Cubbbix tools easy to discover, bookmark, and share.
+Get instant access to all tools via our [Official Chrome Extension](https://chromewebstore.google.com/detail/cubbbix-tools/akojchkfhmcfemkepfjbcnjbnaodamff).
 
 ---
+
+## 🎉 331 Tools Milestone — July 2026
+
+> **We just crossed 331 free tools.** What started as a handful of calculators and converters has grown into a toolkit used by developers, students, marketers, and creators across 100+ countries. Every tool on this list is free, no sign-up required, and built to actually be useful.
+>
+> Thank you to everyone who bookmarked, shared, linked to, or just quietly used Cubbbix. You are the reason this keeps growing.
+
+---
+
 
 ## Table of Contents
 - [AI Tools](#ai-tools)
@@ -47,6 +58,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Byte Converter](https://cubbbix.com/byte-converter/) — Convert between bits, bytes, KB, MB, GB, TB, and PB
 - [Calculatrice Hypothécaire Suisse](https://cubbbix.com/calculatrice-hypothecaire-suisse/) — Calculatrice immobilière suisse : test de tenabilité (stress test) et fonds propres.
 - [CC to HP Calculator](https://cubbbix.com/cc-to-hp-calculator/) — Convert engine CC to horsepower and HP to CC with multiple engine type assumptions
+- [WHP to HP Calculator](https://cubbbix.com/whp-to-hp-calculator/) — Calculate true engine horsepower (HP) from wheel horsepower (WHP) using drivetrain loss estimates
 - [Currency Converter](https://cubbbix.com/currency-converter/) — Live exchange rates for USD, EUR, GBP, JPY, and 160+ ISO currency codes
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 - [Date Calculator](https://cubbbix.com/date-calculator/) — Calculate days between two dates or add/subtract days from any date
@@ -95,13 +107,16 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Developer Tools
+- [Add Line Numbers to Text](https://cubbbix.com/add-line-numbers/) — Instantly insert line numbers before each line of text
 - [Base64 Encoder & Decoder](https://cubbbix.com/base64-encoder-decoder/) — Encode and decode data to Base64 format
+- [Binary to Text Converter](https://cubbbix.com/binary-to-text-converter/) — Decode binary code (0s and 1s) back into readable plain text
 - [Case Converter](https://cubbbix.com/case-converter/) — Convert text between different cases (camelCase, snake_case, etc.)
 - [Chmod Calculator](https://cubbbix.com/chmod-calculator/) — Visual permissions generator for Linux/Unix files
 - [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
 - [CSS Minifier & Beautifier](https://cubbbix.com/css-minifier-beautifier/) — Minify or beautify your CSS stylesheets instantly
 - [API Data Fetcher Tool](https://cubbbix.com/api-data-fetcher/) — Fetch, test, and analyze API responses instantly (Proxy supported)
 - [ASCII Table](https://cubbbix.com/ascii-table/) — Full ASCII reference table with decimal, hex, binary, and HTML codes
+- [ASCII to Text Converter](https://cubbbix.com/ascii-to-text/) — Decode numerical ASCII sequences back into readable plain text
 - [Data Cleaner Tool](https://cubbbix.com/data-cleaner/) — Clean your lists and CSV data (Deduplicate, Trim, Handle Nulls)
 - [CSV to JSON Converter](https://cubbbix.com/csv-to-json/) — Convert CSV data to JSON objects instantly and securely.
 - [CSV to Markdown](https://cubbbix.com/csv-to-markdown/) — Convert CSV data to formatted Markdown tables. Supports custom alignment, file upload, and uses privacy-first processing.
@@ -113,6 +128,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Generate UPC Label](https://cubbbix.com/generate-upc-label/) — Generate valid UPC-A barcodes instantly (single and bulk)
 - [Git Commit Hash Generator](https://cubbbix.com/git-commit-hash-generator/) — Generate exact Git commit SHA-1 hashes and learn how Git constructs commit objects
 - [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
+- [Hex to Text Converter](https://cubbbix.com/hex-to-text/) — Decode hexadecimal code back into plain text
 - [HTML Entity Encoder/Decoder](https://cubbbix.com/html-entity-converter/) — Encode or decode HTML entities instantly
 - [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
 - [JSON to CSV Converter](https://cubbbix.com/json-to-csv/) — Convert JSON data to CSV format instantly and securely.
@@ -127,10 +143,18 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [RAID Calculator](https://cubbbix.com/raid-calculator/) — Calculate RAID usable space (RAID 0, 1, 5, 6, 10)
 - [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
 - [Remove Duplicate Lines](https://cubbbix.com/remove-duplicate-lines/) — Deduplicate text lists and remove repeated lines instantly
+- [Remove Empty Lines](https://cubbbix.com/remove-empty-lines/) — Remove empty lines and blank spaces from text instantly
+- [Reverse Lines](https://cubbbix.com/reverse-lines/) — Instantly reverse the order of lines in a text document
+- [Reverse Words](https://cubbbix.com/reverse-words/) — Reverse the order of words in a sentence or flip the letters inside each word
+- [Text Repeater](https://cubbbix.com/text-repeater/) — Repeat text strings, words, or paragraphs multiple times
+
+- [Remove Spaces](https://cubbbix.com/remove-spaces/) — Remove all white spaces, tabs, and line breaks from any text
 - [Screen Resolution Simulator](https://cubbbix.com/screen-resolution-simulator/) — Test website responsiveness on iPhone, iPad, and Desktop devices
 - [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
 - [SQL Formatter & Beautifier](https://cubbbix.com/sql-formatter/) — Format and beautify SQL queries instantly — Analyze text for SEO optimization
 - [Text Diff Checker](https://cubbbix.com/diff-checker/) — Compare two text files or code snippets to find the difference. Highlight added and removed lines.
+- [Text to ASCII Converter](https://cubbbix.com/text-to-ascii/) — Convert plain text strings into numerical ASCII codes
+- [Text to Hex Converter](https://cubbbix.com/text-to-hex/) — Convert plain text strings into hexadecimal code format
 - [Timestamp Converter](https://cubbbix.com/timestamp-converter/) — Convert Unix timestamps to human dates and vice versa
 - [Token Generator](https://cubbbix.com/token-generator/) — Generate secure, random tokens and strings with custom lengths and character types
 - [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
@@ -194,6 +218,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Health
 - [ADHD Self-Test (ASRS-v1.1)](https://cubbbix.com/adhd-self-test/) — Take the free WHO Adult ADHD Self-Report Scale (ASRS-v1.1) screening test online. Based on peer-reviewed research by Kessler et al.
 - [mEq to mL Calculator](https://cubbbix.com/meq-to-ml-calculator/) — Convert between mEq and mL with custom or stock electrolyte strength (mEq/mL).
+- [Desk Height Calculator](https://cubbbix.com/desk-height-calculator/) — Calculate your perfect ergonomic sitting, standing, and monitor height.
 
 ---
 
@@ -297,20 +322,35 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Compression Checker](https://cubbbix.com/compression-checker/) — Verify Gzip and Brotli compression
 - [Google SERP Simulator](https://cubbbix.com/google-serp-simulator/) — Optimize snippets with pixel-perfect desktop & mobile previews
 - [H1 Tag Checker](https://cubbbix.com/h1-tag-checker/) — Check your H1 tag for SEO compliance
+- [HTTPS Redirect Checker](https://cubbbix.com/https-redirect-checker/) — Verify if your website correctly redirects HTTP traffic to HTTPS
+- [Heading Tags Check (H1–H6)](https://cubbbix.com/heading-tags-check/) — Full H1–H6 heading hierarchy validator with structure score
 - [HTTP Status Code Checker](https://cubbbix.com/http-status-checker/) — Check status codes and redirect chains
+- [Image Alt Checker](https://cubbbix.com/image-alt-check/) — Scan any webpage for img alt attributes and check accessibility
+- [Keyword Density Checker](https://cubbbix.com/keyword-density/) — Analyze keyword frequency and density on any webpage
 - [Meta Description Generator](https://cubbbix.com/meta-description-generator/) — Generate SEO-friendly meta descriptions using AI
+- [Meta Description Checker](https://cubbbix.com/meta-description-checker/) — Check any website's meta description for presence, character length, and SEO quality
+- [Meta Title Checker](https://cubbbix.com/meta-title-checker/) — Check your webpage's meta title for optimal length
 - [Noindex Checker](https://cubbbix.com/noindex-checker/) — Check if a URL is indexable by search engines
 - [On-Page SEO Checker](https://cubbbix.com/onpage-seo-check/) — Get a free on-page SEO audit
 - [Open Graph Checker](https://cubbbix.com/open-graph-checker/) — Preview how your content looks on social media
+- [Page Size Checker](https://cubbbix.com/page-size-checker/) — Instantly measure the HTML document size of any webpage
 - [Page Title Generator](https://cubbbix.com/page-title-generator/) — Generate high-CTR page titles using AI
+- [Canonical Checker](https://cubbbix.com/canonical-checker/) — Check if your webpage has a valid rel="canonical" tag
 - [Redirect Checker](https://cubbbix.com/redirect-checker/) — Trace the full path of any URL. Discover hidden redirects, 301 vs 302 statuses, and find the true final destination.
+- [Robots.txt Checker](https://cubbbix.com/robots-txt-checker/) — Check if any website has a valid robots.txt file with crawl directives
 - [Robots.txt Generator](https://cubbbix.com/robots-txt-generator/) — Create robots.txt files to manage crawler access
+- [Sitemap Checker](https://cubbbix.com/sitemap-checker/) — Check if any website has a valid XML sitemap and verify its format
 - [Schema.org JSON-LD Generator](https://cubbbix.com/schema-generator/) — Generate structured data markup for better search results
 - [Structured Data Checker](https://cubbbix.com/structured-data-check/) — Validate JSON-LD and Microdata schema markup
 - [SSL/TLS Certificate Checker](https://cubbbix.com/ssl-checker/) — Check SSL certificate validity and security
 - [Domain Age Checker](https://cubbbix.com/domain-age-checker/) — Check the exact age of any domain name in years, months, and days.
+- [Friendly URL Checker](https://cubbbix.com/friendly-url-checker/) — Analyze any URL to see if it follows SEO-friendly best practices for readability and structure
 - [Viewport Meta Tag Checker](https://cubbbix.com/viewport-checker/) — Check viewport settings for mobile responsiveness
 - [XML Sitemap Generator](https://cubbbix.com/xml-sitemap-generator/) — Create XML sitemaps to help search engines index your site
+- [Responsive Image Checker](https://cubbbix.com/responsive-image-checker/) — Check if images on any webpage are correctly sized for their display dimensions. Find oversized images hurting LCP and Core Web Vitals.
+- [Favicon Checker](https://cubbbix.com/favicon-check/) — Check favicon link tags, /favicon.ico, Apple Touch Icon, web manifest icons, and theme-color on any website
+- [Content Length Checker](https://cubbbix.com/content-length-check/) — Check word count, reading time, paragraph structure, and heading depth on any webpage. Identify thin content before Google does.
+- [X-Robots-Tag Checker](https://cubbbix.com/x-robots-tag-checker/) — Inspect HTTP response headers to ensure search engines are indexing (or ignoring) your files and pages correctly.
 
 ---
 
@@ -352,6 +392,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Image to Base64](https://cubbbix.com/image-to-base64/) — Convert any image to a base64 data URL instantly in your browser.
 - [Laundry Symbol Decoder](https://cubbbix.com/laundry-symbol-decoder/) — Decode clothing care tags instantly
 - [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
+- [Military Time Converter](https://cubbbix.com/military-time/) — Instantly convert between military (24-hour) and standard 12-hour AM/PM time formats, plus live clock
 - [Military Time Converter](https://cubbbix.com/military-time-converter/) — Instantly convert between military (24-hour) and standard 12-hour AM/PM time formats
 - [Temperature Converter](https://cubbbix.com/temperature-converter/) — Convert between Celsius, Fahrenheit, Kelvin, Rankine, Delisle, and more with live formulas and a reference chart
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
@@ -393,6 +434,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Gmail Username Change Guide](https://cubbbix.com/gmail-username-change-guide/) — Google finally kills the 20-year "Digital Tattoo"
 - [Gzip vs. Brotli Compression Guide](https://cubbbix.com/gzip-vs-brotli-compression-guide/) — The ultimate guide to web compression (2025)
 - [H1 Tag SEO Best Practices](https://cubbbix.com/h1-tag-seo-best-practices-guide/) — The ultimate H1 tag guide (2025)
+- [How Many Miles Have You Scrolled on Instagram?](https://cubbbix.com/how-many-miles-scrolled-instagram/) — A tech-and-wellbeing look at the invisible mileage of modern life — and what it's quietly costing us.
 - [H-E-E-A-T: The New SEO Ranking Factor](https://cubbbix.com/heeat-seo-ranking-factor/) — On-page SEO strategies for ranking with E-E-A-T
 - [The Critical Role of SSL in E-E-A-T](https://cubbbix.com/importance-of-ssl-for-eeat/) — Why security is the foundation of search authority and how it impacts trustworthiness.
 - [How to Find Free Canadian Import & Export Data for Market Research](https://cubbbix.com/free-canadian-import-export-data-guide/) — Market research doesn't have to be expensive. Learn how to legally access free Canadian government import and export data to find winning products, analyze competitors, and source new suppliers.
@@ -435,6 +477,10 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Cursor AI: Sualeh Asif, SpaceX, and the $60 Billion Acquisition Deal](https://cubbbix.com/cursor-spacex-acquisition/) — Explore the unprecedented $60 billion SpaceX acquisition option for Cursor AI, co-founded by Sualeh Asif.
 - [UAE New Salary Payment Rule 2026: WPS Resolution 340, Deadlines and Penalties](https://cubbbix.com/blog/uae-salary-payment-rule-2026/) — Starting June 1, 2026, UAE private sector salaries are due on the 1st of every month. Full enforcement timeline and compliance guide.
 - [Reverse Audio App Review](https://cubbbix.com/reverse-audio-app-review/) — Fast, private voice manipulation and reversing tool for creators.
+- [Turn Static PDFs into Interactive Lead Magnets](https://cubbbix.com/pdf-to-flipbook-lead-magnet/) — Learn how to convert static reports into interactive flipbooks using ZipFlipBook.
+- [10 Common Computer Problems Small Businesses Face (And How to Avoid Them)](https://cubbbix.com/blog/10-common-computer-problems-small-businesses-face-and-how-to-avoid-them/) — Expert IT tips to prevent downtime, data loss, and cybersecurity risks for small businesses.
+- [10 Daily Habits That Improve Productivity Without Working Longer](https://cubbbix.com/blog/10-daily-habits-improve-productivity-without-working-longer/) — Science-backed habits for sustainable output, featuring Thrive Global's research on well-being and recovery.
+- [AI Regulation News July 2026: The August Reckoning, US Preemption Battle, and 15 Countries Update](https://cubbbix.com/blog/ai-regulation-news-july-2026-global-update/) — The third edition of our AI regulation series: EU August 2 enforcement deadline, US Senate preemption vote, China's July 15 companion AI rules, and updates from 15 countries.
 
 ---
 
