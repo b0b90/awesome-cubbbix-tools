@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-401-brightgreen)
+![Tools Count](https://img.shields.io/badge/Tools-400-brightgreen)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cubbbix-tools/akojchkfhmcfemkepfjbcnjbnaodamff)
 
 A curated list of free online tools from **Cubbbix**.
@@ -15,9 +15,9 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 
 ---
 
-## 🎉 401 Tools Milestone — August 2026
+## 🎉 400 Tools Milestone — August 2026
 
-> **We just crossed 401 free tools.** What started as a handful of calculators and converters has grown into a toolkit used by developers, students, marketers, and creators across 100+ countries. Every tool on this list is free, no sign-up required, and built to actually be useful.
+> **We just crossed 400 free tools.** What started as a handful of calculators and converters has grown into a toolkit used by developers, students, marketers, and creators across 100+ countries. Every tool on this list is free, no sign-up required, and built to actually be useful.
 >
 > Thank you to everyone who bookmarked, shared, linked to, or just quietly used Cubbbix. You are the reason this keeps growing.
 
