@@ -4,10 +4,10 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-331-brightgreen)
+![Tools Count](https://img.shields.io/badge/Tools-401-brightgreen)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cubbbix-tools/akojchkfhmcfemkepfjbcnjbnaodamff)
 
-A curated list of free online tools from **Cubbbix**.  
+A curated list of free online tools from **Cubbbix**.
 Useful for developers, creators, students, and everyday productivity.
 
 This repository exists to make Cubbbix tools easy to discover, bookmark, and share.
@@ -15,407 +15,544 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 
 ---
 
-## 🎉 331 Tools Milestone — July 2026
+## 🎉 401 Tools Milestone — August 2026
 
-> **We just crossed 331 free tools.** What started as a handful of calculators and converters has grown into a toolkit used by developers, students, marketers, and creators across 100+ countries. Every tool on this list is free, no sign-up required, and built to actually be useful.
+> **We just crossed 401 free tools.** What started as a handful of calculators and converters has grown into a toolkit used by developers, students, marketers, and creators across 100+ countries. Every tool on this list is free, no sign-up required, and built to actually be useful.
 >
 > Thank you to everyone who bookmarked, shared, linked to, or just quietly used Cubbbix. You are the reason this keeps growing.
 
 ---
 
-
 ## Table of Contents
 - [AI Tools](#ai-tools)
+- [Astrology](#astrology)
+- [Automotive](#automotive)
 - [Calculators](#calculators)
 - [Career Tools](#career-tools)
+- [Christianity](#christianity)
+- [Design Tools](#design-tools)
 - [Developer Tools](#developer-tools)
-- [Education Tools](#education-tools)
+- [Education](#education)
 - [Entertainment Tools](#entertainment-tools)
 - [Finance Tools](#finance-tools)
-- [Home & Garden](#home--garden)
+- [Health & Fitness](#health-fitness)
+- [Home & Garden](#home-garden)
+- [Image Tools](#image-tools)
 - [Math Tools](#math-tools)
 - [Media Tools](#media-tools)
 - [Productivity](#productivity)
-- [SEO](#seo)
+- [Ramadan](#ramadan)
+- [SEO Tools](#seo-tools)
+- [Sikhism](#sikhism)
 - [Social Media Tools](#social-media-tools)
 - [Sports Tools](#sports-tools)
+- [Text Tools](#text-tools)
 - [Travel Tools](#travel-tools)
 - [Utilities](#utilities)
+- [Engineering Blog](#engineering-blog)
 - [About Cubbbix](#about-cubbbix)
 - [Contribute](#contribute)
 
 ---
 
 ## AI Tools
-- [OpenClaw Cost Calculator](https://cubbbix.com/openclaw-cost-calculator/) — Estimate monthly OpenClaw AI agent API costs across Claude, GPT-5, and DeepSeek
+- [AI Prompt Optimizer](https://cubbbix.com/ai-prompt-optimizer/) — Structure and optimize raw prompts for ChatGPT, Claude 3.5 Sonnet, and Gemini. Features CO-STAR framework, XML tag formatting, persona priming, and direct playground testing.
+- [Calculate OpenClaw / AI Crawler Costs — Free Tool](https://cubbbix.com/openclaw-cost-calculator/) — Instantly calculate operational costs and API usage for web scraping and AI web crawlers. Free online data scraping cost estimator. Estimate crawler expenses now.
+
+---
+
+## Astrology
+- [Calculate Sun, Moon & Rising Sign — Instant & Free](https://cubbbix.com/sun-moon-rising-calculator/) — Instantly calculate your astrology Big 3 (Sun, Moon, and Ascendant/Rising sign) using birth date and time. Free, private astrology calculator. Find your signs now.
+
+---
+
+## Automotive
+- [Compare Tire Sizes & Speedometer Error — Free Tool](https://cubbbix.com/tire-size-calculator/) — Instantly compare tire diameter, width, sidewall height, and speedometer offset between tire sizes. Free online automotive tire size calculator. Compare tires now.
+- [Convert CC to HP — Instant & Free Engine Calculator](https://cubbbix.com/cc-to-hp-calculator/) — Instantly convert engine cubic centimeters (CC) to horsepower (HP). Free, accurate, and completely private. Get engine specs instantly.
+- [Convert Wheel HP (WHP) to Crank HP — Free Tool](https://cubbbix.com/whp-to-hp-calculator/) — Instantly estimate engine crank horsepower from wheel horsepower (WHP) accounting for drivetrain loss. Free online automotive power calculator. Convert WHP to HP now.
+- [Estimate Motorcycle Insurance Costs — Free Tool](https://cubbbix.com/motorcycle-insurance-calculator/) — Instantly estimate motorcycle insurance premiums based on bike type, coverage, and age. Free online motorcycle insurance quote calculator. Estimate costs now.
+- [Estimate Oil Change Cost & Savings — Free Tool](https://cubbbix.com/oil-change-cost-calculator/) — Instantly estimate synthetic vs conventional oil change prices and DIY savings. Free online car maintenance cost estimator. Compare oil change costs now.
 
 ---
 
 ## Calculators
-- [Age Calculator](https://cubbbix.com/age-calculator/) — Calculate exact age in years, months, and days  
-- [Birth Year Calculator](https://cubbbix.com/birth-year-calculator/) — Find your birth year by age and selected date. Fast birth year calculator with before/after birthday logic.
-- [BMI Calculator](https://cubbbix.com/bmi-calculator/) — Calculate your Body Mass Index and weight category
-- [Byte Converter](https://cubbbix.com/byte-converter/) — Convert between bits, bytes, KB, MB, GB, TB, and PB
-- [Calculatrice Hypothécaire Suisse](https://cubbbix.com/calculatrice-hypothecaire-suisse/) — Calculatrice immobilière suisse : test de tenabilité (stress test) et fonds propres.
-- [CC to HP Calculator](https://cubbbix.com/cc-to-hp-calculator/) — Convert engine CC to horsepower and HP to CC with multiple engine type assumptions
-- [WHP to HP Calculator](https://cubbbix.com/whp-to-hp-calculator/) — Calculate true engine horsepower (HP) from wheel horsepower (WHP) using drivetrain loss estimates
-- [Currency Converter](https://cubbbix.com/currency-converter/) — Live exchange rates for USD, EUR, GBP, JPY, and 160+ ISO currency codes
-- [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
-- [Date Calculator](https://cubbbix.com/date-calculator/) — Calculate days between two dates or add/subtract days from any date
-- [Decimal to Fraction Calculator](https://cubbbix.com/decimal-to-fraction-calculator/) — Convert any decimal to a fraction instantly and see the step-by-step mathematical working.
-- [Dimensional (Volumetric) Weight Calculator](https://cubbbix.com/volumetric-weight-calculator/) — Calculate the dimensional weight of your packages to estimate shipping costs accurately.
-- [How Rich Would You Be](https://cubbbix.com/how-rich-if-started-earlier/) — Calculate the exact opportunity cost of waiting to invest and see how much you'd have today
-- [Loan Calculator](https://cubbbix.com/loan-calculator/) — Calculate monthly payments, total interest, and full amortization schedule for any loan
-- [Month Calculator (Monatsrechner)](https://cubbbix.com/month-calculator/) — Calculate months between dates or add/subtract months. Multilingual: Monatsrechner, Calculadora de meses, 月計算機
-- [Mortgage Calculator](https://cubbbix.com/mortgage-calculator/) — Calculate monthly mortgage payments with taxes, insurance, and full amortization schedule.
-- [Formal Charge Calculator](https://cubbbix.com/formal-charge-calculator/) — How to calculate the formal charge of an atom from Lewis structure with the formal charge equation and steps.
-- [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
-- [Population Growth Calculator](https://cubbbix.com/population-growth-calculator/) — Project future population using exponential, linear, doubling-time, and logistic models
-- [PSU Wattage Calculator](https://cubbbix.com/psu-wattage-calculator/) — Calculate PC power requirements and get PSU recommendations
-- [Quarts to Pounds Calculator](https://cubbbix.com/quarts-to-pounds-calculator/) — Convert quarts to pounds and pounds to quarts using material density and quart type.
-- [RERA Calculator](https://cubbbix.com/rera-calculator/) — Calculate permissible rent increases in Dubai based on the official RERA Rental Index Decree.
-- [Shipping Box Optimizer & Calculator](https://cubbbix.com/shipping-box-optimizer/) — Find the smallest standard shipping box for your items to minimize costs.
-- [Similar Triangle Calculator](https://cubbbix.com/similar-triangle-calculator/) — Find missing side lengths of similar triangles and calculate scale factors instantly
-- [Tire Size Calculator](https://cubbbix.com/tire-size-calculator/) — Compare two tire sizes instantly — diameter, width, sidewall, and speedometer error
-- [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
-- [Tip Calculator](https://cubbbix.com/tip-calculator/) — Calculate restaurant gratuity, split bills, and per-person shares
-- [UAE Gratuity Calculator](https://cubbbix.com/uae-gratuity-calculator/) — Calculate your UAE end-of-service gratuity instantly. 100% updated for 2026.
-- [Unit Converter](https://cubbbix.com/unit-converter/) — Convert Length, Weight, Temperature, and more instantly
-- [Weeks Ago Calculator](https://cubbbix.com/weeks-ago-calculator/) — Calculate the exact date weeks ago from any start date. Includes day name, week/year, and lookup table.
-- [Weeks Left in the Year Calculator](https://cubbbix.com/weeks-left-in-the-year/) — Find how many weeks, days, and hours are left in 2026 or any year from your selected date.
-- [Oil Change Cost Calculator](https://cubbbix.com/oil-change-cost-calculator/) — Calculate the exact cost of an oil change. Compare DIY costs vs mechanic shops.
-- [Dew Point Calculator](https://cubbbix.com/dew-point-calculator/) — Calculate the dew point temperature from air temperature and relative humidity.
-- [Grease Trap Size Calculator](https://cubbbix.com/grease-trap-size-calculator/) — Calculate the required grease trap size (GPM) for your commercial kitchen based on fixture volume and flow rate.
-- [Yards to Tons Calculator](https://cubbbix.com/yards-to-tons-calculator/) — Convert cubic yards to US short tons and back for gravel, sand, topsoil, and concrete.
-
+- [Calculate Birth Year — Free, Instant Online Tool](https://cubbbix.com/birth-year-calculator/) — Instantly determine a person\'s birth year based on their current age. Free, fast, and 100% private. Find the exact year of birth effortlessly.
+- [Calculate BMI — Free, Fast Online Health Tool](https://cubbbix.com/bmi-calculator/) — Instantly check your Body Mass Index (BMI) for adults and kids. Free, 100% private, and works in your browser. Get your health insights instantly.
+- [Calculate Date Weeks Ago — Instant & Free](https://cubbbix.com/weeks-ago-calculator/) — Instantly calculate the exact calendar date from N weeks ago or count weeks between dates. Free online date subtraction calculator. Find past dates fast.
+- [Calculate Dew Point — Free & Instant Weather Tool](https://cubbbix.com/dew-point-calculator/) — Instantly calculate dew point and relative humidity for any temperature. Free, accurate online weather tool. Get meteorological data instantly.
+- [Calculate Dimensional (Volumetric) Weight — Free Tool](https://cubbbix.com/volumetric-weight-calculator/) — Instantly compute dimensional freight weight (L x W x H / divisor) for FedEx, UPS, and air cargo. Free online shipping calculator. Calculate dimensional weight fast.
+- [Calculate Exact Age — Free, Fast & Online Tool](https://cubbbix.com/age-calculator/) — Instantly calculate age in years, months, days, and seconds from any birthdate. Free, private, and works offline in your browser. Find your exact age now.
+- [Calculate Loan Payments & Interest — Instant & Free](https://cubbbix.com/loan-calculator/) — Instantly calculate monthly loan repayments, interest rates, and full amortization schedules. Free, fast online personal and auto loan calculator. Plan your loans now.
+- [Calculate Math Factors — Free & Instant Online Tool](https://cubbbix.com/factor-calculator/) — Instantly find all the factors, prime factors, and factor pairs of any number. Free, accurate math calculator. Solve problems instantly.
+- [Calculate Monthly Mortgage Payments — Free Tool](https://cubbbix.com/mortgage-calculator/) — Instantly calculate home mortgage payments, principal, interest, taxes, and PMI. Free online mortgage payment estimator. Plan your home loan payments now.
+- [Calculate Months Between Dates — Fast & Free](https://cubbbix.com/month-calculator/) — Instantly count total months, weeks, and days between any two calendar dates. Free, fast online date difference calculator. Calculate months between dates now.
+- [Calculate PC Power Supply (PSU) Wattage — Free](https://cubbbix.com/psu-wattage-calculator/) — Instantly estimate total power consumption (TDP) for CPU, GPU, and PC build components. Free online PC power supply calculator. Choose the right PSU now.
+- [Calculate Percentages Online — Fast & Free Math Tool](https://cubbbix.com/percentage-calculator/) — Instantly calculate percentage increases, decreases, differences, and fractions of numbers. Free, easy online percentage calculator. Solve percentage math fast.
+- [Calculate Population Growth Rates — Free Math Tool](https://cubbbix.com/population-growth-calculator/) — Instantly estimate exponential and logistic population growth over time with clear formulas. Free online demography calculator. Compute population growth now.
+- [Calculate Rectangle Area, Perimeter & Diagonal — Free](https://cubbbix.com/rectangle-calculator/) — Instantly compute rectangle area, perimeter, side lengths, and diagonal length from any inputs. Free online geometry calculator. Calculate rectangle dimensions now.
+- [Calculate RERA Carpet Area & Possession Costs — Free](https://cubbbix.com/rera-calculator/) — Instantly compute RERA compliant carpet area, built-up ratio, and real estate payment schedules. Free online property calculator. Calculate RERA carpet area now.
+- [Calculate Square, Cube & Nth Roots — Fast & Free](https://cubbbix.com/root-calculator/) — Instantly solve square roots, cube roots, and arbitrary nth root equations with decimal precision. Free online math calculator. Calculate root numbers now.
+- [Calculate Tip & Split Restaurant Bills — Free Tool](https://cubbbix.com/tip-calculator/) — Instantly calculate restaurant gratuity percentages and split bill totals evenly among friends. Free online tip calculator. Calculate tip and split bills fast.
+- [Calculate UAE End of Service Gratuity — Free Tool](https://cubbbix.com/uae-gratuity-calculator/) — Instantly calculate UAE labor law end-of-service gratuity pay for limited and unlimited contracts. Free online Dubai & UAE gratuity estimator. Calculate gratuity now.
+- [Calculate Weeks & Days Left in Year — Free Clock](https://cubbbix.com/weeks-left-in-the-year/) — Instantly view exact remaining weeks, days, and percentage left in the current calendar year. Free, live online year progress tracker. Check weeks left now.
+- [Check Prime Numbers & Factorization — Free Tool](https://cubbbix.com/prime-number-calculator/) — Instantly test if any number is prime and compute full prime factorizations. Free, fast online math calculator. Check prime numbers and factors now.
+- [Convert Cubic Yards to Tons — Fast & Free](https://cubbbix.com/yards-to-tons-calculator/) — Instantly convert cubic yards to tons for gravel, sand, topsoil, concrete, and mulch based on material density. Free online construction converter. Convert yards to tons now.
+- [Convert Decimal to Fraction — Free Math Calculator](https://cubbbix.com/decimal-to-fraction-calculator/) — Instantly convert any decimal number into a simplified fraction. Free, accurate, and works in your browser. Solve math problems instantly.
+- [Convert Quarts to Pounds Instantly — Free Tool](https://cubbbix.com/quarts-to-pounds-calculator/) — Instantly convert liquid quarts to pounds for water, oil, milk, paint, and cooking ingredients. Free online volume-to-weight converter. Convert quarts to lbs now.
+- [Date Calculator — Free & Instant Online Time Tool](https://cubbbix.com/date-calculator/) — Instantly add or subtract days, months, and years from any date. Free, fast, and private. Find exact future or past dates effortlessly.
+- [Find Atomic Numbers — Free Instant Chemistry Tool](https://cubbbix.com/atomic-number-calculator/) — Quickly look up atomic numbers, symbols, and elements on the periodic table. Free, fast reference for students and chemists. Try it instantly.
+- [Grease Trap Size Calculator](https://cubbbix.com/grease-trap-size-calculator/) — Instantly calculate the correct grease trap size for your commercial kitchen or restaurant. Free online plumbing calculator.
+- [Hours Ago Calculator](https://cubbbix.com/hours-ago-calculator/) — Instantly calculate exactly what time and date it was a specific number of hours ago. Free online time tool. Calculate past times instantly.
+- [How to Calculate the Formal Charge](https://cubbbix.com/formal-charge-calculator/) — Instantly calculate the formal charge of atoms in molecules. Free online tool for chemistry students and professionals. Calculate instantly.
+- [Optimize Shipping Box Dimensions & Packing — Free](https://cubbbix.com/shipping-box-optimizer/) — Instantly calculate optimal box dimensions, dimensional weight, and carton packing efficiency. Free online shipping logistics tool. Optimize box sizes now.
+- [Saudi Iqama & ID Expiry Calculator](https://cubbbix.com/iqama-expiry-calculator/) — Check days left on Saudi Iqama, Passport, Driving License, Istimara, and National ID with dual Hijri-Gregorian calendar, grace periods, and late fine calculation.
+- [Solve Similar Triangles & Side Ratios — Fast & Free](https://cubbbix.com/similar-triangle-calculator/) — Instantly compute missing side lengths, angles, and scale factors for similar triangles. Free online geometry calculator with formulas. Solve similar triangles now.
 
 ---
 
 ## Career Tools
-- [Job Title Generator](https://cubbbix.com/job-title-generator/) — Generate professional job titles for LinkedIn and resumes
-- [Resume ATS Score Checker](https://cubbbix.com/resume-ats-score-checker/) — Check if your resume passes ATS screening. Get a free score and fix issues before applying.
+- [Ausbildung Duration & Shortening Calculator](https://cubbbix.com/ausbildung-duration-calculator/) — Calculate your exact Ausbildung graduation date and check your legal eligibility to shorten your apprenticeship by 6 to 12 months under BBiG §7, §8 & §45 rules.
+- [Ausbildung Net Salary Calculator](https://cubbbix.com/ausbildung-salary-calculator/) — Calculate your exact monthly take-home pay (Netto-Gehalt) as an Azubi in Germany. Shows health, pension, unemployment & care insurance deductions, tax class rules & BBiG legal minimums.
+- [Ausbildung Qualification & Visa Checker](https://cubbbix.com/ausbildung-qualification-checker/) — Check your eligibility for German dual vocational training (Ausbildung). Evaluates German language level (B1/B2), school certificates, age rules & visa §16a AufenthG financial proof.
+- [Ausbildung vs Studium Calculator](https://cubbbix.com/ausbildung-vs-studium/) — Compare lifetime earnings, debt burden, student cash flow & time-to-income between a German dual Ausbildung and a University Degree (Bachelor/Master).
+- [Azubi Leave & Vacation Calculator](https://cubbbix.com/azubi-leave-calculator/) — Calculate your legal paid vacation days (Urlaubsanspruch) as an Azubi in Germany under Youth Employment Protection Act (JArbSchG §19) & Federal Leave Act (BUrlG).
+- [Check Resume ATS Compatibility Score — Fast & Free](https://cubbbix.com/resume-ats-score-checker/) — Instantly scan your CV or resume against job descriptions for ATS formatting and keywords. Free online resume score analyzer. Boost your ATS score now.
+- [Generate Job Titles — Free Professional Role Creator](https://cubbbix.com/job-title-generator/) — Instantly create professional, creative, and standard job titles for resumes and job postings. Free online generator. Find roles instantly.
+
+---
+
+## Christianity
+- [Calculate Income Tithing (10%) — Instant & Free](https://cubbbix.com/tithing-calculator/) — Instantly calculate 10% Christian or biblical tithing amounts on gross or net income. Free, private browser tithe calculator. Calculate your tithing accurately now.
 
 ---
 
 ## Design Tools
-- [Box Shadow Generator](https://cubbbix.com/box-shadow-generator/) — Create beautiful CSS box shadows with our interactive generator. Adjust blur, spread, offsets, and color.
-- [Color Palette Generator](https://cubbbix.com/color-palette-generator/) — Generate beautiful, random color palettes instantly.
-- [CSS Gradient Generator](https://cubbbix.com/css-gradient-generator/) — Create stunning linear CSS gradients.
-- [Instagram Grid Maker](https://cubbbix.com/instagram-grid-maker/) — Split a single image into a 3×1, 3×2, or 3×3 Instagram-style grid and download all slices.
-- [Physics Sandbox](https://cubbbix.com/physics-sandbox/) — Interactive 2D physics playground to experiment with gravity, friction, and collisions.
+- [CMYK to Pantone Converter — Free Online Tool](https://cubbbix.com/cmyk-to-pantone/) — Instantly convert CMYK values to matching Pantone colors. Free, fast reference for graphic designers and printers. Find your exact shade now.
+- [Convert CMYK to Pantone — Free, Instant Color Tool](https://cubbbix.com/cmyk-to-pantone-converter/) — Instantly match CMYK color values to the closest Pantone swatches. Free, fast, and completely private tool for designers. Match print colors easily.
+- [CSS Box Shadow Generator — Free, Instant Dev Tool](https://cubbbix.com/box-shadow-generator/) — Instantly create and preview CSS box shadows for your web designs. Free, visual, and highly customizable. Generate and copy CSS code in seconds.
+- [CSS Gradient Generator — Free & Instant Web Design Tool](https://cubbbix.com/css-gradient-generator/) — Instantly create beautiful linear and radial CSS gradients. Free visual tool with one-click code copy. Design stunning web backgrounds instantly.
+- [Cubic Bezier Editor](https://cubbbix.com/cubic-bezier-editor/) — Interactive CSS cubic-bezier curve editor and animation generator. Drag control points P1 and P2 to build custom timing functions, preview easing animations, and copy CSS code.
+- [Generate Barcodes — Instant, Free Online Creator](https://cubbbix.com/barcode-generator/) — Instantly create UPC, EAN, and QR barcodes for your products. Free, completely private, and works in your browser. Download high-quality barcodes now.
+- [Generate Color Palettes — Free Instant Design Tool](https://cubbbix.com/color-palette-generator/) — Instantly create stunning, harmonious color schemes for web and graphic design. Free, private, and highly customizable. Start designing now.
+- [Instagram Grid Maker](https://cubbbix.com/instagram-grid-maker/) — Instantly split your photos into seamless 3x1, 3x2, or 3x3 grids for your Instagram profile. Free online grid maker. Split images instantly.
+- [Interactive 2D Physics Sandbox — Instant & Free](https://cubbbix.com/physics-sandbox/) — Instantly simulate gravity, collisions, forces, and rigid bodies in a dynamic 2D canvas. Free online physics playground. Experiment with 2D physics now.
+- [Tier List Maker](https://cubbbix.com/tier-list-maker/) — Create, customize, and export custom tier lists online for free. Drag & drop images or text badges into S–F tiers and export high-resolution PNG images.
 
 ---
 
 ## Developer Tools
-- [Add Line Numbers to Text](https://cubbbix.com/add-line-numbers/) — Instantly insert line numbers before each line of text
-- [Base64 Encoder & Decoder](https://cubbbix.com/base64-encoder-decoder/) — Encode and decode data to Base64 format
-- [Binary to Text Converter](https://cubbbix.com/binary-to-text-converter/) — Decode binary code (0s and 1s) back into readable plain text
-- [Case Converter](https://cubbbix.com/case-converter/) — Convert text between different cases (camelCase, snake_case, etc.)
-- [Chmod Calculator](https://cubbbix.com/chmod-calculator/) — Visual permissions generator for Linux/Unix files
-- [Convert Letters to Binary](https://cubbbix.com/text-to-binary-converter/) — Instantly convert letters to binary code and vice versa
-- [CSS Minifier & Beautifier](https://cubbbix.com/css-minifier-beautifier/) — Minify or beautify your CSS stylesheets instantly
-- [API Data Fetcher Tool](https://cubbbix.com/api-data-fetcher/) — Fetch, test, and analyze API responses instantly (Proxy supported)
-- [ASCII Table](https://cubbbix.com/ascii-table/) — Full ASCII reference table with decimal, hex, binary, and HTML codes
-- [ASCII to Text Converter](https://cubbbix.com/ascii-to-text/) — Decode numerical ASCII sequences back into readable plain text
-- [Data Cleaner Tool](https://cubbbix.com/data-cleaner/) — Clean your lists and CSV data (Deduplicate, Trim, Handle Nulls)
-- [CSV to JSON Converter](https://cubbbix.com/csv-to-json/) — Convert CSV data to JSON objects instantly and securely.
-- [CSV to Markdown](https://cubbbix.com/csv-to-markdown/) — Convert CSV data to formatted Markdown tables. Supports custom alignment, file upload, and uses privacy-first processing.
-- [Date-Time Converter](https://cubbbix.com/date-time-converter/) — Convert any date/time into ISO 8601, RFC 3339, Unix timestamp, Mongo ObjectID, and Excel formats
-- [Developer Reality Check](https://cubbbix.com/developer-reality-check/) — Test your coding confidence vs competence (Imposter vs Dunning-Kruger)
-- [Code Typing Test](https://cubbbix.com/code-typing-test/) — Test your WPM and coding speed on real PHP, JS, Python, HTML, and CSS snippets
-- [Developer Typing Test](https://cubbbix.com/developer-typing-test/) — Test your real coding speed (JS/Python/PHP) with syntax highlighting
-- [Encrypt / Decrypt Text](https://cubbbix.com/encrypt-decrypt-text/) — Encrypt and decrypt text using AES, TripleDES, Rabbit, and RC4 — client-side and private
-- [Generate UPC Label](https://cubbbix.com/generate-upc-label/) — Generate valid UPC-A barcodes instantly (single and bulk)
-- [Git Commit Hash Generator](https://cubbbix.com/git-commit-hash-generator/) — Generate exact Git commit SHA-1 hashes and learn how Git constructs commit objects
-- [Hash Generator](https://cubbbix.com/hash-generator/) — Generate MD5, SHA1, SHA256, SHA512 hashes
-- [Hex to Text Converter](https://cubbbix.com/hex-to-text/) — Decode hexadecimal code back into plain text
-- [HTML Entity Encoder/Decoder](https://cubbbix.com/html-entity-converter/) — Encode or decode HTML entities instantly
-- [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Beautify, minify, and validate JSON data
-- [JSON to CSV Converter](https://cubbbix.com/json-to-csv/) — Convert JSON data to CSV format instantly and securely.
-- [JSON to TOML/YAML/XML Converter](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOML, YAML, or XML formats instantly
-- [JSON to YAML Converter](https://cubbbix.com/json-yaml-converter/) — Convert between JSON and YAML formats instantly
-- [JWT Decoder](https://cubbbix.com/jwt-decoder/) — Decode and inspect JSON Web Tokens instantly
-- [LLM API Cost Calculator](https://cubbbix.com/llm-api-cost-calculator/) — Compare API costs for OpenAI, Anthropic & Google
-- [Lorem Ipsum Generator](https://cubbbix.com/lorem-ipsum-generator/) — Generate placeholder text for designs
-- [Markdown to HTML](https://cubbbix.com/markdown-to-html/) — Convert Markdown text to clean, valid HTML code instantly.
-- [Markdown to PDF](https://cubbbix.com/markdown-to-pdf/) — Convert Markdown text to professional PDF documents instantly.
-- [Markdown Preview](https://cubbbix.com/markdown-preview/) — Live preview and edit Markdown in real time
-- [RAID Calculator](https://cubbbix.com/raid-calculator/) — Calculate RAID usable space (RAID 0, 1, 5, 6, 10)
-- [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
-- [Remove Duplicate Lines](https://cubbbix.com/remove-duplicate-lines/) — Deduplicate text lists and remove repeated lines instantly
-- [Remove Empty Lines](https://cubbbix.com/remove-empty-lines/) — Remove empty lines and blank spaces from text instantly
-- [Reverse Lines](https://cubbbix.com/reverse-lines/) — Instantly reverse the order of lines in a text document
-- [Reverse Words](https://cubbbix.com/reverse-words/) — Reverse the order of words in a sentence or flip the letters inside each word
-- [Text Repeater](https://cubbbix.com/text-repeater/) — Repeat text strings, words, or paragraphs multiple times
-
-- [Remove Spaces](https://cubbbix.com/remove-spaces/) — Remove all white spaces, tabs, and line breaks from any text
-- [Screen Resolution Simulator](https://cubbbix.com/screen-resolution-simulator/) — Test website responsiveness on iPhone, iPad, and Desktop devices
-- [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
-- [SQL Formatter & Beautifier](https://cubbbix.com/sql-formatter/) — Format and beautify SQL queries instantly — Analyze text for SEO optimization
-- [Text Diff Checker](https://cubbbix.com/diff-checker/) — Compare two text files or code snippets to find the difference. Highlight added and removed lines.
-- [Text to ASCII Converter](https://cubbbix.com/text-to-ascii/) — Convert plain text strings into numerical ASCII codes
-- [Text to Hex Converter](https://cubbbix.com/text-to-hex/) — Convert plain text strings into hexadecimal code format
-- [Timestamp Converter](https://cubbbix.com/timestamp-converter/) — Convert Unix timestamps to human dates and vice versa
-- [Token Generator](https://cubbbix.com/token-generator/) — Generate secure, random tokens and strings with custom lengths and character types
-- [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
-- [URL to Markdown Converter](https://cubbbix.com/url-to-markdown/) — Free online URL Markdown tool to convert webpage to Markdown format. Fast and private Markdown converter with Readability support.
-- [UUID Generator](https://cubbbix.com/uuid-generator/) — Generate standard UUIDs (v1 and v4) instantly
-- [User Agent Parser](https://cubbbix.com/user-agent-parser/) — Identify browser, OS, and device from any user agent string
-- [Word Counter](https://cubbbix.com/word-counter/) — Count words, characters, and sentences
+- [Add Line Numbers to Text — Free & Instant Tool](https://cubbbix.com/add-line-numbers/) — Quickly add line numbers to code, text, or documents. Free, no signup required, and 100% private in-browser processing. Format your text instantly.
+- [ASCII Reference Table — Instant, Free Developer Tool](https://cubbbix.com/ascii-table/) — Quickly look up standard and extended ASCII characters, hex, and decimal codes. Free, fast reference guide for developers. No signup required.
+- [Base64 Encode & Decode — Free, Fast Developer Tool](https://cubbbix.com/base64-encoder-decoder/) — Instantly convert text or files to Base64 and back. Free, completely private, and works offline in your browser. Secure your data conversion today.
+- [Base64Url Encode & Decode — Free URL-Safe Base64 Tool](https://cubbbix.com/base64url-encoder-decoder/) — Instantly convert text to URL-safe Base64 (RFC-4648) and back. Free, completely private, and works offline in your browser. Perfect for JWTs and APIs.
+- [Calculate CHMOD Permissions — Free Linux Dev Tool](https://cubbbix.com/chmod-calculator/) — Instantly generate CHMOD numerical or symbolic file permissions. Free, fast developer tool with no signup. Secure your server files easily.
+- [Clean Text Data — Free & Instant Online Formatter](https://cubbbix.com/data-cleaner/) — Instantly remove extra spaces, empty lines, and format messy text. Free, 100% private in-browser tool. Sanitize your data in seconds.
+- [Convert ASCII to Text — Free, Instant Online Tool](https://cubbbix.com/ascii-to-text/) — Instantly decode ASCII decimal or hex values into readable text. Free, private, and completely in-browser. Translate ASCII code instantly.
+- [Convert Binary to Text — Instant & Free Online Tool](https://cubbbix.com/binary-to-text-converter/) — Instantly decode binary code into readable text or vice versa. Free, private, and works directly in your browser. Translate binary strings in seconds.
+- [Convert CSV to JSON — Fast, Free Online Tool](https://cubbbix.com/csv-to-json/) — Instantly convert CSV data into valid JSON arrays. Free, 100% private, and works securely in your browser. Process your data formats instantly.
+- [Convert CSV to Markdown — Free & Instant Table Generator](https://cubbbix.com/csv-to-markdown/) — Instantly turn CSV data into clean Markdown tables for GitHub or blogs. Free, private in-browser conversion. Format data instantly.
+- [Convert Date & Time — Free Online Timestamp Tool](https://cubbbix.com/date-time-converter/) — Instantly convert standard dates to Unix timestamps or different time zones. Free, fast developer tool. Manage timestamps effortlessly.
+- [Convert Markdown to HTML Instantly — Free Converter](https://cubbbix.com/markdown-to-html/) — Instantly convert Markdown text into clean, formatted HTML code with one click. Free browser-based converter with live preview. Convert Markdown to HTML now.
+- [Convert Markdown to PDF Online — Fast & Free](https://cubbbix.com/markdown-to-pdf/) — Instantly export and render Markdown documents directly into formatted PDF files. Free, secure, client-side PDF converter. Export your Markdown to PDF now.
+- [Convert Text Case — Instant, Free Online Tool](https://cubbbix.com/case-converter/) — Instantly change text to UPPERCASE, lowercase, title case, and more. Free, 100% private in-browser tool. Format your text in seconds.
+- [Convert Text to ASCII Codes & Art — Instant & Free](https://cubbbix.com/text-to-ascii/) — Instantly convert plain text letters into ASCII decimal codes, hex values, or ASCII banner art. Free online developer text converter. Convert text to ASCII now.
+- [Convert Text to Binary (0s and 1s) — Fast & Free](https://cubbbix.com/text-to-binary-converter/) — Instantly translate plain text words into 8-bit binary code strings. Free, fast online text-to-binary encoder and decoder. Convert text to binary code now.
+- [Convert Text to Hexadecimal Codes — Fast & Free](https://cubbbix.com/text-to-hex/) — Instantly convert text strings into clean hex values (e.g. ASCII to Hex) with one click. Free online developer encoding tool. Translate text to hex code now.
+- [Convert Unix Timestamps to Human Date — Free Tool](https://cubbbix.com/timestamp-converter/) — Instantly convert Epoch Unix timestamps into human-readable date formats (UTC and local time). Free online developer timestamp tool. Convert Unix timestamps now.
+- [Convert Webpage URL to Markdown Text — Free Tool](https://cubbbix.com/url-to-markdown/) — Instantly extract article content from web pages and convert HTML into clean Markdown code. Free online developer parser tool. Convert webpage URLs to Markdown now.
+- [Count Lines of Text Online — Fast & Free Line Counter](https://cubbbix.com/line-counter/) — Instantly count lines, words, and characters in any block of text or code. Free, browser-based text line counter with zero server upload. Count text lines now.
+- [Count Words & Characters Online — Instant & Free](https://cubbbix.com/word-counter/) — Instantly count words, characters, sentences, paragraphs, and estimated reading time in real-time. Free, browser-based text counter tool. Count words now.
+- [CSS Minifier & Beautifier — Free Online Code Tool](https://cubbbix.com/css-minifier-beautifier/) — Instantly minify to save space or beautify CSS code for readability. Free, 100% private in-browser processing. Optimize your stylesheets in seconds.
+- [CSV Splitter](https://cubbbix.com/split-csv/) — Break huge CSV spreadsheet exports into smaller files by row count, maximum file size, equal parts, or column categories.
+- [CSV to Excel Converter](https://cubbbix.com/csv-to-excel/) — Convert CSV to formatted Excel (.xlsx) workbooks without losing leading zeros. Preserve ZIP codes, phone numbers, and barcodes with auto column width sizing.
+- [Encode & Decode URLs (Percent Encoding) — Free Tool](https://cubbbix.com/url-encoder-decoder/) — Instantly encode string parameters or decode percent-encoded URLs (RFC 3986 format). Free, fast developer web tool. Encode or decode URLs instantly.
+- [Encrypt & Decrypt Text — Free Instant Security Tool](https://cubbbix.com/encrypt-decrypt-text/) — Instantly encrypt or decrypt text using AES, DES, or RC4 algorithms. Free, 100% private in-browser tool. Secure your messages instantly.
+- [Find String Length — Fast & Free Text Character Tool](https://cubbbix.com/find-string-length/) — Instantly count the characters, words, and exact length of any text string. Free, 100% private in-browser tool. Measure your text instantly.
+- [Fix Garbled Text (Mojibake Fixer)](https://cubbbix.com/fix-garbled-text/) — Restore corrupted text, turn broken Arabic (Ø§Ù„) into clean UTF-8 (ال), fix distorted accents (Ã©) and smart quotes (â€™), and decode Unicode/URL escapes.
+- [Format & Beautify SQL Queries — Fast & Free Tool](https://cubbbix.com/sql-formatter/) — Instantly format, clean up, and indent raw SQL queries for MySQL, PostgreSQL, SQLite, and SQL Server. Free online developer formatting tool. Format SQL code now.
+- [Generate Cryptographic API Tokens — Instant & Free](https://cubbbix.com/token-generator/) — Instantly generate randomized API keys, secret tokens, and bearer tokens with custom length and charset. 100% private, client-side token maker. Generate API tokens now.
+- [Generate Lorem Ipsum Placeholder Text — Fast & Free](https://cubbbix.com/lorem-ipsum-generator/) — Instantly generate customized Lorem Ipsum dummy text by paragraphs, words, or sentences. Free online developer tool with HTML formatting. Copy placeholder text now.
+- [Generate UPC Label](https://cubbbix.com/generate-upc-label/) — Instantly generate standard UPC-A barcodes and labels for your products. Free, high-quality, instant download. Create barcodes instantly.
+- [Generate UUID (v4) Unique Identifiers — Fast & Free](https://cubbbix.com/uuid-generator/) — Instantly generate bulk RFC 4122 compliant version-4 Universally Unique Identifiers (UUIDs / GUIDs). 100% private, client-side generator. Generate UUIDs fast.
+- [Git Commit Hash Generator](https://cubbbix.com/git-commit-hash-generator/) — Instantly generate valid Git commit SHA-1 hashes for testing and development. Free online developer tool. Generate hashes instantly.
+- [Hash Generator](https://cubbbix.com/hash-generator/) — Instantly generate cryptographic hashes (MD5, SHA-1, SHA-256) from text strings. Free, secure, client-side tool. Hash data instantly.
+- [Hex to Text Converter](https://cubbbix.com/hex-to-text/) — Instantly decode hexadecimal strings back into readable plain text. Free, fast, client-side decoding tool. Convert hex instantly.
+- [HTML Entity Encoder/Decoder](https://cubbbix.com/html-entity-converter/) — Instantly encode or decode HTML entities and special characters. Free online developer tool. Protect and format your code instantly.
+- [JSON  YAML Converter](https://cubbbix.com/json-yaml-converter/) — Instantly convert between JSON and YAML data formats. Free, fast, client-side developer utility. Convert formats instantly.
+- [JSON Formatter & Validator](https://cubbbix.com/json-formatter/) — Instantly format, beautify, and validate your JSON data structures. Free, fast, client-side developer tool. Format JSON instantly.
+- [JSON Parser Online — Parse & Unescape JSON Instantly, Free](https://cubbbix.com/json-parser/) — Instantly parse, unescape, and format JSON text strings. Perfect for developers debugging escaped JSON payloads. Free, no signup, runs locally in your browser.
+- [JSON Stringify Online — Escape Text Instantly, Free](https://cubbbix.com/json-stringify/) — Instantly convert plain text into a safely escaped JSON string. Perfect for developers escaping quotes and newlines. Free, no signup, runs in your browser.
+- [JSON to CSV Converter](https://cubbbix.com/json-to-csv/) — Instantly convert complex JSON arrays into flat CSV files for Excel and spreadsheets. Free, secure, client-side converter.
+- [JSON to TOON Converter](https://cubbbix.com/json-to-toon-encoder/) — Instantly encode standard JSON data into TOON format for optimized data transmission. Free online developer tool. Encode instantly.
+- [JWT Decoder](https://cubbbix.com/jwt-decoder/) — Instantly decode and inspect JSON Web Tokens (JWT) to view their payload and headers. Free, secure, client-side developer tool.
+- [List Tools — Sort, Dedupe & Format](https://cubbbix.com/list-tools/) — Fast online list processor. Sort alphabetically or naturally, deduplicate lines, add prefixes/suffixes, trim whitespace, convert delimiters, and shuffle lines.
+- [LLM API Cost Calculator](https://cubbbix.com/llm-api-cost-calculator/) — Free online llm api cost calculator tool.
+- [Number Base Converter — Binary, Decimal, Octal, Hex](https://cubbbix.com/base-converter/) — Instantly convert numbers between Binary (Base-2), Octal (Base-8), Decimal (Base-10), and Hexadecimal (Base-16). Free and fully private in-browser tool.
+- [Parse Browser User Agent String — Instant & Free](https://cubbbix.com/user-agent-parser/) — Instantly decode and parse HTTP User-Agent header strings to identify browser, OS, device, and engine version. Free online developer tool. Parse User-Agents now.
+- [RAID Calculator](https://cubbbix.com/raid-calculator/) — Free online raid calculator tool.
+- [Split Text by Separator — Fast, Online, Free](https://cubbbix.com/split-text/) — Instantly split text into chunks by comma, line, space, or custom separators. Free, no signup, runs securely in your browser.
+- [Subtitle Editor & Sync Tool](https://cubbbix.com/subtitle-editor/) — Fix out-of-sync audio delay, shift timecodes, edit caption cues, convert SRT ↔ WebVTT ↔ TXT, and preview with local video playback.
+- [Test API Requests — Fast, Free Online Data Fetcher](https://cubbbix.com/api-data-fetcher/) — Instantly test and fetch data from any REST API endpoint. Free developer tool with no signup and complete privacy. Debug your APIs directly in browser.
+- [Test Screen Resolution & Viewports — Free Tool](https://cubbbix.com/screen-resolution-simulator/) — Instantly preview webpages across desktop, laptop, tablet, and mobile device screen resolutions. Free online responsive viewport tester. Test screen sizes now.
 
 ---
 
-## Education Tools
-- [Arabic Language Proficiency Test (ALPT)](https://cubbbix.com/arabic-quiz/) — Adaptive Modern Standard Arabic (MSA) proficiency test with official PDF certificate
-- [Chinese (Mandarin) Assessment Test](https://cubbbix.com/chinese-quiz/) — Adaptive Mandarin proficiency test with official PDF certificate (CEFR/HSK)
-- [Korean Proficiency Test](https://cubbbix.com/korean-quiz/) — Adaptive TOPIK assessment with PDF certificate
-- [English Assessment Test](https://cubbbix.com/quiz/) — Adaptive English proficiency test with official PDF certificate (CEFR)
-- [French Assessment Test](https://cubbbix.com/french-quiz/) — Adaptive French proficiency test with official PDF certificate (CEFR)
-- [Gen Z Slang Dictionary Test](https://cubbbix.com/gen-z-slang-quiz/) — Viral "Vibe Check" test with authentic slang and rank certificates
-- [German Assessment Test](https://cubbbix.com/german-quiz/) — Adaptive German proficiency test with official PDF certificate (CEFR)
-- [Hebrew Numbers Converter](https://cubbbix.com/hebrew-numbers/) — Convert between numbers and Hebrew number words
-- [Hebrew Proficiency Assessment](https://cubbbix.com/hebrew-quiz/) — Adaptive Hebrew proficiency test with CEFR-style assessment
-- [Italian Proficiency Test](https://cubbbix.com/italian-quiz/) — Adaptive Italian proficiency test with official PDF certificate (CILS/CELI/PLIDA)
-- [Japanese Assessment Test](https://cubbbix.com/japanese-quiz/) — Adaptive Japanese proficiency test with official PDF certificate (CEFR/JLPT)
-- [Click Speed Test (CPS Test)](https://cubbbix.com/click-speed-test/) — Test your clicking speed with our accurate 10-second CPS test. Track your performance with real-time graphs and reach our leaderboard.
-- [Reaction Time Tester](https://cubbbix.com/reaction-time-test/) — Test your visual reflexes and reaction speed
-- [Portuguese Assessment Test](https://cubbbix.com/portuguese-quiz/) — Adaptive Portuguese proficiency test with official PDF certificate (CAPLE/CELPE-Bras)
-- [Russian Proficiency Test (TORFL)](https://cubbbix.com/russian-quiz/) — Adaptive Russian proficiency test with official PDF certificate (TORFL)
-- [Spanish Assessment Test](https://cubbbix.com/spanish-quiz/) — Adaptive Spanish proficiency test with official PDF certificate (CEFR)
-- [Spanish Number to Text Converter](https://cubbbix.com/spanish-number-to-text/) — Instantly convert any number to perfectly written, grammatically correct Spanish text
-- [Square Root Curve Calculator](https://cubbbix.com/square-root-curve-calculator/) — Curve single or batch grades with square root formula: curved grade = 10 x sqrt(raw).
-- [Typing Defense](https://cubbbix.com/typing-defense/) — Defend your base from falling words! A fast-paced typing game.
-- [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
-- [US Citizenship Civics Test](https://cubbbix.com/us-citizenship-test/) — Can you pass the official USCIS naturalization test? Answer 10 randomized civics questions
-- [Mental Generation Quiz](https://cubbbix.com/mental-generation-quiz/) — Find out your true mental generation with this 7-question personality quiz
-- [Biological Generation Calculator](https://cubbbix.com/generation-calculator/) — Enter your birth year to discover if you're a Boomer, Gen X, Millennial, Gen Z, or Gen Alpha
-- [IELTS Band Score Calculator](https://cubbbix.com/ielts-band-score-calculator/) — Calculate your IELTS band score for Listening, Reading, and Overall
-- [WCPM Calculator](https://cubbbix.com/wcpm-calculator/) — Calculate words correct per minute (WCPM) with accuracy, error rate, and fluency metrics.
-- [Word Problem Solver](https://cubbbix.com/word-problem-solver/) — Text-based word problem solver with step-by-step math explanations for arithmetic, percentages, and rates.
-- [Japanese Name Converter](https://cubbbix.com/japanese-name-converter/) — Convert English names to Japanese (katakana, hiragana, kanji) instantly. Learn the meaning and pronunciation of your name in Japanese.
+## Education
+- [Arabic Alphabet Quiz](https://cubbbix.com/arabic-alphabet-quiz/) — Learn and test all 28 Arabic letters with isolated, initial, medial and final positional forms, IPA phonetics, solar/lunar classification, example vocabulary and native TTS audio.
+- [Arabic Flashcard Generator with Audio](https://cubbbix.com/arabic-flashcard-generator/) — Build custom Arabic/English flashcard decks with TTS audio. Load 8 built-in vocabulary sets (alphabet, greetings, numbers, colors, family, food, animals, days) or add your own cards. Export/import JSON decks.
+- [Arabic Greetings Quiz](https://cubbbix.com/arabic-greetings-quiz/) — 54 essential Arabic greetings and responses — formal, informal, religious and occasion-specific. Includes TTS audio, romanisation, formality badges, cultural notes, and search/filter.
+- [Arabic Letter Recognition Test](https://cubbbix.com/arabic-letter-test/) — Interactive quiz — see an Arabic letter glyph in isolated or all-positional-forms mode and identify its correct name from four choices. Tracks score and highlights missed letters.
+- [Arabic Letter Sounds Quiz & Phonetic Explorer](https://cubbbix.com/arabic-letter-sounds/) — Master all 28 Arabic letter sounds and pronunciations with 140+ audio variations across Tashkeel vowels, Makharij articulation guides, minimal pairs comparisons, and interactive quizzes.
+- [Arabic Level Test: 40-Question Quiz & Certificate](https://cubbbix.com/arabic-quiz/) — Take our 40-question Arabic proficiency quiz (MSA). Test your CEFR level instantly, unlock your full answer key, and get a verified certificate for your CV or LinkedIn.
+- [Arabic Numbers Quiz & 0–100 Explorer](https://cubbbix.com/arabic-numbers-quiz/) — Master Eastern Arabic numerals (٠–١٠٠), spelled words, and spoken pronunciation with interactive quizzes, audio listening tests, 0–100 reference chart, and instant Tafqeet converter.
+- [Arabic Phonetics Quiz](https://cubbbix.com/arabic-phonetics-quiz/) — Match Arabic letters to their IPA phonetic symbols and romanised sounds. Four quiz directions — letter→IPA, IPA→letter, romanisation→letter, and mixed mode. Full IPA reference table included.
+- [Arabic Pronunciation Test](https://cubbbix.com/arabic-pronunciation-test/) — Audio-first quiz: hear an Arabic letter or word spoken aloud and identify it. Three modes — individual letters, common words, and minimal pairs targeting the hardest Arabic sound contrasts.
+- [Arabic Weather Vocabulary Quiz](https://cubbbix.com/arabic-weather-quiz/) — Master 55+ Arabic weather and seasons terms with audio pronunciation, interactive quizzes, flip flashcards, and real-world forecast dialogues.
+- [Boiling Point of Metals Chart](https://cubbbix.com/boiling-point-of-metals/) — Comprehensive reference chart for boiling points of 40+ metals in Celsius (°C), Fahrenheit (°F), and Kelvin (K) with interactive search, sorting & temperature converter.
+- [Calculate Square Root Grade Curves — Fast & Free](https://cubbbix.com/square-root-curve-calculator/) — Instantly calculate test grade curves using the square root formula (10 * sqrt(score)). Free online grading calculator for teachers. Curve exam scores fast.
+- [Calculate Words Correct Per Minute (WCPM) — Free Tool](https://cubbbix.com/wcpm-calculator/) — Instantly calculate reading fluency score and Words Correct Per Minute (WCPM) for students and educators. Free online literacy assessment tool. Calculate WCPM now.
+- [Developer Typing Test — Free Online Code Speed Test](https://cubbbix.com/code-typing-test/) — Instantly measure your typing speed using real programming syntax. Free, private, and highly accurate. Improve your coding speed today.
+- [Developer Typing Test — Free Online Code Speed Test](https://cubbbix.com/developer-typing-test/) — Free online developer typing test — free online code speed test tool.
+- [Free Chinese (Mandarin) Proficiency Test — HSK & CEFR Level Quiz](https://cubbbix.com/chinese-quiz/) — Free Mandarin proficiency test aligned to HSK 1-6 and CEFR (A1-C2). Check your Chinese vocabulary, grammar, character recognition, and business Mandarin level in minutes. No signup required.
+- [Free Czech Proficiency Test (CEFR A1–C2)](https://cubbbix.com/czech-quiz/) — Free adaptive Czech level test aligned with CEFR (A1–C2 / SERRJ). Test your Czech grammar, 7 noun case declensions, verbal aspect pairs, and vocabulary — great practice for CCE and citizenship exams.
+- [Free English Proficiency Test — CEFR A1-C2 Level Check & Certificate](https://cubbbix.com/quiz/) — Test your English level free online. Adaptive CEFR-aligned quiz covering grammar, vocabulary & reading — great practice before IELTS, TOEFL, PTE, Cambridge, or TOEIC. Instant results.
+- [Free French Level Test — CEFR A1–C2 | Alternance & Study Ready](https://cubbbix.com/french-quiz/) — Test your French proficiency instantly (CEFR A1–C2). Trusted by students & candidates preparing for Alternance, Apprentissage, DELF/DALF, TCF Canada & work in France. Free, no signup.
+- [Free German Level Test — CEFR A1–C2 | Ausbildung & Work Ready](https://cubbbix.com/german-quiz/) — Test your German proficiency instantly — grammar, vocabulary & reading. Trusted by learners preparing for Ausbildung, Goethe, TestDaF & German job interviews. Free, no signup.
+- [Free Turkish Proficiency Test (CEFR A1–C2)](https://cubbbix.com/turkish-quiz/) — Free adaptive Turkish level test aligned with CEFR (A1–C2). Test your grammar, vocabulary, case suffixes, and vowel harmony — great practice for TÖMER, TYS, and e-YDTS exams.
+- [French Alphabet Chart — Letters, IPA & Pronunciation Guide](https://cubbbix.com/french-alphabet/) — Learn the French alphabet A–Z with IPA phonetics, pronunciation tips, and example words for every letter. Click any letter to hear it spoken. Free, no signup.
+- [French Colors Chart — Hex Swatches, Agreement Rules & Audio](https://cubbbix.com/french-colors/) — Explore all French colors (rouge, bleu, vert, blanc) with visual hex swatches, masculine & feminine agreement rules, plural forms, usage examples, and audio pronunciation.
+- [French Days & Months](https://cubbbix.com/french-days-months/) — Interactive reference for French days of the week and months of the year. Features audio pronunciation, IPA phonetics, gender rules, prepositions, and date sentence builder.
+- [French Flashcard Drill](https://cubbbix.com/french-flashcards/) — Interactive spaced-repetition flashcard drill for the 200 most common French words. Features audio pronunciation, IPA phonetics, multiple-choice quiz, and offline browser saving.
+- [French Gender Checker — Is It Le or La? Find Out Instantly](https://cubbbix.com/french-gender-checker/) — Type any French noun and instantly see if it's masculine (le) or feminine (la), with articles, plural forms, and a usage example. Free, no signup.
+- [French Greetings & Phrases](https://cubbbix.com/french-greetings/) — 50+ essential French greetings and daily phrases (Bonjour, Merci, S\
+- [French Number to Words Converter](https://cubbbix.com/french-number-to-words/) — Convert any number into written French words (e.g. 92 → quatre-vingt-douze). Features audio pronunciation, cardinal/ordinal forms, base-20 logic explanations, and Belgian/Swiss dialect options.
+- [French Numbers 1 to 1,000,000 — Cardinal & Ordinal Converter](https://cubbbix.com/french-numbers/) — Type any number and instantly get the French word — cardinal (un, deux, cent) and ordinal (premier, deuxième, centième). Free French number converter, no signup.
+- [French Pronunciation Guide](https://cubbbix.com/french-pronunciation-guide/) — Master French phonetics, IPA symbols, nasal vowels, silent letters, and liaisons with native audio, mouth position guides, and live speech practice.
+- [French Verb Conjugator](https://cubbbix.com/french-verb-conjugator/) — Instantly conjugate any French verb across all core tenses (Présent, Passé Composé, Imparfait, Futur, Subjonctif). Features native audio pronunciation, auxiliary rules, and quiz mode.
+- [German Alphabet Quiz](https://cubbbix.com/german-alphabet-quiz/) — Learn and test all 26 German letters plus 3 Umlauts (Ä, Ö, Ü) and Eszett (ß) with native pronunciation audio, quizzes, and flashcards.
+- [German Numbers Quiz](https://cubbbix.com/german-numbers-quiz/) — Test recognition of German numbers 1–1000 (ein, zwei, drei…hundert) with audio pronunciation, quiz modes, and live translator.
+- [Gregorian to Hijri Converter](https://cubbbix.com/gregorian-to-hijri-converter/) — Convert dates between Gregorian (Western) and Hijri (Islamic / AH) calendars with Maghrib sunset adjustment, Arabic months, and Islamic holiday detection.
+- [Hebrew Alphabet Chart](https://cubbbix.com/hebrew-alphabet-chart/) — Instantly view and learn the Hebrew alphabet with our interactive chart and transliterations. Free educational tool. Start learning today.
+- [Hebrew Assessment Test](https://cubbbix.com/hebrew-quiz/) — Instantly test your Hebrew vocabulary and reading skills with interactive quizzes. Free online language practice. Start practicing today.
+- [Hebrew Date Converter](https://cubbbix.com/hebrew-date-converter/) — Instantly convert dates between the Gregorian and Hebrew (Jewish) calendars. Free online date calculator. Convert dates instantly.
+- [Hebrew Numbers](https://cubbbix.com/hebrew-numbers/) — Instantly translate numbers into Hebrew text and Gematria values. Free educational online tool. Master Hebrew numbers today.
+- [Hijri Age Calculator](https://cubbbix.com/hijri-age-calculator/) — Calculate your exact age in Hijri (Islamic / AH) years, months, and days with Gregorian age comparison, next birthday countdown, and total days lived.
+- [IELTS Band Score Calculators](https://cubbbix.com/ielts-band-score-calculator/) — Instantly calculate your overall IELTS band score based on your reading, writing, listening, and speaking results. Free online calculator.
+- [Interactive Periodic Table of Elements — Instant & Free](https://cubbbix.com/periodic-table/) — Instantly explore atomic numbers, electron configurations, masses, and chemical trends for all 118 elements. Free interactive dynamic periodic table. Study elements now.
+- [Islamic Calendar Generator](https://cubbbix.com/islamic-calendar-generator/) — Generate and print interactive monthly or full 12-month Islamic (Hijri / AH) calendars with Gregorian dates, Friday (Jumuah) markers, and Islamic holidays.
+- [Italian Proficiency Test & Quiz — Free CEFR Practice for CILS, CELI, PLIDA](https://cubbbix.com/italian-quiz/) — Take a free Italian proficiency test and placement quiz online. CEFR‑aligned practice (A1–C2) to prepare for official Italian language exams like CILS, CELI, PLIDA, CERT.IT, and other Italian certification tests.
+- [Japanese Calendar Converter (Wareki)](https://cubbbix.com/japanese-calendar-converter/) — Convert dates between Gregorian years and traditional Japanese Eras (Wareki / 和暦 - Reiwa, Heisei, Showa, Taisho, Meiji) with era charts, Kanji, and Japanese language quiz.
+- [Japanese Name Converter](https://cubbbix.com/japanese-name-converter/) — Instantly translate and write your English name in Japanese Katakana. Free online name converter. See your Japanese name instantly.
+- [Play Typing Defense Arcade Game — Fast & Free](https://cubbbix.com/typing-defense/) — Instantly defend your base by typing incoming enemy words quickly and accurately. Fun, free browser typing arcade game. Practice your typing speed now.
+- [Practice US Citizenship Civics Test — Free Quiz](https://cubbbix.com/us-citizenship-test/) — Instantly practice official USCIS 100 civics test questions and answers for US citizenship. Free interactive citizenship practice quiz. Prepare for your test now.
+- [Solve Math Word Problems — Fast & Free Solver](https://cubbbix.com/word-problem-solver/) — Instantly parse and solve algebraic math word problems with step-by-step guidance and formulas. Free online math problem assistant. Solve word problems now.
+- [Spanish Level Test: 40-Question Quiz & Certificate](https://cubbbix.com/spanish-quiz/) — Take our 40-question Spanish proficiency quiz. Test your CEFR level instantly, unlock your full answer key, and get a verified certificate for your CV or LinkedIn.
+- [Take Gen Z Slang Quizzes — Test Your Vocab](https://cubbbix.com/gen-z-slang-quiz/) — Instantly test your knowledge of Gen Z slang and internet culture. Free online interactive quiz. See how fluent you are today.
+- [Take Japanese Quizzes — Free Online Language Tests](https://cubbbix.com/japanese-quiz/) — Instantly test your Japanese vocabulary, Hiragana, and Katakana skills with interactive quizzes. Free online language practice.
+- [Test Regex Patterns & Matches Online — Fast & Free](https://cubbbix.com/regex-tester/) — Instantly test, evaluate, and debug Regular Expressions against test strings with live highlighting. Free online regex builder. Test your regex patterns now.
+- [Test Webcam & Microphone Online — Instant & Free](https://cubbbix.com/webcam-test/) — Instantly test camera video feed, resolution, frame rate, and microphone audio offline in your browser. 100% private webcam tester. Test your camera now.
+- [Test Your Breton Vocabulary & Grammar — Free Quiz](https://cubbbix.com/breton-quiz/) — Instantly test your Breton vocabulary, verb conjugations, and phrase knowledge. Free, interactive language quiz in your browser. Start testing your Breton now.
+- [Test Your Dutch Vocabulary & Grammar — Free Quiz](https://cubbbix.com/dutch-quiz/) — Instantly test your Dutch vocabulary, verb conjugations, and phrase knowledge. Free, interactive language quiz in your browser. Start testing your Dutch now.
+- [Test Your Korean Vocabulary — Free Korean Level Quiz, TOPIK Practice & Placement Test](https://cubbbix.com/korean-quiz/) — Test your Korean vocabulary, grammar, Hangul, and honorifics with a free online Korean level quiz. Practice for TOPIK, explore official Korean tests, and check your approximate level.
+- [Test Your Norwegian Vocabulary & Grammar — Free Quiz](https://cubbbix.com/norwegian-quiz/) — Instantly test your Norwegian vocabulary, verb conjugations, and phrase knowledge. Free, interactive language quiz in your browser. Start testing your Norwegian now.
+- [Test Your Portuguese Vocabulary — Fast & Free Quiz](https://cubbbix.com/portuguese-quiz/) — Instantly test your Portuguese vocabulary, grammar, and phrase knowledge across skill levels. Free interactive language quiz in your browser. Take the quiz now.
+- [Test Your Russian Vocabulary — Fast & Free Quiz](https://cubbbix.com/russian-quiz/) — Instantly test your Russian vocabulary, Cyrillic phrases, and grammar skills online. Free interactive language quiz in your browser. Take the Russian quiz now.
+- [Test Your Visual Reaction Time — Fast & Free](https://cubbbix.com/reaction-time-test/) — Instantly measure your visual reaction speed in milliseconds with benchmark rankings. Free, fun online reaction speed test. Benchmark your reaction time now.
+- [Test Your WPM Typing Speed — Fast & Free Online](https://cubbbix.com/typing-speed-test/) — Instantly test your typing speed in Words Per Minute (WPM) and accuracy percentage with live timers. Free online typing speed test. Benchmark your WPM now.
 
 ---
 
 ## Entertainment Tools
-- [BPM Tap Counter](https://cubbbix.com/bpm-tap-counter/) — Tap along to any beat to find the exact BPM of a song in real time
-- [Tetris Game Online](https://cubbbix.com/tetris/) — Play the classic Tetris arcade game for free
-- [Cat Name Generator](https://cubbbix.com/cat-name-generator/) — Find the purr-fect name for your feline friend
-- [Christmas Countdown](https://cubbbix.com/christmas-countdown/) — Countdown to Christmas day
-- [Decision Wheel](https://cubbbix.com/decision-wheel/) — Spin the wheel to make random decisions with custom options
-- [Dog Age Calculator](https://cubbbix.com/dog-age-calculator/) — Convert your dog's age to human years using a science-based size-adjusted formula
-- [Dog Name Generator](https://cubbbix.com/dog-name-generator/) — Find the paw-fect name for your canine companion
-- [Fairy Name Generator](https://cubbbix.com/fairy-name-generator/) — Discover your magical fairy name
-- [Meme Generator](https://cubbbix.com/meme-generator/) — Create custom memes easily
-- [Random Movie Picker](https://cubbbix.com/movie-picker/) — Get random movie recommendations
-- [Stroop Effect Test](https://cubbbix.com/stroop-effect-test/) — Test your brain's processing speed and selective attention
-- [Trivia Quiz](https://cubbbix.com/trivia-quiz/) — Test your knowledge with trivia questions
-- [Vibe Check Calculator](https://cubbbix.com/vibe-check-calculator/) — Answer 3 questions to discover your personalized vibe for the day
-- [Sun, Moon & Rising Sign Calculator](https://cubbbix.com/sun-moon-rising-calculator/) — Discover your Big Three astrological signs (Sun, Moon, and Ascendant) instantly.
-- [Yes / No Generator](https://cubbbix.com/yes-no-generator/) — Randomly generate Yes or No answers
-
----
-
-## Health
-- [ADHD Self-Test (ASRS-v1.1)](https://cubbbix.com/adhd-self-test/) — Take the free WHO Adult ADHD Self-Report Scale (ASRS-v1.1) screening test online. Based on peer-reviewed research by Kessler et al.
-- [mEq to mL Calculator](https://cubbbix.com/meq-to-ml-calculator/) — Convert between mEq and mL with custom or stock electrolyte strength (mEq/mL).
-- [Desk Height Calculator](https://cubbbix.com/desk-height-calculator/) — Calculate your perfect ergonomic sitting, standing, and monitor height.
+- [Biological Generation Calculator](https://cubbbix.com/generation-calculator/) — Instantly determine which generation (Millennial, Gen Z, Boomer) you belong to based on your birth year. Free online calculator.
+- [Calculate Dog Age — Free & Instant Pet Tool](https://cubbbix.com/dog-age-calculator/) — Instantly calculate your dog\'s age in human years accurately by breed. Free, private, and fast. Discover your pet\'s true age today.
+- [Calculate Vibe Check & Energy Score — Free Quiz](https://cubbbix.com/vibe-check-calculator/) — Instantly calculate your daily vibe score, aura energy, and mood rating with fun interactive questions. Free online vibe check quiz. Check your vibe now.
+- [CPS Test — Free & Instant Click Speed Tracker](https://cubbbix.com/click-speed-test/) — Instantly measure your Clicks Per Second (CPS) with our fast testing tool. Free, completely private, and fun. Test your gaming reflexes now.
+- [Create Custom Memes Online — Fast & Free Meme Maker](https://cubbbix.com/meme-generator/) — Instantly add custom captions, top text, and bottom text to popular meme templates or photos. Free online meme generator with instant download. Make funny memes now.
+- [Dice Roller & Coin Flipper](https://cubbbix.com/dice-roller/) — Roll 3D polyhedral dice (d4, d6, d8, d10, d12, d20, d100) or flip coins with 100% cryptographic fairness, D&D advantage, and sound effects.
+- [Find Your Mental Age & Generation — Free Quiz](https://cubbbix.com/mental-generation-quiz/) — Instantly discover whether your mindset is Gen Z, Millennial, Gen X, or Boomer. Fun, free interactive mental age quiz in your browser. Take the generation quiz now.
+- [Generate Cat Names — Free & Instant Pet Naming Tool](https://cubbbix.com/cat-name-generator/) — Instantly generate unique, cute, and funny names for your new cat. Free online tool with no signup. Find the perfect pet name today.
+- [Generate Dog Names — Free & Instant Pet Naming Tool](https://cubbbix.com/dog-name-generator/) — Instantly generate unique, cute, and funny names for your new puppy. Free online tool with no signup. Find the perfect dog name today.
+- [Generate Fairy Names — Free & Instant Fantasy Tool](https://cubbbix.com/fairy-name-generator/) — Instantly generate magical, mystical fairy names for your stories or games. Free online generator with no signup. Spark your imagination today.
+- [Play Classic Tetris Game Online — Free Browser Game](https://cubbbix.com/tetris/) — Instantly play retro block-stacking Tetris in your browser with high score tracking. 100% free, lightweight, no signup required. Play classic Tetris online now.
+- [Play General Knowledge Trivia Quiz — Fast & Free](https://cubbbix.com/trivia-quiz/) — Instantly test your general knowledge across history, science, pop culture, and geography. Free interactive online trivia game. Challenge your trivia skills now.
+- [Random Decision Wheel — Free Online Spinner](https://cubbbix.com/decision-wheel/) — Instantly make random choices by spinning a customizable wheel. Free, fun, and fully private. Let the wheel decide your fate right now.
+- [Random Movie Picker — Decide What to Watch Fast](https://cubbbix.com/movie-picker/) — Instantly pick a movie to watch based on genre, mood, streaming service, or rating. Free online random movie selector. Stop scrolling and pick a movie now.
+- [Random Yes or No Wheel & Decision Maker — Free](https://cubbbix.com/yes-no-generator/) — Instantly make quick decisions with a true random Yes or No generator wheel. Free, simple online decision maker for fast choices. Get a random Yes or No now.
+- [Take the Stroop Effect Reaction Test — Free Psychology Tool](https://cubbbix.com/stroop-effect-test/) — Instantly test cognitive speed and mental flexibility with the classic interactive Stroop Color Test. Free online psychology experiment. Test cognitive focus now.
+- [Tap BPM Counter — Instant, Free Online Tempo Tool](https://cubbbix.com/bpm-tap-counter/) — Instantly find the Beats Per Minute (BPM) of any song by tapping your spacebar. Free, private, and highly accurate. Measure tempo effortlessly.
+- [Wheel of Names](https://cubbbix.com/wheel-of-names/) — Customizable online spinning prize wheel for picking random names, raffle winners, and classroom decisions with sound effects, celebratory confetti, and winner elimination.
 
 ---
 
 ## Finance Tools
-- [50/30/20 Budget Calculator](https://cubbbix.com/50-30-20-budget-calculator/) — Split your after-tax income into Needs, Wants, and Savings automatically
-- [Auto Loan Early Payoff Calculator](https://cubbbix.com/early-payoff-calculator/) — Calculate savings from early loan payments
-- [Cat Food Cost Calculator](https://cubbbix.com/cat-food-cost-calculator/) — Estimate daily, monthly, and yearly feeding costs for your cat based on calories
-- [Compound Interest Calculator](https://cubbbix.com/compound-interest-calculator/) — Calculate compound interest with monthly contributions and visualize growth
-- [Convert CSV to OFX](https://cubbbix.com/csv-to-ofx/) — Convert bank CSV statements to OFX format for accounting software
-- [Crypto Risk Checker](https://cubbbix.com/crypto-risk-checker/) — Assess your crypto self-custody security score
-- [FICO Score Estimator](https://cubbbix.com/fico-score-estimator/) — Estimate your FICO score for free and understand the 5 core credit scoring factors
-- [Maaser Calculator](https://cubbbix.com/maaser-calculator/) — Calculate Jewish Ma'aser (10%) or Chomesh (20%) for Tzedakah.
-- [Ohio Paycheck Calculator](https://cubbbix.com/ohio-paycheck-calculator/) — Calculate your Ohio take-home pay after state and federal taxes
-- [SaaS LTV Calculator](https://cubbbix.com/ltv-calculator/) — Calculate Customer Lifetime Value (LTV) and Max Ad Spend (CAC)
-- [Severance Pay Calculator](https://cubbbix.com/severance-pay-calculator/) — Calculate Liquidación, Finiquito, Cesantías & Indemnización for Venezuela, Colombia, Mexico & more
-- [VAT Calculator](https://cubbbix.com/vat-calculator/) — Calculate Value Added Tax
-- [Zakat Calculator](https://cubbbix.com/zakat-calculator/) — Calculate Islamic Zakat easily
+- [Calculate 50/30/20 Budget — Instant, Free & Online](https://cubbbix.com/50-30-20-budget-calculator/) — Instantly divide your income into needs, wants, and savings using the 50/30/20 rule. 100% free and private browser tool. Plan your budget in seconds.
+- [Calculate Cat Food Cost — Free Monthly Budget Tool](https://cubbbix.com/cat-food-cost-calculator/) — Instantly estimate your monthly and yearly cat food expenses. Free, private, and easy to use. Plan your pet budget effortlessly.
+- [Calculate Compound Interest — Free Online Finance Tool](https://cubbbix.com/compound-interest-calculator/) — Instantly calculate compound interest to forecast your savings growth. Free, private, and fast in-browser tool. Plan your financial future today.
+- [Calculate Customer Lifetime Value (LTV) — Free Tool](https://cubbbix.com/ltv-calculator/) — Instantly compute Customer Lifetime Value (LTV) and CAC ratio for SaaS and e-commerce. Free online financial calculator with instant formulas. Measure customer LTV now.
+- [Calculate Maaser Tithe (10%) — Instant & Free](https://cubbbix.com/maaser-calculator/) — Instantly calculate Maaser (10% Jewish income tithe) on income and net earnings. Free, private, browser-based tithe calculator. Calculate your Maaser accurately now.
+- [Calculate Ohio Net Paycheck & Taxes — Free Estimator](https://cubbbix.com/ohio-paycheck-calculator/) — Instantly estimate take-home pay in Ohio after state, federal, and local municipal taxes. Free online Ohio paycheck tax calculator. Calculate your net pay now.
+- [Calculate Severance Pay & Package — Free Estimator](https://cubbbix.com/severance-pay-calculator/) — Instantly estimate severance pay entitlement based on years of service, salary, and employment law. Free online severance payment calculator. Estimate severance now.
+- [Calculate VAT Tax Add & Subtract — Instant & Free](https://cubbbix.com/vat-calculator/) — Instantly calculate Value Added Tax (VAT) amounts, gross prices, and net prices for any global VAT rate. Free online business tax calculator. Calculate VAT now.
+- [Convert CSV to OFX — Free Online Finance Tool](https://cubbbix.com/csv-to-ofx/) — Instantly convert bank CSV files into OFX format for accounting software. Free, secure, and 100% private in-browser tool. Manage finances easily.
+- [Crypto Risk Checker — Free Online Assessment Tool](https://cubbbix.com/crypto-risk-checker/) — Instantly evaluate the risk profile of your cryptocurrency investments. Free, private, and educational. Make smarter trading decisions today.
+- [Dubai Gratuity Calculator 2026](https://cubbbix.com/gratuity-calculator-dubai/) — Instantly calculate your end of service gratuity pay for Dubai and the UAE based on local labor laws. Free online calculator.
+- [Early Payoff Calculator — Free Instant Finance Tool](https://cubbbix.com/early-payoff-calculator/) — Instantly calculate how much you save by paying off loans early. Free, private, and fast. Plan your debt-free journey today.
+- [Estimate FICO Score — Free Instant Credit Calculator](https://cubbbix.com/fico-score-estimator/) — Instantly estimate your FICO credit score safely and securely. Free, completely private in-browser finance tool. Plan your credit today.
+- [Quotation & Receipt Generator](https://cubbbix.com/quotation-receipt-generator/) — Create and customize professional price quotations, proforma invoices, and payment receipts in PDF. Multi-currency, custom VAT/tax rates, digital signatures, and 100% private.
+- [Saudi End-of-Service Calculator](https://cubbbix.com/saudi-eos-calculator/) — Calculate your exact Saudi End-of-Service Award (مكافأة نهاية الخدمة) in SAR under Saudi Labour Law (Articles 84, 85, 87, 88) & Qiwa rules for resignation and termination.
+- [Saudi GOSI & Net Salary Calculator](https://cubbbix.com/gosi-salary-calculator/) — Calculate your exact GOSI deductions (9.75% / 21.5%), employer contributions, and net monthly take-home salary in Saudi Arabia under current and 2024 Social Insurance laws.
+- [Saudi VAT Registration Checker](https://cubbbix.com/saudi-vat-registration-check/) — Check if your business must register for 15% VAT with ZATCA in Saudi Arabia under mandatory 375k SAR, voluntary 187.5k SAR, and rolling 12-month rules.
+
+---
+
+## Health & Fitness
+- [Blood Sugar Converter](https://cubbbix.com/blood-sugar-converter/) — Convert blood glucose levels between mg/dL and mmol/L instantly, calculate HbA1c and Estimated Average Glucose (eAG), and view clinical target ranges.
+- [Bra Size Chart — Free & Instant Fitting Guide](https://cubbbix.com/bra-size-chart/) — Instantly find your perfect bra size with our comprehensive chart. Free, private, and easy to use. Discover your perfect fit today.
+- [Convert mEq to mL Instantly — Medical Dosage Tool](https://cubbbix.com/meq-to-ml-calculator/) — Instantly convert milliequivalents (mEq) to milliliters (mL) for liquid medications and electrolytes. Free online medical dosing conversion tool. Calculate mEq to mL now.
+- [Ergonomic Desk Height Calculator — Free & Instant Tool](https://cubbbix.com/desk-height-calculator/) — Instantly find the perfect ergonomic desk and chair height based on your size. Free, private health tool. Improve your posture today.
+- [Free ADHD Self-Test — Instant Online Assessment](https://cubbbix.com/adhd-self-test/) — Take a quick, free ADHD self-assessment based on standard checklists. 100% private, no signup required. Get instant insights securely in your browser.
+- [Kids Shoe Size Chart & Calculator](https://cubbbix.com/kids-shoe-size-chart/) — Instantly convert children\'s shoe sizes across US, UK, EU, and CM measurements. Free online sizing guide. Find the right fit instantly.
 
 ---
 
 ## Home & Garden
-- [Mulch & Soil Calculator](https://cubbbix.com/mulch-calculator/) — Estimate mulch and soil for garden beds
-- [Plant Spacing Calculator](https://cubbbix.com/plant-spacing-calculator/) — Square (Grid) vs Triangular (Staggered) spacing
-- [Vegetable Planting Calendar](https://cubbbix.com/planting-calendar/) — Custom garden schedule based on frost dates
+- [Calculate Garden Plant Spacing — Fast & Free](https://cubbbix.com/plant-spacing-calculator/) — Instantly calculate required plant quantities and row spacing for garden beds and farms. Free online plant layout estimator. Calculate plant spacing now.
+- [Calculate Mulch Needed in Cubic Yards — Free Tool](https://cubbbix.com/mulch-calculator/) — Instantly calculate how many cubic yards and bags of mulch you need for gardens or landscaping. Free online soil and mulch coverage tool. Estimate mulch now.
+- [Garden Planting Calendar & Schedule — Free Tool](https://cubbbix.com/planting-calendar/) — Instantly determine optimal seed starting and transplant dates based on your frost zone. Free online gardening and crop calendar. Plan your garden planting now.
+
+---
+
+## Image Tools
+- [Add Rainbow Filter to Image](https://cubbbix.com/add-rainbow-filter-to-image/) — Add rainbow gradients, prism effects, and Pride flag overlays to any photo online with photographic blend modes.
+- [Change Horizontal Image to Vertical Image](https://cubbbix.com/change-horizontal-image-to-vertical-image/) — Convert horizontal landscape images into vertical portrait images for TikTok, Instagram Reels, and Stories without cropping.
+- [Download Black Image — Fast, Free & Instant](https://cubbbix.com/black-image-download/) — Instantly generate and download pure black backgrounds or images in any size. Free, private, and no signup needed. Get your blank canvas instantly.
+- [Pixelate Image](https://cubbbix.com/pixelate-image/) — Pixelate photos online or censor specific areas like faces and license plates with interactive drag-and-resize controls.
+- [Resize Pixel](https://cubbbix.com/resize-pixel/) — Resize image pixel dimensions online for free. Scale by exact width and height in pixels, maintain aspect ratio, or choose presets for social media.
 
 ---
 
 ## Math Tools
-- [Binomial Distribution Calculator](https://cubbbix.com/binomial-distribution-calculator/) — Calculate binomial probabilities
-- [Partial Derivative Calculator](https://cubbbix.com/partial-derivative-calculator/) — Calculate partial derivatives with steps
-- [Significant Figures Calculator](https://cubbbix.com/sig-figs-calculator/) — Solve math expressions and round results to any number of significant figures. Supports arithmetic, logs, and exponents.
-- [Variance Calculator](https://cubbbix.com/variance-calculator/) — Calculate statistical variance
+- [Calculate Binomial Distribution — Free Math Tool](https://cubbbix.com/binomial-distribution-calculator/) — Instantly solve binomial distribution probabilities for math and statistics. Free, private, and works in your browser. Get accurate results instantly.
+- [Calculate Number Sum](https://cubbbix.com/calculate-number-sum/) — Calculate the sum of numbers, running total, and statistical summary online. Auto-extracts numbers from text or parses custom delimiters.
+- [Calculate Partial Derivatives — Free Math Solver](https://cubbbix.com/partial-derivative-calculator/) — Instantly compute first and second partial derivatives wrt x, y, or z with step-by-step logic. Free online multivariable calculus solver. Calculate derivatives now.
+- [Calculate Sample & Population Variance — Free Tool](https://cubbbix.com/variance-calculator/) — Instantly compute sample variance, population variance, standard deviation, and mean for data sets. Free online statistics calculator. Compute variance now.
+- [Calculate Significant Figures & Rounding — Instant & Free](https://cubbbix.com/sig-figs-calculator/) — Instantly count significant figures and perform sig fig addition, subtraction, multiplication, and division. Free online math tool. Calculate sig figs now.
 
 ---
 
 ## Media Tools
-- [Add Noise to Image](https://cubbbix.com/add-noise/) — Emulate classic film grain or add TV static noise
-- [Adjust Image Gamma](https://cubbbix.com/adjust-gamma/) — Adjust the gamma curve to correct midtones
-- [Aspect Ratio Calculator](https://cubbbix.com/aspect-ratio-calculator/) — Maintain image and video ratios  
-- [Audio Translator](https://cubbbix.com/audio-translator/) — Record voice, get speech-to-text transcription, and translate between languages
-- [Black Image Download](https://cubbbix.com/black-image-download/) — Download solid black PNG images in multiple resolutions
-- [Censor Photo Online](https://cubbbix.com/censor-photo/) — Blur, pixelate or censor parts of a photo to hide faces or plates
-- [Change Image Brightness](https://cubbbix.com/change-brightness/) — Increment or decrement the brightness of any image
-- [Change Image Contrast](https://cubbbix.com/change-contrast/) — Increment or decrement the contrast of any image
-- [Change Image Exposure](https://cubbbix.com/change-exposure/) — Adjust the exposure of any image to fix lighting issues
-- [Change Image Saturation](https://cubbbix.com/change-saturation/) — Increment or decrement the saturation of any image
-- [Clip Image Online](https://cubbbix.com/clip-image/) — Crop images to circles, triangles, or rounded shapes
-- [Compress Image Online](https://cubbbix.com/compress-image/) — Compress JPG, PNG, WebP, HEIC, SVG or GIF online without losing quality
-- [Compress JPEG](https://cubbbix.com/compress-jpeg/) — Compress JPEG images online to reduce file size
-- [Country Flag Downloader](https://cubbbix.com/country-flag-downloader/) — Download high-quality flags in SVG, PNG, JPG, or WebP
-- [Darken Image Online](https://cubbbix.com/darken-image/) — Make an image darker or reduce brightness instantly
-- [Disappearing PNG Creator](https://cubbbix.com/disappearing-png-creator/) — Convert any PNG into an animated disappearing GIF
-- [Duotone Effect Online](https://cubbbix.com/duotone-effect/) — Apply stunning, two-color Spotify-style filters securely in your browser
-- [Favicon Generator](https://cubbbix.com/favicon-generator/) — Generate perfect favicons from all browsers (SVG, PNG, ICO)
-- [Flip Image Online](https://cubbbix.com/flip-image/) — Mirror photos horizontally, vertically, or both instantly
-- [Grayscale Image Online](https://cubbbix.com/grayscale-image/) — Convert an image to grayscale or desaturate its colors
-- [Image Filters Online](https://cubbbix.com/image-filters/) — Apply multiple image filters and effects in your browser
-- [Image Resizer](https://cubbbix.com/image-resizer/) — Resize images to exact dimensions or reduce file size
-- [Invert Image Colors](https://cubbbix.com/invert-image-colors/) — Quickly reverse the colors of any photo to create a negative effect
-- [JPG to ICO Converter](https://cubbbix.com/jpg-to-ico/) — Convert JPG, PNG, or any image to ICO favicon format online.
-- [Lighten Image Online](https://cubbbix.com/lighten-image/) — Make an image lighter or increase brightness instantly
-- [Loop Video](https://cubbbix.com/loop-video/) — Repeat short video clips and export a looped WebM file directly in your browser
-- [Merge Images Online](https://cubbbix.com/merge-images/) — Merge two images vertically or horizontally with custom border thickness and color
-- [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
-- [Overlay Images Online](https://cubbbix.com/overlay-images/) — Overlay, merge, and watermark two images with full blend mode control
-- [PNG Optimizer](https://cubbbix.com/png-optimizer/) — Compress PNG images without losing quality
-- [PNG Sequence Maker](https://cubbbix.com/png-sequence-maker/) — World's simplest online GIF to PNG sequence converter. Extract and arrange frames instantly.
-- [PNG Color Replacer](https://cubbbix.com/change-png-color/) — Instantly change and replace colors in any PNG image directly in your browser.
-- [Random Bitmap Generator](https://cubbbix.com/random-bitmap-generator/) — Generate random static and noise bitmaps instantly
-- [Remove PNG Chroma Key](https://cubbbix.com/remove-png-chroma-key/) — Free tool to remove chroma key (green screen or solid background) from images instantly
-- [Sepia Effect Online](https://cubbbix.com/sepia-effect/) — Give your photos a classic vintage warm look
-- [Shift Image Hue](https://cubbbix.com/add-hue/) — Spin the color wheel to completely shift image colors
-- [Split Image Online](https://cubbbix.com/split-image/) — Slice your photos into multiple pieces instantly, securely, and privately
-- [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon/) — Convert SVG icons to favicons
-- [Venn Diagram Generator](https://cubbbix.com/venn-diagram-generator/) — Create 2, 3, and 4-circle Venn diagrams online and export as PNG, JPEG, SVG
-- [WebP to PNG Converter](https://cubbbix.com/webp-to-png/) — Convert WebP images to PNG format instantly and privately.
-- [WebP Converter](https://cubbbix.com/webp-converter/) — Convert images to WebP format
-- [Webcam Test](https://cubbbix.com/webcam-test/) — Test your webcam and microphone online.
+- [Add Noise to Image — Instant & Free Grain Generator](https://cubbbix.com/add-noise/) — Add realistic noise or grain to your photos for a vintage look. Free, private, and processes directly in your browser. Try our instant noise filter.
+- [Adjust Image Brightness — Free & Instant Online Tool](https://cubbbix.com/change-brightness/) — Instantly brighten or darken any image directly in your browser. Free, 100% private, and requires no signup. Enhance your photos in seconds.
+- [Adjust Image Contrast — Fast, Free Online Editor](https://cubbbix.com/change-contrast/) — Instantly fix or enhance the contrast of any photo. Free, private, and processes entirely in your browser. Make your images pop instantly.
+- [Adjust Image Exposure — Free, Instant Online Tool](https://cubbbix.com/change-exposure/) — Instantly correct under or overexposed photos. Free, 100% private in-browser tool. Restore perfect lighting to your images instantly.
+- [Adjust Image Gamma — Free Online Color Correction](https://cubbbix.com/adjust-gamma/) — Instantly fix image lighting by adjusting gamma values. Free, fast, and completely private browser-based tool. Brighten or darken photos in seconds.
+- [Adjust Image Saturation — Free & Instant Color Tool](https://cubbbix.com/change-saturation/) — Instantly boost or reduce color saturation in your photos. Free, 100% private in-browser processing. Make colors vibrant or muted instantly.
+- [Apply Duotone Effect — Free & Instant Photo Filter](https://cubbbix.com/duotone-effect/) — Instantly apply stunning two-color duotone filters to your photos. Free, fully private in-browser image editor. Create trendy artwork instantly.
+- [Apply Sepia Filter to Photos — Fast & Free](https://cubbbix.com/sepia-effect/) — Instantly give photos a warm vintage sepia tone effect with live preview sliders. Free, browser-based image editor with zero server upload. Apply sepia filter now.
+- [Calculate Aspect Ratio — Fast & Free Online Tool](https://cubbbix.com/aspect-ratio-calculator/) — Instantly calculate and resize aspect ratios for images, video, and design. Free, private, and no signup needed. Get precise dimensions instantly.
+- [Censor Photos Online — Fast, Free & 100% Private](https://cubbbix.com/censor-photo/) — Instantly blur, pixelate, or black out sensitive parts of your photos. Free, fully in-browser processing guarantees total privacy. Protect your images.
+- [Change PNG Colors — Fast, Free Image Recolorer](https://cubbbix.com/change-png-color/) — Instantly replace or change colors in any PNG image. Free, fully private, and works offline in your browser. Recolor transparent graphics effortlessly.
+- [Clip Images Online — Fast, Free & Private Cropper](https://cubbbix.com/clip-image/) — Instantly crop, clip, or resize any photo to your exact specifications. Free, 100% private in-browser tool. Frame your pictures perfectly.
+- [Combine & Merge Images Online — Fast & Free](https://cubbbix.com/merge-images/) — Instantly merge multiple images side-by-side vertically or horizontally. Free, browser-based image stitcher with zero server upload. Combine your photos now.
+- [Compress & Optimize PNG Images Online — Free](https://cubbbix.com/png-optimizer/) — Free online compress & optimize png images online — free tool.
+- [Compress Images Online — Fast, Free & Private Tool](https://cubbbix.com/compress-image/) — Instantly shrink image file sizes without losing quality. Free, completely private in-browser compression. Optimize your photos in seconds.
+- [Compress JPEG Files — Free & Instant Online Optimizer](https://cubbbix.com/compress-jpeg/) — Instantly reduce the file size of your JPEG photos while maintaining quality. Free, private, and works directly in your browser. Compress your images now.
+- [Convert Images to WebP Format — Fast & Free](https://cubbbix.com/webp-converter/) — Instantly convert JPG, PNG, and GIF images to lightweight WebP format to accelerate website loading. Free online image converter. Convert images to WebP fast.
+- [Convert PDF to JPG Images Online — Fast & Free](https://cubbbix.com/pdf-to-jpg/) — Instantly convert PDF pages into high-resolution JPG images directly in your browser. 100% private PDF to image converter with zero server uploads. Convert PDF to JPG now.
+- [Convert SVG to Favicon ICO & PNG — Fast & Free](https://cubbbix.com/svg-to-favicon/) — Free online convert svg to favicon ico & png — fast & free tool.
+- [Convert WebP Images to PNG Online — Fast & Free](https://cubbbix.com/webp-to-png-converter/) — Instantly convert WebP image files into transparent, high-quality PNG format directly in your browser. 100% private WebP to PNG converter. Convert WebP files now.
+- [Create 2 & 3 Circle Venn Diagrams — Fast & Free](https://cubbbix.com/venn-diagram-generator/) — Instantly generate custom 2-circle and 3-circle Venn diagrams with custom labels and set intersections. Free online visual diagram maker. Create Venn diagrams fast.
+- [Create Disappearing PNGs — Free Instant Magic Tool](https://cubbbix.com/disappearing-png-creator/) — Instantly create magic PNG images that look different on dark and light backgrounds. Free, 100% private in-browser processing. Try it now.
+- [Create PNG Sprite Sheets & Sequences — Free Tool](https://cubbbix.com/png-sequence-maker/) — Instantly combine multiple PNG images into sprite sheets or animated sequence frames. Free browser-based game developer tool. Generate PNG sequences now.
+- [Darken Image Online — Fast, Free & Private Editor](https://cubbbix.com/darken-image/) — Instantly darken photos to improve exposure or create moody aesthetics. Free, 100% private in-browser processing. Adjust images instantly.
+- [Download Country Flags — Free Instant SVG/PNG Library](https://cubbbix.com/country-flag-downloader/) — Instantly download high-quality national flags in SVG or PNG formats. Free, fast, and no signup needed. Get the perfect flag asset now.
+- [Flip Image Online](https://cubbbix.com/flip-image/) — Instantly flip, mirror, or rotate your photos horizontally or vertically. Free, secure, in-browser tool. Flip your images instantly.
+- [Generate Favicons — Free & Instant Online Creator](https://cubbbix.com/favicon-generator/) — Free online generate favicons — free & instant online creator tool.
+- [Generate Random Bitmaps & Noise — Fast & Free](https://cubbbix.com/random-bitmap-generator/) — Instantly generate pixelated bitmap images, monochrome noise, and visual textures online. Free, browser-based developer graphics tool. Generate random bitmaps now.
+- [Grayscale Image Online](https://cubbbix.com/grayscale-image/) — Instantly convert your photos to grayscale or black and white. Free, secure, in-browser image processor. Convert images instantly.
+- [Image Filters Online](https://cubbbix.com/image-filters/) — Instantly apply stunning filters and effects to your photos. Free, secure, in-browser image editing tool. Enhance your images instantly.
+- [Image Resizer](https://cubbbix.com/image-resizer/) — Instantly crop, scale, and resize your images without losing quality. Free, fully private in-browser tool. Resize photos instantly.
+- [Invert Image Colors & B&W Negative](https://cubbbix.com/invert-image-colors/) — Turn photos into inverted black and white, create color negatives, convert documents to dark mode, and invert graphics with real-time canvas preview.
+- [JPG to ICO Converter](https://cubbbix.com/jpg-to-ico/) — Instantly convert JPEG images into ICO favicon files for your website or app. Free, secure, in-browser tool. Generate icons instantly.
+- [Lighten Image Online — Fast & Free Photo Brightener](https://cubbbix.com/lighten-image/) — Instantly brighten and lighten dark images online with smooth real-time preview. Free, client-side photo editor with no file upload limits. Lighten your photos now.
+- [Loop Video Online — Fast & Free Seamless Video Looper](https://cubbbix.com/loop-video/) — Instantly repeat and loop MP4 or WebM videos online without watermarks. Free, browser-based video looping tool. Create continuous looping videos fast.
+- [Overlay Images Online — Fast & Free Watermark Tool](https://cubbbix.com/overlay-images/) — Instantly layer and overlay two images with custom opacity and positioning in your browser. Free, private image overlay tool. Superimpose photos online now.
+- [Remove Green Screen & Background from PNG — Free](https://cubbbix.com/remove-png-chroma-key/) — Instantly erase solid color backgrounds and green screen chroma keying from PNG photos. Free, browser-based background remover. Transparent PNG maker.
+- [Reverse Audio Online — Fast & Free Backwards Sound](https://cubbbix.com/reverse-audio/) — Instantly flip and play MP3 or WAV audio tracks backwards online with zero quality loss. 100% private, browser-based audio reverser. Reverse your audio now.
+- [Shift Image Hue — Fast, Free Online Color Changer](https://cubbbix.com/add-hue/) — Instantly shift the hue of any image to change colors across the spectrum. Works in your browser with 100% privacy. Upload and transform for free.
+- [Split Image into Grids & Tiles Online — Fast & Free](https://cubbbix.com/split-image/) — Instantly cut and slice images into vertical, horizontal, or Instagram grid tiles online. Free, browser-based image splitter with zero server upload. Split photos now.
+- [Translate Audio — Fast, Free Online Voice Tool](https://cubbbix.com/audio-translator/) — Instantly translate spoken audio or voice notes into text. Free, private, and works directly in your browser. Break language barriers instantly.
 
 ---
 
 ## Productivity
-- [Crontab Generator](https://cubbbix.com/crontab-generator/) — Visual cron schedule editor for creating crontab syntax
-- [Email Permutator](https://cubbbix.com/email-permutator/) — Find email addresses by generating common name permutations
-- [Email Signature Generator](https://cubbbix.com/email-signature-generator/) — Create free professional email signatures
-- [Free Signature Generator](https://cubbbix.com/free-signature-generator/) — Draw a handwritten signature in your browser and download it as a PNG file
-- [Pomodoro Focus Timer](https://cubbbix.com/pomodoro-timer/) — Master your time with the Pomodoro Technique (25/5 intervals)
-- [Reading Time Calculator](https://cubbbix.com/reading-time-calculator/) — Estimate how long it takes to read any text
-- [Salary to Hourly Calculator](https://cubbbix.com/salary-to-hourly/) — Convert annual salary to hourly wage and vice versa
-- [Sleep Cycle Calculator](https://cubbbix.com/sleep-cycle-calculator/) — Calculate best wake up times based on sleep cycles
-- [Text Reverser](https://cubbbix.com/text-reverser/) — Reverse text, words, and characters instantly
-- [Time Zone Difference Calculator](https://cubbbix.com/time-zone-calculator/) — Compare global time zones
-- [Useless Meeting Cost Calculator](https://cubbbix.com/useless-meeting-cost-calculator/) — Calculate exactly how much money your company burns in useless meetings in real-time.
-- [Word Frequency Counter](https://cubbbix.com/word-frequency-counter/) — Count word frequency and analyze keyword density in any text
+- [Attendance Sheet Generator](https://cubbbix.com/attendance-sheet-generator/) — Printable school and workshop register supporting Sunday–Thursday GCC weeks, Monday–Friday schedules, and CSV export.
+- [Calculate Best Bedtime & Sleep Cycles — Fast & Free](https://cubbbix.com/sleep-cycle-calculator/) — Instantly calculate ideal sleep and wake times based on 90-minute REM sleep cycles. Free online sleep schedule estimator. Wake up refreshed every morning.
+- [Calculate Cost of Wasted Meetings — Free Tool](https://cubbbix.com/useless-meeting-cost-calculator/) — Instantly estimate financial dollars wasted during meetings based on attendee salaries and duration. Free online productivity cost estimator. Calculate meeting cost now.
+- [Convert Annual Salary to Hourly Rate — Free Tool](https://cubbbix.com/salary-to-hourly/) — Instantly convert annual salary into hourly, daily, weekly, and monthly take-home pay rates. Free online wage conversion calculator. Calculate hourly rate now.
+- [Convert Time Zones & World Clock — Instant & Free](https://cubbbix.com/time-zone-calculator/) — Instantly convert meeting times across EST, PST, GMT, UTC, IST, and global time zones. Free online time zone converter tool. Compare world time zones now.
+- [Create Email Signatures — Free Instant Generator](https://cubbbix.com/email-signature-generator/) — Instantly design professional email signatures for Gmail and Outlook. Free, private, and highly customizable. Upgrade your emails today.
+- [Crontab Generator — Free, Instant Cron Job Creator](https://cubbbix.com/crontab-generator/) — Instantly generate accurate crontab syntax for your server scheduled tasks. Free developer tool, no signup. Build cron jobs effortlessly.
+- [Free Signature Generator](https://cubbbix.com/free-signature-generator/) — Instantly design professional email signatures for Outlook, Gmail, and Apple Mail. Free online creator. Design your signature instantly.
+- [Generate Email Permutations — Free Instant Outreach Tool](https://cubbbix.com/email-permutator/) — Instantly generate professional email permutations for cold outreach. Free developer tool with no signup. Find the right contact effortlessly.
+- [ICS File Generator — Create iCal Events Online Free](https://cubbbix.com/ics-file-generator/) — Create .ics calendar files for Google, Outlook, and Apple Calendar instantly. Free, no signup required, works in your browser.
+- [Kanban Board](https://cubbbix.com/kanban-board/) — A simple, snappy, and 100% private to-do / doing / done Kanban board in the browser with drag-and-drop and CSV export.
+- [Online Pomodoro Timer & Work Tracker — Free](https://cubbbix.com/pomodoro-timer/) — Instantly boost productivity with customizable focus sessions, break timers, and audio chimes. Free, minimal online Pomodoro clock. Start focus sessions now.
 
 ---
 
-## SEO
-- [Backlink Checker](https://cubbbix.com/backlink-checker/) — Mini-Crawler that scans your partner's website to verify backlinks, anchor text, and rel attributes
-- [Broken Link Checker](https://cubbbix.com/broken-link-checker/) — Find and fix broken links (404s) on your website
-- [Compression Checker](https://cubbbix.com/compression-checker/) — Verify Gzip and Brotli compression
-- [Google SERP Simulator](https://cubbbix.com/google-serp-simulator/) — Optimize snippets with pixel-perfect desktop & mobile previews
-- [H1 Tag Checker](https://cubbbix.com/h1-tag-checker/) — Check your H1 tag for SEO compliance
-- [HTTPS Redirect Checker](https://cubbbix.com/https-redirect-checker/) — Verify if your website correctly redirects HTTP traffic to HTTPS
-- [Heading Tags Check (H1–H6)](https://cubbbix.com/heading-tags-check/) — Full H1–H6 heading hierarchy validator with structure score
-- [HTTP Status Code Checker](https://cubbbix.com/http-status-checker/) — Check status codes and redirect chains
-- [Image Alt Checker](https://cubbbix.com/image-alt-check/) — Scan any webpage for img alt attributes and check accessibility
-- [Keyword Density Checker](https://cubbbix.com/keyword-density/) — Analyze keyword frequency and density on any webpage
-- [Meta Description Generator](https://cubbbix.com/meta-description-generator/) — Generate SEO-friendly meta descriptions using AI
-- [Meta Description Checker](https://cubbbix.com/meta-description-checker/) — Check any website's meta description for presence, character length, and SEO quality
-- [Meta Title Checker](https://cubbbix.com/meta-title-checker/) — Check your webpage's meta title for optimal length
-- [Noindex Checker](https://cubbbix.com/noindex-checker/) — Check if a URL is indexable by search engines
-- [On-Page SEO Checker](https://cubbbix.com/onpage-seo-check/) — Get a free on-page SEO audit
-- [Open Graph Checker](https://cubbbix.com/open-graph-checker/) — Preview how your content looks on social media
-- [Page Size Checker](https://cubbbix.com/page-size-checker/) — Instantly measure the HTML document size of any webpage
-- [Page Title Generator](https://cubbbix.com/page-title-generator/) — Generate high-CTR page titles using AI
-- [Canonical Checker](https://cubbbix.com/canonical-checker/) — Check if your webpage has a valid rel="canonical" tag
-- [Redirect Checker](https://cubbbix.com/redirect-checker/) — Trace the full path of any URL. Discover hidden redirects, 301 vs 302 statuses, and find the true final destination.
-- [Robots.txt Checker](https://cubbbix.com/robots-txt-checker/) — Check if any website has a valid robots.txt file with crawl directives
-- [Robots.txt Generator](https://cubbbix.com/robots-txt-generator/) — Create robots.txt files to manage crawler access
-- [Sitemap Checker](https://cubbbix.com/sitemap-checker/) — Check if any website has a valid XML sitemap and verify its format
-- [Schema.org JSON-LD Generator](https://cubbbix.com/schema-generator/) — Generate structured data markup for better search results
-- [Structured Data Checker](https://cubbbix.com/structured-data-check/) — Validate JSON-LD and Microdata schema markup
-- [SSL/TLS Certificate Checker](https://cubbbix.com/ssl-checker/) — Check SSL certificate validity and security
-- [Domain Age Checker](https://cubbbix.com/domain-age-checker/) — Check the exact age of any domain name in years, months, and days.
-- [Friendly URL Checker](https://cubbbix.com/friendly-url-checker/) — Analyze any URL to see if it follows SEO-friendly best practices for readability and structure
-- [Viewport Meta Tag Checker](https://cubbbix.com/viewport-checker/) — Check viewport settings for mobile responsiveness
-- [XML Sitemap Generator](https://cubbbix.com/xml-sitemap-generator/) — Create XML sitemaps to help search engines index your site
-- [Responsive Image Checker](https://cubbbix.com/responsive-image-checker/) — Check if images on any webpage are correctly sized for their display dimensions. Find oversized images hurting LCP and Core Web Vitals.
-- [Favicon Checker](https://cubbbix.com/favicon-check/) — Check favicon link tags, /favicon.ico, Apple Touch Icon, web manifest icons, and theme-color on any website
-- [Content Length Checker](https://cubbbix.com/content-length-check/) — Check word count, reading time, paragraph structure, and heading depth on any webpage. Identify thin content before Google does.
-- [X-Robots-Tag Checker](https://cubbbix.com/x-robots-tag-checker/) — Inspect HTTP response headers to ensure search engines are indexing (or ignoring) your files and pages correctly.
+## Ramadan
+- [Calculate Islamic Zakat (2.5%) — Instant & Free](https://cubbbix.com/zakat-calculator/) — Instantly calculate your 2.5% Zakat obligation on gold, silver, savings, stocks, and net wealth based on current Nisab. Free, private Zakat calculator. Calculate Zakat accurately now.
+- [Find Qibla Direction Online — Instant Compass Tool](https://cubbbix.com/qibla-locator/) — Instantly find exact Kaaba Qibla direction from your current location using device GPS and compass. Free, precise online Qibla finder. Locate Qibla direction now.
 
 ---
 
-## Sports Tools
-- [FIFA 2026 Fixtures](https://cubbbix.com/fifa-2026-fixtures/) — Track FIFA 2026 World Cup fixtures, groups, and match schedule
-- [Net Run Rate Calculator](https://cubbbix.com/nrr-calculator/) — Calculate NRR for cricket tournaments like the T20 World Cup
+## SEO Tools
+- [Audit On-Page SEO Instantly — Free Webpage Checker](https://cubbbix.com/onpage-seo-check/) — Instantly audit headings, meta tags, images, links, and mobile readiness on any webpage URL. Free, fast on-page SEO analyzer. Audit your website SEO now.
+- [Audit Robots.txt Directives — Free SEO Syntax Tool](https://cubbbix.com/robots-txt-checker/) — Instantly validate robots.txt syntax, disallow rules, user-agents, and crawler permissions. Free technical SEO robots file checker. Test your robots.txt file now.
+- [Audit XML Sitemap Errors & Links — Free SEO Tool](https://cubbbix.com/sitemap-checker/) — Instantly inspect XML sitemaps for broken links, syntax errors, and missing URL tags. Free online technical SEO sitemap auditor. Check your XML sitemap now.
+- [Check Broken Links — Fast, Free Online SEO Tool](https://cubbbix.com/broken-link-checker/) — Instantly scan any webpage for broken links and 404 errors. Free SEO tool with no signup. Improve your site health and rankings instantly.
+- [Check Canonical Tags — Free Online SEO Tool](https://cubbbix.com/canonical-checker/) — Instantly verify canonical tags on any webpage for SEO. Free developer tool with no signup required. Avoid duplicate content issues easily.
+- [Check Content Length — Free & Instant SEO Tool](https://cubbbix.com/content-length-check/) — Instantly measure the word and character count of any web page. Free SEO tool with no signup required. Optimize your content length instantly.
+- [Check Deprecated HTML Tags — Free Online Dev Tool](https://cubbbix.com/deprecated-tags-checker/) — Instantly scan your code for outdated or deprecated HTML tags. Free, private in-browser developer tool. Modernize your codebase in seconds.
+- [Check Domain Age — Fast & Free Online SEO Tool](https://cubbbix.com/domain-age-checker/) — Instantly find out how old any website or domain name is. Free SEO tool with no signup required. Analyze competitor domains effortlessly.
+- [Check Domain Rating — Free Instant Website SEO Tool](https://cubbbix.com/domain-rating-checker/) — Instantly check the domain authority and rating of any URL. Free SEO tool for marketers and webmasters. Analyze backlink strength today.
+- [Check Lazy Loading on Webpages — Free SEO Tool](https://cubbbix.com/lazy-loading-checker/) — Instantly inspect lazy loading tags for images and iFrames across any URL. Free, fast browser tool for Web Vitals and SEO audit. Optimize page performance now.
+- [Check Meta Description Length & Pixel Width — Free SEO Tool](https://cubbbix.com/meta-description-checker/) — Instantly analyze meta description length, word count, and Google SERP pixel width. Free online SEO snippet preview tool. Optimize your meta descriptions now.
+- [Check Responsive Image Breakpoints — Free SEO Tool](https://cubbbix.com/responsive-image-checker/) — Instantly analyze srcset attributes, picture tags, and display sizes across mobile devices. Free technical SEO image auditor. Test responsive images now.
+- [Check Robots Noindex Tag on Webpages — Free SEO Tool](https://cubbbix.com/noindex-checker/) — Instantly verify if a web page has a meta noindex tag or X-Robots-Tag blocking search engines. Free online technical SEO checker. Test indexing status now.
+- [Check Screen Viewport Size & DPR — Fast & Free](https://cubbbix.com/viewport-checker/) — Instantly inspect current browser viewport width, height, aspect ratio, screen resolution, and Device Pixel Ratio (DPR). Free developer tool. Check viewport size now.
+- [Check SSL/TLS Certificate Validity & Expiration — Free](https://cubbbix.com/ssl-checker/) — Instantly inspect domain SSL certificate expiration dates, issuer trust, and TLS security settings. Free online technical SEO security checker. Verify SSL status now.
+- [Check Text Differences — Fast & Free Online Diff Tool](https://cubbbix.com/diff-checker/) — Instantly compare two text files or code snippets for differences. Free, private, and works offline in your browser. Find code changes instantly.
+- [Check Title Tag Pixel Width & Length — Free SEO Tool](https://cubbbix.com/meta-title-checker/) — Instantly test webpage title tag length and SERP preview cutoff against Google guidelines. Free online SEO audit tool. Optimize your page titles now.
+- [Check Webpage File Size & Assets — Free Performance Tool](https://cubbbix.com/page-size-checker/) — Instantly measure total web page download weight in KB/MB including scripts, CSS, and images. Free online site speed and size auditor. Check webpage size now.
+- [Check Website Backlinks — Free, Fast SEO Tool](https://cubbbix.com/backlink-checker/) — Instantly analyze inbound links for any domain or URL. Free SEO tool with no signup required. Discover your backlink profile in seconds.
+- [Check Website Favicons — Fast & Free Online Tool](https://cubbbix.com/favicon-check/) — Instantly fetch, view, and verify the favicon of any website. Free developer tool with no signup required. Analyze site icons effortlessly.
+- [Check WWW vs Non-WWW Redirects — Free SEO Tool](https://cubbbix.com/www-redirect-checker/) — Instantly verify canonical redirects between www and non-www domain versions to prevent duplicate content issues. Free technical SEO checker. Test www redirects now.
+- [Check X-Robots-Tag HTTP Headers — Free SEO Tool](https://cubbbix.com/x-robots-tag-checker/) — Instantly inspect HTTP response headers for X-Robots-Tag (noindex, nofollow, noarchive) directives. Free online technical SEO auditor. Test X-Robots headers now.
+- [Core Web Vitals Checker — Fast & Free Online Tool](https://cubbbix.com/core-web-vitals-checker/) — Instantly test your website\'s Core Web Vitals and page speed performance. Free SEO developer tool. Diagnose loading issues instantly.
+- [Developer Reality Check](https://cubbbix.com/developer-reality-check/) — Free online developer reality check tool.
+- [Friendly URL Checker](https://cubbbix.com/friendly-url-checker/) — Instantly verify if your URLs are SEO-friendly and properly formatted. Free online SEO tool. Check your URLs instantly.
+- [Generate Catchy Page Titles for SEO — Fast & Free](https://cubbbix.com/page-title-generator/) — Instantly generate high-CTR titles and headlines tailored for blogs, landing pages, and SEO. Free online title copywriting generator. Create SEO titles fast.
+- [Generate JSON-LD Schema Markup — Fast & Free SEO Tool](https://cubbbix.com/schema-generator/) — Instantly generate structured JSON-LD schema for Articles, FAQ, LocalBusiness, and Products. Free online Google rich snippet generator. Create schema markup fast.
+- [Generate Meta Descriptions for SEO — Fast & Free](https://cubbbix.com/meta-description-generator/) — Instantly craft click-worthy SEO meta descriptions under Google\'s 160-character limit. Free online copywriting tool for web pages. Write SEO meta tags fast.
+- [Generate Robots.txt File for SEO — Fast & Free](https://cubbbix.com/robots-txt-generator/) — Instantly generate custom robots.txt files to block search crawlers or allow site indexing. Free online SEO tool with one-click download. Create robots.txt fast.
+- [Generate XML Sitemap for Google — Fast & Free](https://cubbbix.com/xml-sitemap-generator/) — Instantly build XML sitemaps for website pages with priority, change frequency, and lastmod tags. Free online SEO sitemap generator. Create XML sitemaps fast.
+- [Google SERP Simulator](https://cubbbix.com/google-serp-simulator/) — Instantly preview how your title tags and meta descriptions look in Google search results. Free online SEO tool. Optimize your snippets now.
+- [GZIP/Brotli Compression Checker — Free SEO Tool](https://cubbbix.com/compression-checker/) — Instantly check if your website has GZIP or Brotli compression enabled. Free developer tool with no signup. Speed up your site loading time.
+- [H1 Tag Checker](https://cubbbix.com/h1-tag-checker/) — Instantly extract and analyze H1 tags from any webpage for SEO optimization. Free online tag checker. Improve your rankings today.
+- [Heading Tags Check (H1-H6)](https://cubbbix.com/heading-tags-check/) — Instantly check all H1-H6 heading tags on a webpage to ensure proper SEO structure. Free online validator. Optimize your headings now.
+- [HTTP Status Code Checker](https://cubbbix.com/http-status-checker/) — Instantly check the HTTP response status codes and headers for any URL. Free online developer tool. Troubleshoot responses instantly.
+- [HTTPS Redirect Checker](https://cubbbix.com/https-redirect-checker/) — Instantly verify if your website properly redirects HTTP traffic to secure HTTPS. Free online SEO and security validator.
+- [Image Alt Checker](https://cubbbix.com/image-alt-check/) — Instantly scan webpages to find missing or unoptimized image alt attributes. Free online SEO checker. Improve accessibility today.
+- [Keyword Density Checker](https://cubbbix.com/keyword-density/) — Instantly analyze text or webpages to calculate the frequency and density of your focus keywords. Free online SEO optimization tool.
+- [Preview Social Media Share Cards — Free SEO Tool](https://cubbbix.com/social-preview-checker/) — Instantly preview how web pages look when shared on Twitter (X), Facebook, LinkedIn, and Slack. Free online social card previewer. Optimize link previews now.
+- [Test Open Graph & Social Media Tags — Free SEO Tool](https://cubbbix.com/open-graph-checker/) — Instantly preview social sharing cards for Twitter, Facebook, and LinkedIn URL metadata. Free online Open Graph tag auditor. Preview social link previews now.
+- [Test Password Strength & Entropy — Free Security Tool](https://cubbbix.com/password-strength-checker/) — Instantly evaluate password security score, crack time, and weakness vulnerability offline in your browser. Free, zero-knowledge password auditor. Test password strength now.
+- [Trace URL Redirect Chains (301/302) — Free SEO Tool](https://cubbbix.com/redirect-checker/) — Instantly follow HTTP redirect paths, 301/302 status codes, and final destination URLs. Free online technical SEO redirect checker. Audit URL redirects fast.
+- [Validate Structured Data & Schema JSON-LD — Free Tool](https://cubbbix.com/structured-data-check/) — Instantly test schema markup, JSON-LD, and Microdata for rich snippet errors against Google standards. Free online technical SEO auditor. Validate structured data now.
+
+---
+
+## Sikhism
+- [Dasvandh Calculator — Free & Instant Online Tool](https://cubbbix.com/dasvandh-calculator/) — Instantly calculate your 10% Dasvandh charitable contribution based on your income. Free, private, and easy to use. Calculate your giving accurately.
 
 ---
 
 ## Social Media Tools
-- [CPM Calculator](https://cubbbix.com/cpm-calculator/) — Cost per thousand impressions  
-- [Engagement Rate Calculator](https://cubbbix.com/social-media-engagement-calculator/) — Measure social media engagement  
-- [Instagram Font Generator](https://cubbbix.com/instagram-font-generator/) — Generate aesthetic fonts for Instagram bios and captions
-- [Instagram Reel Downloader](https://cubbbix.com/instagram-reel-downloader/) — Download Instagram Reels without watermark
-- [Pinterest Pin Downloader](https://cubbbix.com/pinterest-pin-downloader/) — Download individual Pinterest pins with a free account. Paste one URL, grab the original file, and keep metadata.
-- [Wedding Hashtag Generator](https://cubbbix.com/wedding-hashtag-generator/) — Generate creative and witty wedding hashtags
-- [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/) — Download high-quality YouTube thumbnails
-- [YouTube Subscriber Counter](https://cubbbix.com/youtube-subscriber-counter/) — Track live subscriber counts, total views, and video counts for any YouTube channel
-- [YouTube RPM Calculator](https://cubbbix.com/youtube-rpm-calculator/) — Estimate earnings by country (Venezuela 2026 rates) and niche
+- [Calculate Social Media Engagement Rate — Free Tool](https://cubbbix.com/social-media-engagement-calculator/) — Instantly compute engagement rates for Instagram, TikTok, YouTube, and Twitter posts or profiles. Free online social media metric tool. Measure engagement now.
+- [Calculate YouTube RPM & Ad Earnings — Free Tool](https://cubbbix.com/youtube-rpm-calculator/) — Instantly estimate YouTube Revenue Per Mille (RPM), CPM rates, and channel ad revenue payouts. Free online YouTube earnings calculator. Calculate YouTube RPM now.
+- [CPM Calculator — Free & Instant Ad Revenue Tool](https://cubbbix.com/cpm-calculator/) — Instantly calculate Cost Per Mille (CPM), impressions, or total ad cost. Free, fast marketing calculator. Plan your advertising budget today.
+- [Download Pinterest Pins & Videos — Fast & Free](https://cubbbix.com/pinterest-pin-downloader/) — Instantly save high-resolution Pinterest photos, GIFs, and MP4 videos directly to your device. Free online Pinterest downloader with no signup. Download pins now.
+- [Download YouTube Video Thumbnails (HD, 4K) — Free](https://cubbbix.com/youtube-thumbnail-downloader/) — Instantly extract and download high-resolution HD and 4K cover image thumbnails from any YouTube video URL. Free online thumbnail downloader. Save thumbnails now.
+- [Generate Catchy Wedding Hashtags — Fast & Free](https://cubbbix.com/wedding-hashtag-generator/) — Instantly craft personalized, cute, and clever wedding hashtags using the couple\'s names and wedding date. Free online hashtag generator. Create wedding hashtags now.
+- [Instagram Font Generator](https://cubbbix.com/instagram-font-generator/) — Instantly create aesthetic, cool fonts and text styles for your Instagram bio and captions. Free online generator. Stand out today.
+- [Instagram Reel Downloader](https://cubbbix.com/instagram-reel-downloader/) — Instantly save and download Instagram Reels directly to your device in high quality. Free online downloader. Save videos instantly.
+- [Real-Time YouTube Live Subscriber Counter — Free](https://cubbbix.com/youtube-subscriber-counter/) — Instantly track live YouTube channel subscriber counts with real-time updates and channel stats. Free online live sub counter. Track subscriber count now.
+
+---
+
+## Sports Tools
+- [Calculate Net Revenue Retention (NRR) — Free SaaS Tool](https://cubbbix.com/nrr-calculator/) — Instantly compute Net Revenue Retention (NRR) and Net Churn rate for SaaS businesses. Free online financial metrics calculator. Measure revenue retention now.
+- [FIFA 2026 Fixtures — Free & Instant World Cup Schedule](https://cubbbix.com/fifa-2026-fixtures/) — Instantly view the latest FIFA 2026 World Cup fixtures, dates, and matches. Free, fast sports reference. Track the tournament seamlessly.
+
+---
+
+## Text Tools
+- [Analyze Word Frequency & Density — Fast & Free](https://cubbbix.com/word-frequency-counter/) — Instantly calculate most frequent words, keyword density, and phrase occurrences in your text. Free online text analyzer for writers and SEOs. Analyze word frequency now.
+- [Calculate Article Reading Time — Fast & Free Tool](https://cubbbix.com/reading-time-calculator/) — Instantly estimate reading and speaking time in minutes based on total word counts. Free online text estimation tool for writers and editors. Calculate reading time now.
+- [Client Text Summarizer](https://cubbbix.com/client-text-summarizer/) — Extract key bullet points, executive summaries, and action items from long text directly in your browser. 100% private client-side extractive summarizer with zero cloud uploads.
+- [Data Anonymizer](https://cubbbix.com/data-anonymizer/) — Strip and mask personal data (emails, phones, credit cards, names, SSNs, API keys) before sharing text with AI. 100% private in-browser PII redactor.
+- [Generate & Check Palindromes — Fast & Free Word Tool](https://cubbbix.com/palindrome-text-generator/) — Instantly detect palindrome words and generate custom palindrome phrases. Free online text analysis tool for writers and puzzle fans. Check palindromes now.
+- [Live Markdown Editor & Preview — Fast & Free](https://cubbbix.com/markdown-preview/) — Instantly write, edit, and preview Markdown side-by-side in your browser with real-time rendering. Free, client-side Markdown editor. Format your Markdown docs now.
+- [Remove Blank & Empty Lines from Text — Fast & Free](https://cubbbix.com/remove-empty-lines/) — Instantly strip out empty rows, blank lines, and whitespace from text documents or code. Free, fast browser-based line cleaner tool. Clean your text lines now.
+- [Remove Duplicate Lines from Text — Fast & Free](https://cubbbix.com/remove-duplicate-lines/) — Instantly clean up lists and remove duplicate lines, text items, or entries with case options. 100% private, browser-based text cleaner. Deduplicate text lists now.
+- [Remove Punctuation Online — Fast, Free Text Cleaner](https://cubbbix.com/remove-punctuation/) — Instantly strip all punctuation marks from your text online. Perfect for NLP processing, keyword extraction, or cleaning data. Free, secure, runs in browser.
+- [Remove Spaces & Whitespace from Text — Fast & Free](https://cubbbix.com/remove-spaces/) — Instantly strip extra spaces, line breaks, tabs, and leading/trailing whitespace from text. Free online text cleaner tool. Remove text spaces fast.
+- [Repeat Text & Spam Words Multiple Times — Free Tool](https://cubbbix.com/text-repeater/) — Instantly duplicate words, sentences, or emoji text strings up to 10,000 times with custom delimiters. Free online text repeater tool. Repeat text strings fast.
+- [Reverse Line Order in Text — Fast & Free Tool](https://cubbbix.com/reverse-lines/) — Instantly invert line ordering in any list or code file (bottom-to-top text flip). Free online developer text manipulation tool. Reverse line order fast.
+- [Reverse Words & Letters in Text — Fast & Free](https://cubbbix.com/reverse-words/) — Instantly flip word order or reverse letter characters within text strings online. Free online text reversing tool for writers. Reverse your text now.
+- [Word to Text Converter](https://cubbbix.com/docx-to-text/) — Extract clean plain text, Markdown, tables, and metadata from Microsoft Word (.docx, .docm) files in your browser.
 
 ---
 
 ## Travel Tools
-- [Flight Path Calculator](https://cubbbix.com/flight-path-calculator/) — Calculate flight distance and view route on a map
+- [Flight Path Calculator](https://cubbbix.com/flight-path-calculator/) — Instantly calculate flight distances and travel times between airports. Free online aviation calculator. Plan your flights instantly.
 
 ---
 
 ## Utilities
-- [Atomic Number Calculator](https://cubbbix.com/atomic-number-calculator/) — Find atomic number, protons, and mass of any element
-- [Barcode Generator](https://cubbbix.com/barcode-generator/) — Generate Code 39 barcodes instantly for labels and inventory
-- [Unicode to Bijoy Converter](https://cubbbix.com/bijoy-unicode-converter/) — Unicode to Bijoy converter and Bijoy to Unicode converter online for Bangla text, including Nikosh and Avro-style workflows.
-- [Color Converter & Picker](https://cubbbix.com/color-converter/) — Convert between HEX, RGB, HSL, and CMYK
-- [CMYK to Pantone Converter](https://cubbbix.com/cmyk-to-pantone-converter/) — Convert CMYK to Pantone color and Pantone to CMYK with nearest-match estimates for practical print workflows.
-- [Compress PDF](https://cubbbix.com/pdf-compressor/) — Reduce PDF file size online without losing quality
-- [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
-- [Excel to HTML Converter](https://cubbbix.com/excel-to-html/) — Convert Excel files (XLSX, XLS, CSV) to clean HTML tables
-- [EXIF Data Viewer](https://cubbbix.com/exif-data-viewer/) — View hidden photo metadata including camera settings, GPS coordinates, and timestamps
-- [Hours Ago Calculator](https://cubbbix.com/hours-ago-calculator/) — Calculate exactly what time it was a specific number of hours or minutes ago
-- [Image to Base64](https://cubbbix.com/image-to-base64/) — Convert any image to a base64 data URL instantly in your browser.
-- [Laundry Symbol Decoder](https://cubbbix.com/laundry-symbol-decoder/) — Decode clothing care tags instantly
-- [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
-- [Military Time Converter](https://cubbbix.com/military-time/) — Instantly convert between military (24-hour) and standard 12-hour AM/PM time formats, plus live clock
-- [Military Time Converter](https://cubbbix.com/military-time-converter/) — Instantly convert between military (24-hour) and standard 12-hour AM/PM time formats
-- [Temperature Converter](https://cubbbix.com/temperature-converter/) — Convert between Celsius, Fahrenheit, Kelvin, Rankine, Delisle, and more with live formulas and a reference chart
-- [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
-- [PDF Splitter & Extractor](https://cubbbix.com/pdf-splitter/) — Extract specific pages from any PDF instantly and securely in your browser
-- [Privacy Policy Generator](https://cubbbix.com/privacy-policy-generator/) — Generate a free, professional privacy policy for your website or app in seconds
-- [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
-- [QR Code Scanner](https://cubbbix.com/qr-code-scanner/) — Scan QR codes using your camera or uploaded images
-- [Random Number Generator](https://cubbbix.com/random-number-generator/) — Pick random numbers between any min and max values with unique, sort, and decimal options.
-- [WiFi QR Code Generator](https://cubbbix.com/wifi-qr-code-generator/) — Generate a scannable WiFi QR code so guests can join your network instantly
-- [Sample Audio Files](https://cubbbix.com/sample-audio-files/) — Download free sample audio files for testing and development
-- [Sample Document Files](https://cubbbix.com/sample-document-files/) — Download free sample document files (PDF, DOCX, XLSX, etc.) for testing
-- [Sample Image Files](https://cubbbix.com/sample-image-files/) — Download free sample image files in various formats for testing
-- [Sample Video Files](https://cubbbix.com/sample-video-files/) — Download free sample video files for testing and development
-- [Screen Recorder](https://cubbbix.com/screen-recorder/) — Record your screen, window, or tab with optional microphone audio directly in your browser
-- [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
-- [What Is My IP Address?](https://cubbbix.com/what-is-my-ip/) — Instant Public IPv4 & IPv6 Address Lookup
-- [White Screen](https://cubbbix.com/white-screen/) — Free fullscreen white screen tool for monitor cleaning, dead pixel detection, and display testing.
-- [Fake Word Generator](https://cubbbix.com/fake-word-generator/) — Generate pronounceable made-up words for brand names, fantasy terms, and creative projects.
-- [Gamertag Generator](https://cubbbix.com/gamertag-generator/) — Generate Xbox-style, random, and funny gamertags with offline browser-based patterns.
-- [Word Unscrambler](https://cubbbix.com/word-unscrambler/) — Instantly unscramble letters into valid English words for Scrabble and puzzles.
-- [Stopwatch & Timer](https://cubbbix.com/stopwatch-timer/) — Measure elapsed time with lap support or set a countdown timer with start, pause, and reset controls.
-- [Free Email Validator](https://cubbbix.com/email-validator/) — Verify email addresses in real-time. Checks syntax, domain MX records, disposable providers, and role accounts.
-- [Free Password Strength Checker](https://cubbbix.com/password-strength-checker/) — Test password security in your browser with real-time strength analysis and crack time estimates.
+- [Analyze Text for SEO Keywords — Fast & Free](https://cubbbix.com/seo-text-analyzer/) — Instantly analyze keyword density, reading level, character count, and word counts in web content. Free online SEO text optimization tool. Analyze content SEO now.
+- [Base64 to Image Converter](https://cubbbix.com/base64-to-image/) — Instantly convert and decode Base64 data strings back into downloadable images. Free, no signup, runs entirely in your browser for complete privacy.
+- [Bijoy to Unicode Converter — Free, Fast Online Tool](https://cubbbix.com/bijoy-unicode-converter/) — Instantly convert Bengali text between Bijoy and Unicode formats. Free, accurate, and 100% private in-browser tool. Translate your text effortlessly.
+- [Calculatrice Hypothécaire Suisse — Gratuit en Ligne](https://cubbbix.com/calculatrice-hypothecaire-suisse/) — Calculez instantanément votre prêt hypothécaire suisse. Outil gratuit, privé et sans inscription. Planifiez votre budget immobilier dès aujourd\'hui.
+- [Christmas Countdown — Free Online Holiday Timer](https://cubbbix.com/christmas-countdown/) — Instantly check exactly how many days, hours, and seconds are left until Christmas. Free, fast, and fun. Start the festive countdown now.
+- [Compress PDF File Size Online — Fast & Free](https://cubbbix.com/pdf-compressor/) — Instantly shrink PDF document size without losing text quality or layout formatting. 100% private, browser-based PDF optimizer with zero server uploads. Compress PDFs now.
+- [Convert Bytes — Instant, Free Data Size Calculator](https://cubbbix.com/byte-converter/) — Instantly convert data sizes between bytes, KB, MB, GB, and TB. Free, fast, and fully private in-browser tool. Calculate digital storage accurately.
+- [Convert Celsius, Fahrenheit & Kelvin — Instant & Free](https://cubbbix.com/temperature-converter/) — Instantly convert temperatures between Celsius (°C), Fahrenheit (°F), and Kelvin (K) with instant formula previews. Free online thermal converter. Convert temperature now.
+- [Convert Color Codes — Fast, Free Online Tool](https://cubbbix.com/color-converter/) — Instantly translate colors between HEX, RGB, HSL, and CMYK formats. Free, 100% private developer tool. Manage your design palettes instantly.
+- [Convert Excel to HTML — Free & Instant Table Tool](https://cubbbix.com/excel-to-html/) — Instantly transform Excel spreadsheet data into clean HTML tables. Free, fully private in-browser converter. Embed tables instantly.
+- [Convert Excel to PDF Online Free — Instant & 100% Private](https://cubbbix.com/excel-to-pdf/) — Instantly convert Excel spreadsheets (.xlsx, .xls, .csv) to high-quality PDF files in your browser. Filter by keywords, customize layout & styling. 100% free & private.
+- [Convert Measurement Units Online — Fast & Free](https://cubbbix.com/unit-converter/) — Instantly convert length, weight, volume, area, speed, and energy units with live formulas. Free, comprehensive online unit converter. Convert measurement units now.
+- [Convert Military Time to 12-Hour — Instant & Free](https://cubbbix.com/military-time-converter/) — Instantly convert 24-hour military time (e.g. 1400, 2130) to standard 12-hour AM/PM format. Free, easy online time conversion chart. Convert military time now.
+- [Convert Numbers to Spanish Words — Instant & Free](https://cubbbix.com/spanish-number-to-text/) — Instantly translate numbers into written Spanish words (e.g. 1500 -> mil quinientos). Free online Spanish grammar reference tool. Convert numbers to Spanish now.
+- [Convert PDF to Markdown Text — Fast & Free Converter](https://cubbbix.com/pdf-to-markdown/) — Instantly extract text and tables from PDF files into formatted Markdown code. Free, secure browser tool with instant copy and download. Convert PDF to Markdown now.
+- [Convert Text to Audio Speech Online — Fast & Free](https://cubbbix.com/text-to-speech/) — Instantly read text aloud using natural AI voice synthesis in multiple languages directly in your browser. Free, private text-to-speech generator. Listen to text now.
+- [Currency Converter — Free & Instant Exchange Rates](https://cubbbix.com/currency-converter/) — Instantly convert between global currencies using live exchange rates. Free, fast, and easy to use. Calculate foreign exchange seamlessly.
+- [Current Military Time Clock & Conversion Chart — Free](https://cubbbix.com/military-time/) — Instantly view current 24-hour military time, Zulu time zone, and complete conversion reference charts. Free, live online military clock tool. Check military time now.
+- [Decode Laundry Care Symbols — Instant Free Guide](https://cubbbix.com/laundry-symbol-decoder/) — Instantly decode washing, drying, and ironing laundry care symbols on clothing tags. Free online laundry symbol chart and decoder. Read care labels correctly now.
+- [Download Free Sample Audio Files — MP3, WAV, AAC](https://cubbbix.com/sample-audio-files/) — Instantly download free test sample audio files in MP3, WAV, AAC, and OGG formats for developers. Free royalty-free audio test files. Download sample audio now.
+- [Download Free Sample Document Files — PDF, DOCX, XLSX](https://cubbbix.com/sample-document-files/) — Instantly download sample test files in PDF, DOCX, XLSX, PPTX, and TXT for web testing. Free developer test document library. Download sample documents now.
+- [Download Free Sample Image Files — PNG, JPG, WebP](https://cubbbix.com/sample-image-files/) — Instantly download free sample images in PNG, JPG, WebP, SVG, and GIF formats in various sizes. Free test image download repository. Download sample images now.
+- [Download Free Sample Video Files — MP4, WebM, AVI](https://cubbbix.com/sample-video-files/) — Instantly download sample video test clips in MP4, WebM, AVI, and MOV resolutions (720p, 1080p, 4K). Free media test files for devs. Download sample videos now.
+- [Extract Emails from Text — Fast, Free & Private Tool](https://cubbbix.com/email-extractor/) — Instantly scrape and extract email addresses from any messy text. Free, completely private in-browser tool. Build your contact lists instantly.
+- [Gamertag Generator](https://cubbbix.com/gamertag-generator/) — Instantly create unique, cool, and catchy gamertags for Xbox, PlayStation, and PC gaming. Free online generator. Get your gamertag now.
+- [Generate Clean URL Slugs — Fast & Free SEO Tool](https://cubbbix.com/slug-generator/) — Instantly convert title text into SEO-friendly, lower-case URL slugs with hyphens. Free, private browser tool for content managers. Create URL slugs fast.
+- [Generate Custom QR Codes — Instant, Fast & Free](https://cubbbix.com/qr-code-generator/) — Instantly create QR codes for URLs, WiFi passwords, vCards, and text with custom colors and logos. Free online QR code maker. Generate your QR code fast.
+- [Generate Fake Words — Free Instant Vocabulary Tool](https://cubbbix.com/fake-word-generator/) — Instantly create realistic but completely fake words for creative projects. Free online generator with no signup. Invent new words instantly.
+- [Generate Free Website Privacy Policy — Instant Tool](https://cubbbix.com/privacy-policy-generator/) — Instantly generate customized, compliant privacy policies for websites, blogs, and mobile apps. 100% free online legal document generator. Create privacy policy fast.
+- [Generate Loneliness Quotes — Instant Inspiration & Comfort](https://cubbbix.com/loneliness-quotes-generator/) — Instantly discover relatable and comforting quotes on loneliness, solitude, and inner strength. Free online quote generator with one-click copy. Find quotes now.
+- [Generate Random Numbers Online — Instant & Free](https://cubbbix.com/random-number-generator/) — Instantly pick true random numbers, integers, or ranges with non-repeating options. Free, secure, client-side randomizer tool. Generate random numbers fast.
+- [Generate Strong Secure Passwords — Instant & Free](https://cubbbix.com/password-generator/) — Instantly generate randomized, cryptographically secure passwords with custom symbols and length. 100% private, client-side tool with zero server logging. Create passwords now.
+- [Generate WiFi QR Code for Instant Connect — Free](https://cubbbix.com/wifi-qr-code-generator/) — Instantly create a scannable QR code for guest WiFi networks (WPA/WPA2/WPA3) with hidden SSID support. Free online WiFi QR generator. Connect guests fast.
+- [How Rich Would You Be?](https://cubbbix.com/how-rich-if-started-earlier/) — Instantly calculate how much wealth you would have if you started investing earlier. Free online financial tool. See your lost compound interest.
+- [Image to Base64 Converter](https://cubbbix.com/image-to-base64/) — Instantly convert images into Base64 data URIs for embedding in HTML or CSS. Free, fast, client-side tool. Encode images instantly.
+- [Label Sheets Generator (Avery Compatible)](https://cubbbix.com/label-sheet-generator/) — Create and print custom address, shipping, and barcode label sheets matching standard Avery 5160, 5163, 5164, and L7160 layouts. Supports CSV mail merge, QR codes, and 100% exact scale vector PDF export.
+- [Merge Multiple PDF Files Online — Fast & Free](https://cubbbix.com/pdf-merge/) — Instantly combine multiple PDF documents into a single organized PDF file. Free, secure, client-side PDF joiner with zero server uploads. Combine PDF files fast.
+- [Online Precision Stopwatch with Laps — Fast & Free](https://cubbbix.com/stopwatch-timer/) — Instantly measure split times and laps with a clean, high-precision digital online stopwatch. Free, easy-to-use browser timer tool. Start timing laps now.
+- [Printable Paper Generator](https://cubbbix.com/printable-paper-generator/) — Create and download custom vector PDF templates for Dot Grid (Bullet Journal), Graph / Quad Grid, College Ruled, Isometric 3D, Music Staff, Cornell Notes, and Hexagonal paper at exact 100% scale.
+- [Record Screen & Audio Online — Fast & Free](https://cubbbix.com/screen-recorder/) — Instantly capture browser tabs, desktop windows, or webcam video with microphone audio. 100% private, browser-based screen recorder with zero uploads. Record screen now.
+- [Record Voice & Audio Online — Fast & Free](https://cubbbix.com/voice-recorder/) — Instantly record voice, dictation, and audio notes using your browser microphone with zero server uploads. Free online voice recorder. Record audio now.
+- [Reverse Text, Words & Letters — Instant & Free](https://cubbbix.com/text-reverser/) — Instantly flip characters, reverse sentence structures, or mirror text strings online. Free, fast browser-based text reversing tool. Reverse text characters now.
+- [Sample PDF Files](https://cubbbix.com/sample-pdf-files/) — Download free sample PDF files in 1–50 pages, 100KB to 10MB sizes, with tables, forms, and images for testing.
+- [Saudi Phone Number Formatter](https://cubbbix.com/saudi-phone-formatter/) — Format any Saudi phone number into E.164 (+966), local 05x, RFC tel, Arabic numerals, or instant WhatsApp chat links. Single & bulk cleaner with carrier detection.
+- [Scan QR Codes Online with Camera — Fast & Free](https://cubbbix.com/qr-code-scanner/) — Instantly read and scan QR codes from webcam video feeds or uploaded image files. 100% private, browser-based QR scanner. Scan QR code images instantly.
+- [Split PDF Pages Online — Fast & Free PDF Separator](https://cubbbix.com/pdf-splitter/) — Instantly extract specific pages or split large PDF files into separate documents online. Free, secure, browser-based PDF page splitter. Separate PDF pages now.
+- [Unscramble Words & Letters — Free Anagram Finder](https://cubbbix.com/word-unscrambler/) — Instantly solve jumbled letters and unscramble anagrams for Scrabble, Words with Friends, and word games. Free online word solver. Unscramble letters fast.
+- [Validate Email Addresses — Fast & Free Online Tool](https://cubbbix.com/email-validator/) — Instantly check if an email address is valid, formatted properly, and safe. Free, private verification tool. Clean your mailing list instantly.
+- [View EXIF Data — Fast, Free Online Photo Metadata Tool](https://cubbbix.com/exif-data-viewer/) — Instantly extract and view hidden EXIF metadata from any photo. Free, 100% private in-browser tool. Check camera settings instantly.
+- [What Is My IP Address? — Instant IPv4, IPv6 & Location](https://cubbbix.com/what-is-my-ip/) — Instantly look up your public IP address (IPv4/IPv6), ISP provider, city, and country location. 100% free, fast online IP lookup tool. Check your IP address now.
+- [White Screen Display — Bright Fullscreen & Monitor Test](https://cubbbix.com/white-screen/) — Instantly turn your screen into a clean white display for monitor dead pixel testing, light tracing, or room lighting. Free online white screen tool. Open white screen now.
 
 ---
 
@@ -481,6 +618,7 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [10 Common Computer Problems Small Businesses Face (And How to Avoid Them)](https://cubbbix.com/blog/10-common-computer-problems-small-businesses-face-and-how-to-avoid-them/) — Expert IT tips to prevent downtime, data loss, and cybersecurity risks for small businesses.
 - [10 Daily Habits That Improve Productivity Without Working Longer](https://cubbbix.com/blog/10-daily-habits-improve-productivity-without-working-longer/) — Science-backed habits for sustainable output, featuring Thrive Global's research on well-being and recovery.
 - [AI Regulation News July 2026: The August Reckoning, US Preemption Battle, and 15 Countries Update](https://cubbbix.com/blog/ai-regulation-news-july-2026-global-update/) — The third edition of our AI regulation series: EU August 2 enforcement deadline, US Senate preemption vote, China's July 15 companion AI rules, and updates from 15 countries.
+- [Top 10 French Learning Resources in 2026: The Definitive Guide](https://cubbbix.com/blog/top-french-learning-resources-2026/) — We researched and ranked the 10 best French learning resources for 2026, from Duolingo and Pimsleur to TV5MONDE and italki. Includes a practical study plan.
 
 ---
 
@@ -489,6 +627,17 @@ Cubbbix is a collection of fast, free, and privacy-friendly online tools designe
 
 Website: https://cubbbix.com  
 Careers: [Cubbbix Careers](https://cubbbix.com/careers.php)
+
+---
+
+## Content Writing Guidelines: Proof Over Adjectives (Show, Don't Tell)
+When building any tool or writing content, stop calling the product "premium", "luxury", "high quality", or "best in class". These words don't sell; they just hide the fact that you have no real proof.
+- Big words get ignored. Proof gets remembered.
+- Don't tell them it's fast. Tell them it saves two hours.
+- Don't tell them it's trusted. Tell them who trusted it.
+- Don't tell them it's durable. Show them what it survived.
+- Don't just say a car is silent. Say "At 60 miles an hour, the loudest sound in this car is the clock."
+People don't believe bigger words. They believe sharper proof.
 
 ---
 
